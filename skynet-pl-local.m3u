@@ -11,6 +11,10 @@ udp://@233.136.41.170:1234
 #EXTINF:-1,LRT Lituanica
 udp://@233.136.41.147:1234
 
+#HD
+#EXTINF:-1,LRT Kultūra
+udp://@225.2.226.67:1234
+
 #EXTINF:-1,LRT Kultūra
 udp://@233.136.41.171:1234
 
