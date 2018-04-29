@@ -598,73 +598,6 @@
     <display-name lang="lt">Sony Turbo Baltic</display-name>
     <url>http://www.tv24.lt</url>
   </channel>
-  <programme start="20180428020000 +0300" stop="20180428040000 +0300" channel="Viasat Sport Baltic">
-    <title lang="lt">Basketball: Real Madrid-Panathinaikos Superfoods Athens</title>
-    <title lang="xx">Basketball: Euroleague. Teams TBA</title>
-    <category lang="lt">Krepšinis</category>
-  </programme>
-  <programme start="20180428040000 +0300" stop="20180428055000 +0300" channel="Viasat Sport Baltic">
-    <title lang="lt">Programos pabaiga</title>
-    <title lang="xx">Football: Liverpool-Roma</title>
-    <category lang="lt">Futbolas</category>
-  </programme>
-  <programme start="20180428055000 +0300" stop="20180428062000 +0300" channel="Viasat Sport Baltic">
-    <title lang="lt">Futbolas. Premier lygos apžvalga</title>
-    <title lang="xx">Football: Premier League Preview</title>
-    <category lang="lt">Sportas</category>
-    <icon src="https://cdn.tvstart.com/img/programme//thumb/66879.jpg" />
-  </programme>
-  <programme start="20180428062000 +0300" stop="20180428065000 +0300" channel="Viasat Sport Baltic">
-    <title lang="lt">UEFA Čempionų lygos žurnalas</title>
-    <title lang="xx">Football: UEFA CL Magazine</title>
-    <category lang="lt">Futbolas</category>
-  </programme>
-  <programme start="20180428065000 +0300" stop="20180428085000 +0300" channel="Viasat Sport Baltic">
-    <title lang="lt">Basketball: Real Madrid-Panathinaikos Superfoods Athens</title>
-    <title lang="xx">Basketball: Euroleague. Teams TBA</title>
-    <category lang="lt">Krepšinis</category>
-  </programme>
-  <programme start="20180428085000 +0300" stop="20180428105000 +0300" channel="Viasat Sport Baltic">
-    <title lang="lt">Eurolyga</title>
-    <title lang="xx">Basketball: Euroleague. Teams TBA</title>
-    <category lang="lt">Krepšinis</category>
-  </programme>
-  <programme start="20180428105000 +0300" stop="20180428112000 +0300" channel="Viasat Sport Baltic">
-    <title lang="lt">Futbolas. Premier lygos apžvalga</title>
-    <title lang="xx">Football: Premier League Preview</title>
-    <category lang="lt">Sportas</category>
-    <icon src="https://cdn.tvstart.com/img/programme//thumb/66879.jpg" />
-  </programme>
-  <programme start="20180428112000 +0300" stop="20180428135000 +0300" channel="Viasat Sport Baltic">
-    <title lang="lt">Anglijos Premier lyga.”Liverpool” - ”Stoke”</title>
-    <title lang="xx">Football: Liverpool-Stoke</title>
-    <category lang="lt">Futbolas</category>
-  </programme>
-  <programme start="20180428135000 +0300" stop="20180428162000 +0300" channel="Viasat Sport Baltic">
-    <title lang="lt">Anglijos Premier lyga.”Crystal Palace” - ”Leicester”</title>
-    <title lang="xx">Football: Crystal Palace-Leicester</title>
-    <category lang="lt">Futbolas</category>
-  </programme>
-  <programme start="20180428162000 +0300" stop="20180428183000 +0300" channel="Viasat Sport Baltic">
-    <title lang="lt">Anglijos Premier lyga.”Swansea” - ”Chelsea”</title>
-    <title lang="xx">Football: Swansea-Chelsea</title>
-    <category lang="lt">Futbolas</category>
-  </programme>
-  <programme start="20180428183000 +0300" stop="20180428193500 +0300" channel="Viasat Sport Baltic">
-    <title lang="lt">Motosportas. Argentinos WRC lenktynės</title>
-    <title lang="xx">Motosport: WRC 2018 Argentina. Stage 2</title>
-    <category lang="lt">Sportas</category>
-  </programme>
-  <programme start="20180428193500 +0300" stop="20180428204000 +0300" channel="Viasat Sport Baltic">
-    <title lang="lt">Motosportas. Argentinos WRC lenktynės</title>
-    <title lang="xx">Motosport: WRC 2018 Argentina. Stage 3</title>
-    <category lang="lt">Sportas</category>
-  </programme>
-  <programme start="20180428204000 +0300" stop="20180429001000 +0300" channel="Viasat Sport Baltic">
-    <title lang="lt">Badmintonas. Europos čempionatas. Pusfinalis</title>
-    <title lang="xx">Badminton: 2018 European Championships From Huelva. 1/2 Finals</title>
-    <category lang="lt">Sportas</category>
-  </programme>
   <programme start="20180429001000 +0300" stop="20180429013500 +0300" channel="Viasat Sport Baltic">
     <title lang="lt">Premier lygos apžvalga</title>
     <title lang="xx">Football: Premier League Review</title>
@@ -909,169 +842,82 @@
     <category lang="lt">Sportas</category>
     <icon src="https://cdn.tvstart.com/img/programme//thumb/66879.jpg" />
   </programme>
-  <programme start="20180428000000 +0300" stop="20180428010000 +0300" channel="MTV Europe">
-    <title lang="lt">World Stage</title>
-    <desc lang="lt">A live show that travels the globe showcasing the most exciting and creative LIVE performance acts on the planet. TBA(n)</desc>
-    <category lang="lt">Miuziklas</category>
-    <category lang="lt">Muzika</category>
-    <icon src="https://cdn.tvstart.com/img/programme//thumb/423099.jpg" />
+  <programme start="20180501223500 +0300" stop="20180502002500 +0300" channel="Viasat Sport Baltic">
+    <title lang="lt">CHL 2017/2018 VSB 16:9</title>
+    <sub-title lang="lt">CHL 2017/2018 VSB 16:9 : CHL (NISS/MAST) SF2 ??-?? 1/05/18 16:9</sub-title>
+    <desc lang="lt">CHL 2017/2018 VSB 16:9(n)</desc>
+    <category lang="lt">Futbolas</category>
   </programme>
-  <programme start="20180428010000 +0300" stop="20180428020000 +0300" channel="MTV Europe">
-    <title lang="lt">Only Hits</title>
-    <desc lang="lt">Join us for a look at only the hottest hits of the moment(n)</desc>
-    <category lang="lt">Muzika</category>
-    <icon src="https://cdn.tvstart.com/img/programme//thumb/423101.jpg" />
+  <programme start="20180502002500 +0300" stop="20180502015500 +0300" channel="Viasat Sport Baltic">
+    <title lang="lt">FOOTBALL: PL HIGH 2017/18 (VSB) 16:9</title>
+    <sub-title lang="lt">FOOTBALL: PL MD36 REVIEW 1/05/18 16:9</sub-title>
+    <desc lang="lt">FOOTBALL: PL HIGH 2017/18 (VSB) 16:9(n)</desc>
+    <category lang="lt">Futbolas</category>
   </programme>
-  <programme start="20180428020000 +0300" stop="20180428040000 +0300" channel="MTV Europe">
-    <title lang="lt">Only Hits</title>
-    <desc lang="lt">Join us for a look at only the hottest hits of the moment(n)</desc>
-    <category lang="lt">Muzika</category>
-    <icon src="https://cdn.tvstart.com/img/programme//thumb/423101.jpg" />
+  <programme start="20180502015500 +0300" stop="20180502035500 +0300" channel="Viasat Sport Baltic">
+    <title lang="lt">Euroleague</title>
+    <sub-title lang="lt">BASKET: TAEL BEST OF PLAY-OFFS</sub-title>
+    <desc lang="lt">BASKET: EUROLEAGUE 2017/2018 VSB 16:9(n)</desc>
+    <category lang="lt">Sportas</category>
+    <icon src="https://cdn.tvstart.com/img/programme//thumb/111888.jpg" />
   </programme>
-  <programme start="20180428040000 +0300" stop="20180428050000 +0300" channel="MTV Europe">
-    <title lang="lt">Only Hits</title>
-    <desc lang="lt">Join us for a look at only the hottest hits of the moment(n)</desc>
-    <category lang="lt">Muzika</category>
-    <icon src="https://cdn.tvstart.com/img/programme//thumb/423101.jpg" />
+  <programme start="20180502035500 +0300" stop="20180502055500 +0300" channel="Viasat Sport Baltic">
+    <title lang="lt">Euroleague</title>
+    <sub-title lang="lt">BASKET: TAEL BEST OF PLAY-OFFS</sub-title>
+    <desc lang="lt">BASKET: EUROLEAGUE 2017/2018 VSB 16:9(n)</desc>
+    <category lang="lt">Sportas</category>
+    <icon src="https://cdn.tvstart.com/img/programme//thumb/111888.jpg" />
   </programme>
-  <programme start="20180428050000 +0300" stop="20180428053000 +0300" channel="MTV Europe">
-    <title lang="lt">The Ex and the Why</title>
-    <desc lang="lt">Lexi broke up with her ex Chris and wants a second chance. Andrew cheated on Laura and wants forgiveness(n)</desc>
+  <programme start="20180502055500 +0300" stop="20180502074500 +0300" channel="Viasat Sport Baltic">
+    <title lang="lt">CHL 2017/2018 VSB 16:9</title>
+    <sub-title lang="lt">CHL 2017/2018 VSB 16:9 : CHL (NISS/MAST) SF2 ??-?? 1/05/18 16:9</sub-title>
+    <desc lang="lt">CHL 2017/2018 VSB 16:9(n)</desc>
+    <category lang="lt">Futbolas</category>
+  </programme>
+  <programme start="20180502074500 +0300" stop="20180502111500 +0300" channel="Viasat Sport Baltic">
+    <title lang="lt">BADMINTON: EC 2018 16:9 VSB</title>
+    <sub-title lang="lt">BADMINTON: EC HUELVA 1/2F 16:9 28/04/18</sub-title>
+    <desc lang="lt">BADMINTON: EC 2018 16:9 VSB(n)</desc>
     <category lang="lt">Serialai</category>
-    <country>JAV</country>
-    <episode-num system="onscreen">S1E1</episode-num>
   </programme>
-  <programme start="20180428053000 +0300" stop="20180428060000 +0300" channel="MTV Europe">
-    <title lang="lt">The Ex and the Why</title>
-    <desc lang="lt">When Jess found out that Hannah cheated on her she ran away to Alaska, but now wants her back. Blake broke up with Carmen, his first love, but now realizes he made a mistake(n)</desc>
+  <programme start="20180502111500 +0300" stop="20180502134500 +0300" channel="Viasat Sport Baltic">
+    <title lang="lt">BADMINTON: EC 2018 16:9 VSB</title>
+    <sub-title lang="lt">BADMINTON: EC HUELVA FINALS 16:9 29/04/18</sub-title>
+    <desc lang="lt">BADMINTON: EC 2018 16:9 VSB(n)</desc>
     <category lang="lt">Serialai</category>
-    <country>JAV</country>
-    <episode-num system="onscreen">S1E2</episode-num>
   </programme>
-  <programme start="20180428060000 +0300" stop="20180428070000 +0300" channel="MTV Europe">
-    <title lang="lt">I Used to Be Fat</title>
-    <desc lang="lt">MTV and a fitness guru take on the challenge of helping seriously overweight teens shed unwanted pounds through fitness, education and habit changing support(n)</desc>
-    <category lang="lt">Realybės šou</category>
-    <icon src="https://cdn.tvstart.com/img/programme//thumb/109272.jpg" />
-    <country>JAV</country>
-    <episode-num system="onscreen">S2E4</episode-num>
+  <programme start="20180502134500 +0300" stop="20180502154500 +0300" channel="Viasat Sport Baltic">
+    <title lang="lt">KHL</title>
+    <sub-title lang="lt">ICE HOCKEY: KHL 17/18 VSB 16:9 : KHL FINALS BEST OF __/04/18 16:9</sub-title>
+    <desc lang="lt">ICE HOCKEY: KHL 17/18 VSB 16:9(n)</desc>
+    <category lang="lt">Sportas</category>
+    <icon src="https://cdn.tvstart.com/img/programme//thumb/111893.png" />
   </programme>
-  <programme start="20180428070000 +0300" stop="20180428080000 +0300" channel="MTV Europe">
-    <title lang="lt">Fear Factor</title>
-    <desc lang="lt">MTV's Shredders and The Challenge square off to see which one comes out ahead. They've survived their own shows, but can they survive snakes, eels and a trip to the Fear Factor Fro Yo shop? (1, ep13)(n)</desc>
-    <episode-num system="onscreen">S1E13</episode-num>
+  <programme start="20180502154500 +0300" stop="20180502164500 +0300" channel="Viasat Sport Baltic">
+    <title lang="lt">WRC</title>
+    <sub-title lang="lt">MOTORSPORT: WRC ARGENTINA HL 16:9 30/04/18</sub-title>
+    <desc lang="lt">MOTORSPORT: WRC HL 2018 VSB 16:9(n)</desc>
+    <category lang="lt">Sportas</category>
+    <icon src="https://cdn.tvstart.com/img/programme//thumb/111901.png" />
   </programme>
-  <programme start="20180428080000 +0300" stop="20180428090000 +0300" channel="MTV Europe">
-    <title lang="lt">Macklemore &amp; Ryan Lewis: The Ride</title>
-    <desc lang="lt">Grammy Award-winning Hip Hop indy artists Macklemore and Ryan Lewis reveal the game-changing moments that(n)</desc>
-    <episode-num system="onscreen">S2E2</episode-num>
+  <programme start="20180502164500 +0300" stop="20180502183500 +0300" channel="Viasat Sport Baltic">
+    <title lang="lt">CHL 2017/2018 VSB 16:9</title>
+    <sub-title lang="lt">CHL 2017/2018 VSB 16:9 : CHL (NISS/MAST) SF2 ??-?? 1/05/18 16:9</sub-title>
+    <desc lang="lt">CHL 2017/2018 VSB 16:9(n)</desc>
+    <category lang="lt">Futbolas</category>
   </programme>
-  <programme start="20180428090000 +0300" stop="20180428093000 +0300" channel="MTV Europe">
-    <title lang="lt">Sean Paul: MTV Live Stage</title>
-    <desc lang="lt">Sean Paul brings the sound of the summer to MTV Live Stage, with a sizzling set featuring a mix of old classics and hot new hits, including(n)</desc>
-    <episode-num system="onscreen">S1E5</episode-num>
+  <programme start="20180502183500 +0300" stop="20180502204500 +0300" channel="Viasat Sport Baltic">
+    <title lang="lt">CHL 2017/2018 VSB 16:9</title>
+    <sub-title lang="lt">CHL 2017/2018 VSB 16:9 : CHL (NISS/MAST) SF2 ??-?? 2/05/18 16:9</sub-title>
+    <desc lang="lt">CHL 2017/2018 VSB 16:9(n)</desc>
+    <category lang="lt">Futbolas</category>
   </programme>
-  <programme start="20180428093000 +0300" stop="20180428120000 +0300" channel="MTV Europe">
-    <title lang="lt">MTV Asks Louis Tomlinson</title>
-    <desc lang="lt">We asked you guys to send in your questions from around the globe for ex-1Der Louis Tomlinson and you replied in your thousands! Becca Dudley puts the best ones to Louis right here(n)</desc>
-    <category lang="lt">Pramogos</category>
-    <icon src="https://cdn.tvstart.com/img/programme//thumb/390026.jpg" />
-  </programme>
-  <programme start="20180428120000 +0300" stop="20180428130000 +0300" channel="MTV Europe">
-    <title lang="lt">Fear Factor</title>
-    <desc lang="lt">Ludacris challenges teams to get covered in creatures and conquer a mental mousetrap game. But in order to win $50,000 they must face being dragged to the bottom of a deep water tank(n)</desc>
-    <episode-num system="onscreen">S1E1</episode-num>
-  </programme>
-  <programme start="20180428130000 +0300" stop="20180428140000 +0300" channel="MTV Europe">
-    <title lang="lt">Fear Factor</title>
-    <desc lang="lt">Ludacris challenges teams of siblings to conquer their fears of cockroaches in Roachella and to take a trip to the morgue. But they must survive being trapped under ice to win $50,000(n)</desc>
-    <episode-num system="onscreen">S1E2</episode-num>
-  </programme>
-  <programme start="20180428140000 +0300" stop="20180428150000 +0300" channel="MTV Europe">
-    <title lang="lt">Fear Factor</title>
-    <desc lang="lt">Ludacris sets up the ultimate fear party games for teams of couples. They must bob for snakes, play Fear Pong and drive blindfolded to win $50,000(n)</desc>
-    <episode-num system="onscreen">S1E3</episode-num>
-  </programme>
-  <programme start="20180428150000 +0300" stop="20180428160000 +0300" channel="MTV Europe">
-    <title lang="lt">Catfish: The TV Show</title>
-    <desc lang="lt">Hundra never planned on falling in love with a girl and is risking coming out on national TV to learn if her love is for real. Nev investigates to reveal a shocking Catfish(n)</desc>
-    <category lang="lt">Dokumentika</category>
-    <category lang="lt">Realybės šou</category>
-    <icon src="https://cdn.tvstart.com/img/programme//thumb/389083.jpg" />
-    <country>JAV</country>
-    <episode-num system="onscreen">S4E17</episode-num>
-  </programme>
-  <programme start="20180428160000 +0300" stop="20180428170000 +0300" channel="MTV Europe">
-    <title lang="lt">Catfish: The TV Show</title>
-    <desc lang="lt">For shy Devan, meeting Rylan was love at first click. Devan wants to believe that Rylan is marriage material but her suspicious behaviour is leaving him with doubts(n)</desc>
-    <category lang="lt">Dokumentika</category>
-    <category lang="lt">Realybės šou</category>
-    <icon src="https://cdn.tvstart.com/img/programme//thumb/389083.jpg" />
-    <country>JAV</country>
-    <episode-num system="onscreen">S4E18</episode-num>
-  </programme>
-  <programme start="20180428170000 +0300" stop="20180428190000 +0300" channel="MTV Europe">
-    <title lang="lt">Euro Top Chart</title>
-    <desc lang="lt">Euro Top Chart – your weekly countdown of the hottest tunes in Europe right now! Who's up and who's down? Stay tuned and find out(n)</desc>
-    <category lang="lt">Pramogos</category>
-    <icon src="https://cdn.tvstart.com/img/programme//thumb/398371.jpg" />
-  </programme>
-  <programme start="20180428190000 +0300" stop="20180428193000 +0300" channel="MTV Europe">
-    <title lang="lt">Ex on the Beach</title>
-    <desc lang="lt">The Tablet of Terror forces Gina into an uncomfortable decision. Olivia needs fresh meat and Scotty finally realises that Nancy is the girl for him but will Nancy feel the same way(n)</desc>
-    <category lang="lt">Dokumentika</category>
-    <category lang="lt">Realybės šou</category>
-    <icon src="https://cdn.tvstart.com/img/programme//thumb/373613.jpg" />
-    <country>Didžioji Britanija</country>
-    <episode-num system="onscreen">S4E7</episode-num>
-  </programme>
-  <programme start="20180428193000 +0300" stop="20180428200000 +0300" channel="MTV Europe">
-    <title lang="lt">Ex on the Beach</title>
-    <desc lang="lt">It's the final day and night and for the first time a new arrival comes crashing in to the villa. Ex couples are sent on dates, will old love resurface? Will anyone leave as a couple(n)</desc>
-    <category lang="lt">Dokumentika</category>
-    <category lang="lt">Realybės šou</category>
-    <icon src="https://cdn.tvstart.com/img/programme//thumb/373613.jpg" />
-    <country>Didžioji Britanija</country>
-    <episode-num system="onscreen">S4E8</episode-num>
-  </programme>
-  <programme start="20180428200000 +0300" stop="20180428203000 +0300" channel="MTV Europe">
-    <title lang="lt">Ex on the Beach</title>
-    <desc lang="lt">It's Ex on the Beach All Stars! Gaz gets tempted by Jemma, old rivals Bear and Jordan both vie for Chloe, and love is in the air for Olivia and Liam. Fireworks will explode(n)</desc>
-    <category lang="lt">Dokumentika</category>
-    <category lang="lt">Realybės šou</category>
-    <icon src="https://cdn.tvstart.com/img/programme//thumb/373613.jpg" />
-    <country>Didžioji Britanija</country>
-    <episode-num system="onscreen">S5E1</episode-num>
-  </programme>
-  <programme start="20180428203000 +0300" stop="20180428210000 +0300" channel="MTV Europe">
-    <title lang="lt">Ex on the Beach</title>
-    <desc lang="lt">Will it end in tears for Jemma when the next Ex arrives? She isn't the only one dreading their arrival back at the villa. Gaz welcomes another new arrival with a night in the penthouse(n)</desc>
-    <category lang="lt">Dokumentika</category>
-    <category lang="lt">Realybės šou</category>
-    <icon src="https://cdn.tvstart.com/img/programme//thumb/373613.jpg" />
-    <country>Didžioji Britanija</country>
-    <episode-num system="onscreen">S5E2</episode-num>
-  </programme>
-  <programme start="20180428210000 +0300" stop="20180428220000 +0300" channel="MTV Europe">
-    <title lang="lt">Teen Mom</title>
-    <title lang="xx">Teen Mom OG</title>
-    <desc lang="lt">Amber is completely done with Matt and starts dating a new guy. Farrah visits Omaha and Sophia expresses her dislike for Deb's fiancé. Taylor surprises Maci and takes her skydiving(n)</desc>
-    <category lang="lt">Realybės šou</category>
-    <icon src="https://cdn.tvstart.com/img/programme//thumb/423104.jpg" />
-    <episode-num system="onscreen">S7E6</episode-num>
-  </programme>
-  <programme start="20180428220000 +0300" stop="20180428230000 +0300" channel="MTV Europe">
-    <title lang="lt">Teen Mom</title>
-    <title lang="xx">Teen Mom OG</title>
-    <desc lang="lt">Farrah plans a family trip to Italy. Bentley starts third grade and Maci is still determined to keep him away from Ryan. Amber is depressed after breaking up with Matt(n)</desc>
-    <category lang="lt">Realybės šou</category>
-    <icon src="https://cdn.tvstart.com/img/programme//thumb/423104.jpg" />
-    <episode-num system="onscreen">S7E5</episode-num>
-  </programme>
-  <programme start="20180428230000 +0300" stop="20180429000000 +0300" channel="MTV Europe">
-    <title lang="lt">Fear Factor</title>
-    <desc lang="lt">Ludacris is taking four teams of parents and their kids on a Road Trip From Hell(n)</desc>
-    <episode-num system="onscreen">S2E3</episode-num>
+  <programme start="20180502204500 +0300" stop="20180502224500 +0300" channel="Viasat Sport Baltic">
+    <title lang="lt">Euroleague</title>
+    <sub-title lang="lt">BASKET: TAEL BEST OF PLAY-OFFS</sub-title>
+    <desc lang="lt">BASKET: EUROLEAGUE 2017/2018 VSB 16:9(n)</desc>
+    <category lang="lt">Sportas</category>
+    <icon src="https://cdn.tvstart.com/img/programme//thumb/111888.jpg" />
   </programme>
   <programme start="20180429000000 +0300" stop="20180429010000 +0300" channel="MTV Europe">
     <title lang="lt">World Stage</title>
@@ -1580,61 +1426,189 @@
     <country>JAV</country>
     <episode-num system="onscreen">S2E1</episode-num>
   </programme>
-  <programme start="20180428060000 +0300" stop="20180428080000 +0300" channel="MTV Hits">
-    <title lang="lt">Big Fat Hits</title>
-    <desc lang="lt">Whether you're looking for a chart smash or the freshest pop sensation, MTV Hits is bursting with them(n)</desc>
-    <category lang="lt">Muzika</category>
-    <icon src="https://cdn.tvstart.com/img/programme//thumb/372822.jpg" />
+  <programme start="20180501210000 +0300" stop="20180501220000 +0300" channel="MTV Europe">
+    <title lang="lt">Fear Factor</title>
+    <desc lang="lt">Ludacris is challenging four teams of twins compete in fire-filled challenges for a chance to win $50,000(n)</desc>
+    <episode-num system="onscreen">S2E4</episode-num>
   </programme>
-  <programme start="20180428080000 +0300" stop="20180428084000 +0300" channel="MTV Hits">
-    <title lang="lt">MTV's Euro Top 10</title>
-    <desc lang="lt">MTV's the destination for all the newest, biggest and downright best smashes around. Stay tuned to see the hottest new hits in This Week's MTV Euro Top 10(n)</desc>
-    <category lang="lt">Muzika</category>
+  <programme start="20180501220000 +0300" stop="20180501223000 +0300" channel="MTV Europe">
+    <title lang="lt">Crash Karaoke</title>
+    <desc lang="lt">On MTV's ambush game show, hosts Hannah and Dylan surprise wannabe renters at an open house, bust into a strip club, and take over a White Castle burger joint(n)</desc>
+    <episode-num system="onscreen">S1E2</episode-num>
   </programme>
-  <programme start="20180428084000 +0300" stop="20180428100000 +0300" channel="MTV Hits">
-    <title lang="lt">Pop Superstars</title>
-    <desc lang="lt">Get ready because now it's time for some of the world's most glamorous superstars to get down to awesome tracks(n)</desc>
+  <programme start="20180501223000 +0300" stop="20180501230000 +0300" channel="MTV Europe">
+    <title lang="lt">Crash Karaoke</title>
+    <desc lang="lt">On MTV's ambush game show, hosts Hannah and Dylan crash a college dining hall, go undercover at a trendy clothing boutique, and shake things up at a skate park(n)</desc>
+    <episode-num system="onscreen">S1E3</episode-num>
+  </programme>
+  <programme start="20180501230000 +0300" stop="20180502000000 +0300" channel="MTV Europe">
+    <title lang="lt">The Challenge: Vendettas</title>
+    <desc lang="lt">When one of the players falls ill, their true strength in the game is tested. Kayleigh is fed up with her vendetta Melissa, whose antics culminate in an explosive fight that rocks the Challenge house(n)</desc>
+    <episode-num system="onscreen">S31E5</episode-num>
+  </programme>
+  <programme start="20180502000000 +0300" stop="20180502020000 +0300" channel="MTV Europe">
+    <title lang="lt">Only Hits</title>
+    <desc lang="lt">Join us for a look at only the hottest hits of the moment(n)</desc>
+    <category lang="lt">Muzika</category>
+    <icon src="https://cdn.tvstart.com/img/programme//thumb/423101.jpg" />
+  </programme>
+  <programme start="20180502020000 +0300" stop="20180502040000 +0300" channel="MTV Europe">
+    <title lang="lt">Only Hits</title>
+    <desc lang="lt">Join us for a look at only the hottest hits of the moment(n)</desc>
+    <category lang="lt">Muzika</category>
+    <icon src="https://cdn.tvstart.com/img/programme//thumb/423101.jpg" />
+  </programme>
+  <programme start="20180502040000 +0300" stop="20180502050000 +0300" channel="MTV Europe">
+    <title lang="lt">Only Hits</title>
+    <desc lang="lt">Join us for a look at only the hottest hits of the moment(n)</desc>
+    <category lang="lt">Muzika</category>
+    <icon src="https://cdn.tvstart.com/img/programme//thumb/423101.jpg" />
+  </programme>
+  <programme start="20180502050000 +0300" stop="20180502053000 +0300" channel="MTV Europe">
+    <title lang="lt">Friendzone</title>
+    <desc lang="lt">Polly's friends with bad boy surfer Taylor and wants to know if her crush is mutual. Stephanie likes her best friend's brother Josh, but worries that he sees her as a young girl(n)</desc>
+    <category lang="lt">Dokumentika</category>
+    <category lang="lt">Realybės šou</category>
+    <icon src="https://cdn.tvstart.com/img/programme//thumb/411698.jpg" />
+    <country>JAV</country>
+    <episode-num system="onscreen">S1E10</episode-num>
+  </programme>
+  <programme start="20180502053000 +0300" stop="20180502060000 +0300" channel="MTV Europe">
+    <title lang="lt">Friendzone</title>
+    <desc lang="lt">When Stephanie's not laughing at one of Mike's jokes or staring dreamily into his eyes, she's fantasizing about them as a couple, not just friends(n)</desc>
+    <category lang="lt">Dokumentika</category>
+    <category lang="lt">Realybės šou</category>
+    <icon src="https://cdn.tvstart.com/img/programme//thumb/411698.jpg" />
+    <country>JAV</country>
+    <episode-num system="onscreen">S1E11</episode-num>
+  </programme>
+  <programme start="20180502060000 +0300" stop="20180502070000 +0300" channel="MTV Europe">
+    <title lang="lt">16 and Pregnant</title>
+    <desc lang="lt">Savannah had a difficult upbringing and relied on her boyfriend Stone for support. But after finding out she was pregnant, they soon split! Will they be able to co-parent as friends(n)</desc>
+    <category lang="lt">Dokumentika</category>
+    <icon src="https://cdn.tvstart.com/img/programme//thumb/423103.jpg" />
+    <country>JAV</country>
+    <episode-num system="onscreen">S5E12</episode-num>
+  </programme>
+  <programme start="20180502070000 +0300" stop="20180502080000 +0300" channel="MTV Europe">
+    <title lang="lt">Plain Jane</title>
+    <desc lang="lt">Danielle is tall with a fear of standing out from the crowd. Luckily Louise Roe is at hand to help her find the confidence to ask crush Ben out and to wear heels(n)</desc>
+    <category lang="lt">Dokumentika</category>
+    <category lang="lt">Realybės šou</category>
+    <icon src="https://cdn.tvstart.com/img/programme//thumb/97276.jpg" />
+    <episode-num system="onscreen">S2E5</episode-num>
+  </programme>
+  <programme start="20180502080000 +0300" stop="20180502090000 +0300" channel="MTV Europe">
+    <title lang="lt">Fear Factor</title>
+    <desc lang="lt">Ludacris pits married, engaged, dating and blind date couples, against each other to play a guessing game in the dark, have an unforgettable meal and take a ride under a speeding helicopter(n)</desc>
+    <episode-num system="onscreen">S1E5</episode-num>
+  </programme>
+  <programme start="20180502090000 +0300" stop="20180502100000 +0300" channel="MTV Europe">
+    <title lang="lt">Only Hits</title>
+    <desc lang="lt">Join us for a look at only the hottest hits of the moment(n)</desc>
+    <category lang="lt">Muzika</category>
+    <icon src="https://cdn.tvstart.com/img/programme//thumb/423101.jpg" />
+  </programme>
+  <programme start="20180502100000 +0300" stop="20180502110000 +0300" channel="MTV Europe">
+    <title lang="lt">Only Hits</title>
+    <desc lang="lt">Join us for a look at only the hottest hits of the moment(n)</desc>
+    <category lang="lt">Muzika</category>
+    <icon src="https://cdn.tvstart.com/img/programme//thumb/423101.jpg" />
+  </programme>
+  <programme start="20180502110000 +0300" stop="20180502120000 +0300" channel="MTV Europe">
+    <title lang="lt">Teen Mom</title>
+    <desc lang="lt">Leah and Corey finalize their divorce, Chelsea's father learns that she is living with Adam; Jenelle goes against her lawyer's advice; Kailyn sees a picture of Jo and his girlfriend(n)</desc>
+    <category lang="lt">Realybės šou</category>
+    <icon src="https://cdn.tvstart.com/img/programme//thumb/423104.jpg" />
+    <country>JAV</country>
+    <episode-num system="onscreen">S3E3</episode-num>
+  </programme>
+  <programme start="20180502120000 +0300" stop="20180502130000 +0300" channel="MTV Europe">
+    <title lang="lt">Teen Mom</title>
+    <desc lang="lt">Leah visits the university to get into a nursing program, Chelsea is invited to a Dierks Bentley concert to get her mind off Adam and Jenelle pays the price for her probation(n)</desc>
+    <category lang="lt">Realybės šou</category>
+    <icon src="https://cdn.tvstart.com/img/programme//thumb/423104.jpg" />
+    <country>JAV</country>
+    <episode-num system="onscreen">S3E4</episode-num>
+  </programme>
+  <programme start="20180502130000 +0300" stop="20180502133000 +0300" channel="MTV Europe">
+    <title lang="lt">Awkward</title>
+    <desc lang="lt">Jenna and her girls are back on good terms and Jenna thinks she might be ready to rekindle an old flame with Matty(n)</desc>
+    <category lang="lt">Komedija</category>
+    <category lang="lt">Drama</category>
+    <category lang="lt">Melodrama</category>
+    <category lang="lt">Serialai</category>
+    <icon src="https://cdn.tvstart.com/img/programme//thumb/389031.png" />
+    <episode-num system="onscreen">S3E18</episode-num>
+  </programme>
+  <programme start="20180502133000 +0300" stop="20180502143000 +0300" channel="MTV Europe">
+    <title lang="lt">Awkward</title>
+    <desc lang="lt">Jenna hopes that if she rights her wrongs by getting Val her job back, the universe will reward her and reunite her with Matty(n)</desc>
+    <category lang="lt">Komedija</category>
+    <category lang="lt">Drama</category>
+    <category lang="lt">Melodrama</category>
+    <category lang="lt">Serialai</category>
+    <icon src="https://cdn.tvstart.com/img/programme//thumb/389031.png" />
+    <episode-num system="onscreen">S3E19</episode-num>
+  </programme>
+  <programme start="20180502143000 +0300" stop="20180502153000 +0300" channel="MTV Europe">
+    <title lang="lt">I Used to Be Fat</title>
+    <desc lang="lt">MTV and a fitness guru take on the challenge of helping seriously overweight teens shed unwanted pounds through fitness, education and habit changing support(n)</desc>
+    <category lang="lt">Realybės šou</category>
+    <icon src="https://cdn.tvstart.com/img/programme//thumb/109272.jpg" />
+    <country>JAV</country>
+    <episode-num system="onscreen">S2E5</episode-num>
+  </programme>
+  <programme start="20180502153000 +0300" stop="20180502160000 +0300" channel="MTV Europe">
+    <title lang="lt">Disaster Date</title>
+    <desc lang="lt">MTV´s hilarious new hidden camera dating show that puts unsuspecting singles on the worst blind date of their lives courtesy of their best friends looking for payback(n)</desc>
+    <category lang="lt">Dokumentika</category>
     <category lang="lt">Pramogos</category>
-    <icon src="https://cdn.tvstart.com/img/programme//thumb/411712.jpg" />
+    <icon src="https://cdn.tvstart.com/img/programme//thumb/423105.jpg" />
+    <episode-num system="onscreen">S3E7</episode-num>
   </programme>
-  <programme start="20180428100000 +0300" stop="20180428114000 +0300" channel="MTV Hits">
-    <title lang="lt">MTV's 20 Most Wanted Vidz!</title>
-    <desc lang="lt">It's time for the most popular videos playing across MTV right now. Tune in, turn it up and enjoy(n)</desc>
+  <programme start="20180502160000 +0300" stop="20180502170000 +0300" channel="MTV Europe">
+    <title lang="lt">Only Hits</title>
+    <desc lang="lt">Join us for a look at only the hottest hits of the moment(n)</desc>
     <category lang="lt">Muzika</category>
+    <icon src="https://cdn.tvstart.com/img/programme//thumb/423101.jpg" />
   </programme>
-  <programme start="20180428114000 +0300" stop="20180428140000 +0300" channel="MTV Hits">
-    <title lang="lt">Can't Stop the Hits</title>
-    <desc lang="lt">It's wall-to-wall, non-stop classic tracks. These are the hits that you just can't beat(n)</desc>
-    <category lang="lt">Muzika</category>
+  <programme start="20180502170000 +0300" stop="20180502180000 +0300" channel="MTV Europe">
+    <title lang="lt">Fear Factor</title>
+    <desc lang="lt">Ludacris takes couples whose relationships have been on and off, and tests their bonds. Plus, David Hasselhoff's daughter seeks to redeem her family name(n)</desc>
+    <episode-num system="onscreen">S1E6</episode-num>
   </programme>
-  <programme start="20180428140000 +0300" stop="20180428150000 +0300" channel="MTV Hits">
-    <title lang="lt">Hot Right Now!</title>
-    <desc lang="lt">We bring you the very hottest music videos in the world right now, alongside some scorching live performances(n)</desc>
+  <programme start="20180502180000 +0300" stop="20180502190000 +0300" channel="MTV Europe">
+    <title lang="lt">Catfish: The TV Show</title>
+    <desc lang="lt">For years, Nicole has had her pictures stolen to make fake profiles, one of which has been catfishing Ryan for ten years. Is this a random troll or do Ryan and Nicole have a common enemy(n)</desc>
+    <category lang="lt">Dokumentika</category>
+    <category lang="lt">Realybės šou</category>
+    <icon src="https://cdn.tvstart.com/img/programme//thumb/389083.jpg" />
+    <country>JAV</country>
+    <episode-num system="onscreen">S6E18</episode-num>
+  </programme>
+  <programme start="20180502190000 +0300" stop="20180502200000 +0300" channel="MTV Europe">
+    <title lang="lt">The Challenge: Vendettas</title>
+    <desc lang="lt">When the mysterious and offensive notes continue to circulate the Challenge house, it causes a stir amongst the female competitors and the culprit is finally revealed. When four Challenge legends return, the game is turned upside down(n)</desc>
+    <episode-num system="onscreen">S31E7</episode-num>
+  </programme>
+  <programme start="20180502200000 +0300" stop="20180502203000 +0300" channel="MTV Europe">
+    <title lang="lt">Ridiculousness</title>
+    <desc lang="lt">Hosted by Rob Dyrdek, Ridiculousness takes the funniest amateur internet videos and builds them into an episode of edgy, funny, and most importantly, timeless television. Driven by Dyrdek, the core content of Ridiculousness are the videos framed by Rob's unique style, pacing, and infectious energy Ridiculousness brings the best of the internet taking the video clip show to the next level(n)</desc>
+    <category lang="lt">Komedija</category>
     <category lang="lt">Pramogos</category>
-    <icon src="https://cdn.tvstart.com/img/programme//thumb/411707.png" />
+    <icon src="https://cdn.tvstart.com/img/programme//thumb/423100.jpg" />
+    <country>JAV</country>
+    <episode-num system="onscreen">S2E2</episode-num>
   </programme>
-  <programme start="20180428150000 +0300" stop="20180428160000 +0300" channel="MTV Hits">
-    <title lang="lt">Pop Superstars</title>
-    <desc lang="lt">Get ready because now it's time for some of the world's most glamorous superstars to get down to awesome tracks(n)</desc>
+  <programme start="20180502203000 +0300" stop="20180502210000 +0300" channel="MTV Europe">
+    <title lang="lt">Ridiculousness</title>
+    <desc lang="lt">Hosted by Rob Dyrdek, Ridiculousness takes the funniest amateur internet videos and builds them into an episode of edgy, funny, and most importantly, timeless television. Driven by Dyrdek, the core content of Ridiculousness are the videos framed by Rob's unique style, pacing, and infectious energy Ridiculousness brings the best of the internet taking the video clip show to the next level(n)</desc>
+    <category lang="lt">Komedija</category>
     <category lang="lt">Pramogos</category>
-    <icon src="https://cdn.tvstart.com/img/programme//thumb/411712.jpg" />
-  </programme>
-  <programme start="20180428160000 +0300" stop="20180428164000 +0300" channel="MTV Hits">
-    <title lang="lt">The 10 Biggest Tracks Right Now!</title>
-    <desc lang="lt">Join us as we count down the top 10 essential tracks that are big in new music right now(n)</desc>
-    <category lang="lt">Muzika</category>
-    <icon src="https://cdn.tvstart.com/img/programme//thumb/411706.jpg" />
-  </programme>
-  <programme start="20180428164000 +0300" stop="20180428230000 +0300" channel="MTV Hits">
-    <title lang="lt">MTV's Party Hits!</title>
-    <desc lang="lt">It's party time and MTV is the host. Tune in for the biggest and best party hits to help get any get-together jumping(n)</desc>
-    <category lang="lt">Muzika</category>
-  </programme>
-  <programme start="20180428230000 +0300" stop="20180429060000 +0300" channel="MTV Hits">
-    <title lang="lt">Non-Stop Hits</title>
-    <desc lang="lt">Whether you're looking for a 00s chart smash or the freshest pop sensation, you'll find more hits, more often on MTV Hits(n)</desc>
-    <category lang="lt">Muzika</category>
-    <icon src="https://cdn.tvstart.com/img/programme//thumb/423109.png" />
+    <icon src="https://cdn.tvstart.com/img/programme//thumb/423100.jpg" />
+    <country>JAV</country>
+    <episode-num system="onscreen">S2E3</episode-num>
   </programme>
   <programme start="20180429060000 +0300" stop="20180429080000 +0300" channel="MTV Hits">
     <title lang="lt">Big Fat Hits</title>
@@ -1791,91 +1765,61 @@
     <category lang="lt">Muzika</category>
     <icon src="https://cdn.tvstart.com/img/programme//thumb/372822.jpg" />
   </programme>
-  <programme start="20180428000000 +0300" stop="20180428010000 +0300" channel="MTV Music">
-    <title lang="lt">Janelle Monae – Dirty Computer</title>
-    <desc lang="lt">MTV's proud to present Janelle Monae's 'Dirty Computer'. Featuring music from her upcoming album, this stunning Emotion Picture deals with issues of personal freedoms and suppression of identity(n)</desc>
+  <programme start="20180501214000 +0300" stop="20180502060000 +0300" channel="MTV Hits">
+    <title lang="lt">Non-Stop Hits</title>
+    <desc lang="lt">Whether you're looking for a 00s chart smash or the freshest pop sensation, you'll find more hits, more often on MTV Hits(n)</desc>
     <category lang="lt">Muzika</category>
-    <episode-num system="onscreen">E101</episode-num>
+    <icon src="https://cdn.tvstart.com/img/programme//thumb/423109.png" />
   </programme>
-  <programme start="20180428010000 +0300" stop="20180428014000 +0300" channel="MTV Music">
-    <title lang="lt">Global Girls vs Brit Boys! Top 10</title>
-    <desc lang="lt">It's girls against boys, international stars against our local lads. The Brits may be outnumbered but we've got Robbie! Check out this ultimate clash in another cracking Top 10(n)</desc>
+  <programme start="20180502060000 +0300" stop="20180502080000 +0300" channel="MTV Hits">
+    <title lang="lt">Big Fat Hits</title>
+    <desc lang="lt">Whether you're looking for a chart smash or the freshest pop sensation, MTV Hits is bursting with them(n)</desc>
     <category lang="lt">Muzika</category>
+    <icon src="https://cdn.tvstart.com/img/programme//thumb/372822.jpg" />
   </programme>
-  <programme start="20180428014000 +0300" stop="20180428020000 +0300" channel="MTV Music">
-    <title lang="lt">A-List Playlist</title>
-    <desc lang="lt">At MTV we're committed to bringing you the biggest stars from around the globe and right now we've packaged up the biggest-selling stars to bring you our A-List Playlist(n)</desc>
+  <programme start="20180502080000 +0300" stop="20180502100000 +0300" channel="MTV Hits">
+    <title lang="lt">Nothing But Hits</title>
+    <desc lang="lt">Nothing But Hits features today's top-selling singles, the hottest new exclusives and the biggest chart acts of recent years(n)</desc>
     <category lang="lt">Muzika</category>
-    <icon src="https://cdn.tvstart.com/img/programme//thumb/398343.jpg" />
+    <icon src="https://cdn.tvstart.com/img/programme//thumb/411711.jpg" />
   </programme>
-  <programme start="20180428020000 +0300" stop="20180428050000 +0300" channel="MTV Music">
-    <title lang="lt">Teleshopping</title>
-    <desc lang="lt">Emisiune în care sunt prezentate diferite produse în scopul vânzarii lor catre telespectatorii doritori, prin intermediul unei comenzi telefonice. Află care sunt cele mai noi produse de pe piaţă menite a-ţi schimba viaţa. Fă economie de timp şi chiar de bani. Fă shopping în faţa televizorului(n)</desc>
-    <category lang="lt">Teleparduotuvė</category>
-    <icon src="https://cdn.tvstart.com/img/programme//thumb/398351.jpg" />
-  </programme>
-  <programme start="20180428050000 +0300" stop="20180428070000 +0300" channel="MTV Music">
-    <title lang="lt">A-List Playlist</title>
-    <desc lang="lt">At MTV we're committed to bringing you the biggest stars from around the globe and right now we've packaged up the biggest-selling stars to bring you our A-List Playlist(n)</desc>
-    <category lang="lt">Muzika</category>
-    <icon src="https://cdn.tvstart.com/img/programme//thumb/398343.jpg" />
-  </programme>
-  <programme start="20180428070000 +0300" stop="20180428073000 +0300" channel="MTV Music">
-    <title lang="lt">Years &amp; Years: Ultimate 5</title>
-    <desc lang="lt">Check out Years &amp; Years' ultimate top 5(n)</desc>
+  <programme start="20180502100000 +0300" stop="20180502104000 +0300" channel="MTV Hits">
+    <title lang="lt">MTV's Euro Top 10</title>
+    <desc lang="lt">MTV's the destination for all the newest, biggest and downright best smashes around. Stay tuned to see the hottest new hits in This Week's MTV Euro Top 10(n)</desc>
     <category lang="lt">Muzika</category>
   </programme>
-  <programme start="20180428073000 +0300" stop="20180428080000 +0300" channel="MTV Music">
-    <title lang="lt">Rudimental's Best Brit Collabs! Top 5</title>
-    <desc lang="lt">We've put together our top five best collabs between British artists and one of our absolute favourite groups, the awesome foursome, Rudimental!(n)</desc>
+  <programme start="20180502104000 +0300" stop="20180502140000 +0300" channel="MTV Hits">
+    <title lang="lt">Big Fat Hits</title>
+    <desc lang="lt">Whether you're looking for a chart smash or the freshest pop sensation, MTV Hits is bursting with them(n)</desc>
+    <category lang="lt">Muzika</category>
+    <icon src="https://cdn.tvstart.com/img/programme//thumb/372822.jpg" />
+  </programme>
+  <programme start="20180502140000 +0300" stop="20180502154000 +0300" channel="MTV Hits">
+    <title lang="lt">MTV's 20 Most Wanted Vidz!</title>
+    <desc lang="lt">It's time for the most popular videos playing across MTV right now. Tune in, turn it up and enjoy(n)</desc>
     <category lang="lt">Muzika</category>
   </programme>
-  <programme start="20180428080000 +0300" stop="20180428113000 +0300" channel="MTV Music">
-    <title lang="lt">The Official UK Top 40</title>
-    <desc lang="lt">Exclusive first look at the biggest-selling songs of the week as we reveal the winners and losers of the race to the Official UK Number One spot(n)</desc>
-    <category lang="lt">Muzika</category>
-    <icon src="https://cdn.tvstart.com/img/programme//thumb/411717.jpg" />
-    <episode-num system="onscreen">S11E1118</episode-num>
-  </programme>
-  <programme start="20180428113000 +0300" stop="20180428120000 +0300" channel="MTV Music">
-    <title lang="lt">Years &amp; Years Live @ V Festival 2016</title>
-    <desc lang="lt">Years &amp; Years perform live at V Festival(n)</desc>
+  <programme start="20180502154000 +0300" stop="20180502160000 +0300" channel="MTV Hits">
+    <title lang="lt">Can't Stop the Hits</title>
+    <desc lang="lt">It's wall-to-wall, non-stop classic tracks. These are the hits that you just can't beat(n)</desc>
     <category lang="lt">Muzika</category>
   </programme>
-  <programme start="20180428120000 +0300" stop="20180428130000 +0300" channel="MTV Music">
-    <title lang="lt">Sia: Official Top 10</title>
-    <desc lang="lt">We use exclusive official charts data to count down the Top 10 best-selling singles from Aussie superstar singer-songwriter Sia. What will be her biggest-selling record? Tune in to find out(n)</desc>
+  <programme start="20180502160000 +0300" stop="20180502164000 +0300" channel="MTV Hits">
+    <title lang="lt">The 10 Biggest Tracks Right Now!</title>
+    <desc lang="lt">Join us as we count down the top 10 essential tracks that are big in new music right now(n)</desc>
+    <category lang="lt">Muzika</category>
+    <icon src="https://cdn.tvstart.com/img/programme//thumb/411706.jpg" />
+  </programme>
+  <programme start="20180502164000 +0300" stop="20180502200000 +0300" channel="MTV Hits">
+    <title lang="lt">Can't Stop the Hits</title>
+    <desc lang="lt">It's wall-to-wall, non-stop classic tracks. These are the hits that you just can't beat(n)</desc>
     <category lang="lt">Muzika</category>
   </programme>
-  <programme start="20180428130000 +0300" stop="20180428170000 +0300" channel="MTV Music">
-    <title lang="lt">Pop Royalty: The Contenders</title>
-    <desc lang="lt">MTV is celebrating the Royal Wedding with pop's finest! The stars are battling it out for your votes to see who will be crowned the King and Queen of Pop, so head to mtv.co.uk/poproyalty and vote now(n)</desc>
+  <programme start="20180502200000 +0300" stop="20180502214000 +0300" channel="MTV Hits">
+    <title lang="lt">Big Fat Hits</title>
+    <desc lang="lt">Whether you're looking for a chart smash or the freshest pop sensation, MTV Hits is bursting with them(n)</desc>
     <category lang="lt">Muzika</category>
-  </programme>
-  <programme start="20180428170000 +0300" stop="20180428180000 +0300" channel="MTV Music">
-    <title lang="lt">2018's Hottest Party Hits! Top 10</title>
-    <desc lang="lt">The party is right here on MTV Music as we take you through 2018's biggest dancefloor fillers. Expect ten of the biggest, loudest and best songs to soundtrack your party(n)</desc>
-    <category lang="lt">Muzika</category>
-    <icon src="https://cdn.tvstart.com/img/programme//thumb/398354.jpg" />
-  </programme>
-  <programme start="20180428180000 +0300" stop="20180428213000 +0300" channel="MTV Music">
-    <title lang="lt">The Official UK Top 40</title>
-    <desc lang="lt">Exclusive first look at the biggest-selling songs of the week as we reveal the winners and losers of the race to the Official UK Number One spot(n)</desc>
-    <category lang="lt">Muzika</category>
-    <icon src="https://cdn.tvstart.com/img/programme//thumb/411717.jpg" />
-    <episode-num system="onscreen">S11E1118</episode-num>
-  </programme>
-  <programme start="20180428213000 +0300" stop="20180428220000 +0300" channel="MTV Music">
-    <title lang="lt">Pop Royalty: Sam Smith Vs Adele</title>
-    <title lang="xx">Pop Royalty: Zayn Vs Liam Payne</title>
-    <desc lang="lt">MTV is celebrating the Royal Wedding with pop's finest! The stars are battling it out for your votes to see who will be crowned the King and Queen of Pop, so head to mtv.co.uk/poproyalty and vote now(n)</desc>
-    <category lang="lt">Muzika</category>
-  </programme>
-  <programme start="20180428220000 +0300" stop="20180429000000 +0300" channel="MTV Music">
-    <title lang="lt">The Official UK Download Chart</title>
-    <desc lang="lt">Park yourself right here for an official countdown of the Top 20 songs by download alone. Who's dropped out and who has claimed the prestigious number one slot this week(n)</desc>
-    <category lang="lt">Pramogos</category>
-    <icon src="https://cdn.tvstart.com/img/programme//thumb/104685.jpg" />
+    <icon src="https://cdn.tvstart.com/img/programme//thumb/372822.jpg" />
   </programme>
   <programme start="20180429000000 +0300" stop="20180429003000 +0300" channel="MTV Music">
     <title lang="lt">Dua Lipa: Is This Your Queen Of Pop</title>
@@ -2151,360 +2095,96 @@
     <desc lang="lt">MTV is celebrating the Royal Wedding with pop's finest! The stars are battling it out for your votes to see who will be crowned the King and Queen of Pop, so head to mtv.co.uk/poproyalty and vote now(n)</desc>
     <category lang="lt">Muzika</category>
   </programme>
-  <programme start="20180428000000 +0300" stop="20180428000500 +0300" channel="LRT Televizija">
-    <title lang="lt">LRT radijo žinios</title>
-    <desc lang="lt">Didžiausią naujienų tarnybą šalyje ir dešimtis korespondentų Lietuvos regionuose bei pasaulio šalyse nuo JAV iki Maskvos turintis LRT RADIJAS žinias atnaujina kas dieną, kas minutę(n)</desc>
-    <category lang="lt">Žinios</category>
-    <icon src="https://cdn.tvstart.com/img/programme//thumb/422841.jpg" />
-    <episode-num system="onscreen">E2840</episode-num>
-  </programme>
-  <programme start="20180428000500 +0300" stop="20180428003000 +0300" channel="LRT Televizija">
-    <title lang="lt">Ryto suktinis su Zita Kelmickaite</title>
-    <desc lang="lt">Laidos kūrėjai prižada aplankyti tuos Lietuvos žmones, kurie nedejuoja, kuria, dainuoja, šoka, įdomiai pasakoja, o svarbiausia, nori gyventi savame krašte, puoselėti savo giminės, miestelių ir kaimelių tradicijas. Mums visada bus svarbūs tie, kas kuria savo ir kitų gyvenimą(n)</desc>
-    <category lang="lt">Pramogos</category>
-    <icon src="https://cdn.tvstart.com/img/programme//thumb/347541.jpg" />
-    <episode-num system="onscreen">E339</episode-num>
-  </programme>
-  <programme start="20180428003000 +0300" stop="20180428010000 +0300" channel="LRT Televizija">
-    <title lang="lt">Mūsų gyvūnai</title>
-    <desc lang="lt">Laidos „Mūsų gyvūnai“ žiūrovai išvys aktualiausius reportažus iš tarptautinių šunų ir kačių parodų ne tik Lietuvoje, bet ir užsienyje, laidoje kaskart bus pristatoma vis nauja šunų ar kačių veislė, o jų augintiniams – suteikiami naudingi patarimai. Taip pat – įdomybės akvariumininkams ir egzotinių gyvūnų augintojams, gyvūnų dresūros ypatumai ir viešnagės garsių žmonių namuose(n)</desc>
-    <category lang="lt">Aplinka</category>
-    <icon src="https://cdn.tvstart.com/img/programme//thumb/424703.jpg" />
-    <episode-num system="onscreen">E106</episode-num>
-  </programme>
-  <programme start="20180428010000 +0300" stop="20180428010500 +0300" channel="LRT Televizija">
-    <title lang="lt">LRT radijo žinios</title>
-    <desc lang="lt">Didžiausią naujienų tarnybą šalyje ir dešimtis korespondentų Lietuvos regionuose bei pasaulio šalyse nuo JAV iki Maskvos turintis LRT RADIJAS žinias atnaujina kas dieną, kas minutę(n)</desc>
-    <category lang="lt">Žinios</category>
-    <icon src="https://cdn.tvstart.com/img/programme//thumb/422841.jpg" />
-    <episode-num system="onscreen">E2841</episode-num>
-  </programme>
-  <programme start="20180428010500 +0300" stop="20180428020000 +0300" channel="LRT Televizija">
-    <title lang="lt">Stilius</title>
-    <desc lang="lt">„Stilius“ – tai kokybės ženklas, pozityvi žinia, tai laikas atsipalaiduoti ir pamiršti rūpesčius. Mes žvelgiame giliau ir toliau. Tobuli, bet paprasti dalykai nepraslys pro mūsų akis(n)</desc>
-    <category lang="lt">Kasdienybė</category>
-    <icon src="https://cdn.tvstart.com/img/programme//thumb/399424.jpg" />
-    <episode-num system="onscreen">E391</episode-num>
-  </programme>
-  <programme start="20180428020000 +0300" stop="20180428030000 +0300" channel="LRT Televizija">
-    <title lang="lt">Seserys</title>
-    <desc lang="lt">Vaidybinis serialas. Ispanija. 2016 m(n)</desc>
-    <date>2016</date>
-    <category lang="lt">Drama</category>
-    <category lang="lt">Serialai</category>
-    <icon src="https://cdn.tvstart.com/img/programme//thumb/409800.jpg" />
-    <episode-num system="onscreen">E289</episode-num>
-  </programme>
-  <programme start="20180428030000 +0300" stop="20180428030500 +0300" channel="LRT Televizija">
-    <title lang="lt">Lietuvos Respublikos himnas</title>
-    <desc lang="lt">Lietuvos Respublikos himnas(n)</desc>
-    <category lang="lt">Žinios</category>
-    <icon src="https://cdn.tvstart.com/img/programme//thumb/401727.jpg" />
-    <episode-num system="onscreen">E1</episode-num>
-  </programme>
-  <programme start="20180428030500 +0300" stop="20180428040000 +0300" channel="LRT Televizija">
-    <title lang="lt">Beatos virtuvė</title>
-    <category lang="lt">Kulinarija</category>
-    <icon src="https://cdn.tvstart.com/img/programme//thumb/375699.jpg" />
-    <episode-num system="onscreen">E34</episode-num>
-  </programme>
-  <programme start="20180428040000 +0300" stop="20180428041200 +0300" channel="LRT Televizija">
-    <title lang="lt">Pašėlę Blinkio Bilo nuotykiai</title>
-    <desc lang="lt">Animacinis serialas. Australija. 2016 m(n)</desc>
-    <date>2016</date>
-    <category lang="lt">Nuotykių</category>
-    <category lang="lt">Animacinis</category>
-    <category lang="lt">Visai šeimai</category>
-    <category lang="lt">Vaikams</category>
-    <icon src="https://cdn.tvstart.com/img/programme//thumb/410503.jpg" />
-    <episode-num system="onscreen">E16</episode-num>
-  </programme>
-  <programme start="20180428041200 +0300" stop="20180428042000 +0300" channel="LRT Televizija">
-    <title lang="lt">Pašėlę Blinkio Bilo nuotykiai</title>
-    <desc lang="lt">Animacinis serialas. Australija. 2016 m(n)</desc>
-    <date>2016</date>
-    <category lang="lt">Nuotykių</category>
-    <category lang="lt">Animacinis</category>
-    <category lang="lt">Visai šeimai</category>
-    <category lang="lt">Vaikams</category>
-    <icon src="https://cdn.tvstart.com/img/programme//thumb/410503.jpg" />
-    <episode-num system="onscreen">E17</episode-num>
-  </programme>
-  <programme start="20180428042000 +0300" stop="20180428043000 +0300" channel="LRT Televizija">
-    <title lang="lt">Alvinas ir patrakėliai burundukai</title>
-    <desc lang="lt">Alvinas ir patrakėliai burundukai 1 . Animacinis serialas. JAV, Prancūzija. 2015 m. 1 s(n)</desc>
-    <date>2015</date>
-    <category lang="lt">Animacinis</category>
-    <category lang="lt">Serialai</category>
-    <icon src="https://cdn.tvstart.com/img/programme//thumb/417196.jpg" />
-    <episode-num system="onscreen">S2E1</episode-num>
-  </programme>
-  <programme start="20180428043000 +0300" stop="20180428044500 +0300" channel="LRT Televizija">
-    <title lang="lt">Detektyvė Miretė</title>
-    <desc lang="lt">Animacinis serialas. Prancūzija, Ispanija. 2016 m(n)</desc>
-    <date>2016</date>
-    <category lang="lt">Animacinis</category>
-    <category lang="lt">Serialai</category>
-    <icon src="https://cdn.tvstart.com/img/programme//thumb/421382.jpg" />
-    <episode-num system="onscreen">E21</episode-num>
-  </programme>
-  <programme start="20180428044500 +0300" stop="20180428050700 +0300" channel="LRT Televizija">
-    <title lang="lt">Stebuklingoji Boružėlė</title>
-    <desc lang="lt">Animacinis serialas. Prancūzija. 2015 m(n)</desc>
-    <date>2015</date>
-    <category lang="lt">Animacinis</category>
-    <category lang="lt">Serialai</category>
-    <icon src="https://cdn.tvstart.com/img/programme//thumb/424755." />
-    <episode-num system="onscreen">E9</episode-num>
-  </programme>
-  <programme start="20180428050700 +0300" stop="20180428051000 +0300" channel="LRT Televizija">
-    <title lang="lt">Lietuvos šimtmečio datos</title>
-    <category lang="lt">Kultūra</category>
-    <icon src="https://cdn.tvstart.com/img/programme//thumb/417450.jpg" />
-    <episode-num system="onscreen">E13</episode-num>
-  </programme>
-  <programme start="20180428051000 +0300" stop="20180428060000 +0300" channel="LRT Televizija">
-    <title lang="lt">Karinės paslaptys</title>
-    <desc lang="lt">Didėjant transatlantinės bendruomenės nerimui dėl nestabilumo Rytų Europos ir Rusijos pasienyje, naujas LRT dokumentinių laidų ciklas apie karybą pasakoja apie Lietuvos ir jos sąjungininkių pastangas sustiprinti saugumą mūsų regione. Laidų cikle „Karinės paslaptys” pasakojama apie Lietuvos ir NATO sąjungininkų kariuomenes, karių naudojamą ginkluotę ir taktiką, techniką bei naujausius gynybos technologijų pavyzdžius(n)</desc>
-    <category lang="lt">Istorinis</category>
-    <category lang="lt">Dokumentika</category>
-    <icon src="https://cdn.tvstart.com/img/programme//thumb/372786.jpg" />
-    <episode-num system="onscreen">E90</episode-num>
-  </programme>
-  <programme start="20180428060000 +0300" stop="20180428063000 +0300" channel="LRT Televizija">
-    <title lang="lt">Labas rytas, Lietuva</title>
-    <desc lang="lt">Populiariausia ir ankstyviausia Lietuvoje ryto informacinė laida kiekvieną darbo dienos rytą žiūrovams siūlo tai, kas svarbiausia ryte: naujausias žinias, sporto pranešimus, spaudos apžvalgas, išsamią orų prognozę, pokalbius su studijos svečiais aktualiausiomis nūdienos temomis(n)</desc>
-    <category lang="lt">Žinios</category>
-    <icon src="https://cdn.tvstart.com/img/programme//thumb/422835.png" />
-    <episode-num system="onscreen">E30</episode-num>
-  </programme>
-  <programme start="20180428063000 +0300" stop="20180428063500 +0300" channel="LRT Televizija">
-    <title lang="lt">Žinios. Orai</title>
-    <desc lang="lt">Operatyvi informacija apie svarbiausius įvykius ir procesus(n)</desc>
-    <category lang="lt">Žinios</category>
-    <icon src="https://cdn.tvstart.com/img/programme//thumb/410954.jpg" />
-    <episode-num system="onscreen">E143</episode-num>
-  </programme>
-  <programme start="20180428063500 +0300" stop="20180428073000 +0300" channel="LRT Televizija">
-    <title lang="lt">Labas rytas, Lietuva</title>
-    <desc lang="lt">Populiariausia ir ankstyviausia Lietuvoje ryto informacinė laida kiekvieną darbo dienos rytą žiūrovams siūlo tai, kas svarbiausia ryte: naujausias žinias, sporto pranešimus, spaudos apžvalgas, išsamią orų prognozę, pokalbius su studijos svečiais aktualiausiomis nūdienos temomis(n)</desc>
-    <category lang="lt">Žinios</category>
-    <icon src="https://cdn.tvstart.com/img/programme//thumb/422835.png" />
-    <episode-num system="onscreen">E30</episode-num>
-  </programme>
-  <programme start="20180428073000 +0300" stop="20180428073500 +0300" channel="LRT Televizija">
-    <title lang="lt">Žinios. Orai</title>
-    <desc lang="lt">Operatyvi informacija apie svarbiausius įvykius ir procesus(n)</desc>
-    <category lang="lt">Žinios</category>
-    <icon src="https://cdn.tvstart.com/img/programme//thumb/410954.jpg" />
-    <episode-num system="onscreen">E143</episode-num>
-  </programme>
-  <programme start="20180428073500 +0300" stop="20180428083000 +0300" channel="LRT Televizija">
-    <title lang="lt">Labas rytas, Lietuva</title>
-    <desc lang="lt">Populiariausia ir ankstyviausia Lietuvoje ryto informacinė laida kiekvieną darbo dienos rytą žiūrovams siūlo tai, kas svarbiausia ryte: naujausias žinias, sporto pranešimus, spaudos apžvalgas, išsamią orų prognozę, pokalbius su studijos svečiais aktualiausiomis nūdienos temomis(n)</desc>
-    <category lang="lt">Žinios</category>
-    <icon src="https://cdn.tvstart.com/img/programme//thumb/422835.png" />
-    <episode-num system="onscreen">E30</episode-num>
-  </programme>
-  <programme start="20180428083000 +0300" stop="20180428083500 +0300" channel="LRT Televizija">
-    <title lang="lt">Žinios. Orai</title>
-    <desc lang="lt">Operatyvi informacija apie svarbiausius įvykius ir procesus(n)</desc>
-    <category lang="lt">Žinios</category>
-    <icon src="https://cdn.tvstart.com/img/programme//thumb/410954.jpg" />
-    <episode-num system="onscreen">E143</episode-num>
-  </programme>
-  <programme start="20180428083500 +0300" stop="20180428084500 +0300" channel="LRT Televizija">
-    <title lang="lt">Labas rytas, Lietuva</title>
-    <desc lang="lt">Populiariausia ir ankstyviausia Lietuvoje ryto informacinė laida kiekvieną darbo dienos rytą žiūrovams siūlo tai, kas svarbiausia ryte: naujausias žinias, sporto pranešimus, spaudos apžvalgas, išsamią orų prognozę, pokalbius su studijos svečiais aktualiausiomis nūdienos temomis(n)</desc>
-    <category lang="lt">Žinios</category>
-    <icon src="https://cdn.tvstart.com/img/programme//thumb/422835.png" />
-    <episode-num system="onscreen">E30</episode-num>
-  </programme>
-  <programme start="20180428084500 +0300" stop="20180428094500 +0300" channel="LRT Televizija">
-    <title lang="lt">Gorongozos nacionalinis parkas. Rojaus atgimimas</title>
-    <desc lang="lt">Dokumentinis serialas. JAV. 2015 m. 3 d. Šviežias kraujas (New Blood). Rež. James Byrne(n)</desc>
-    <date>2015</date>
-    <category lang="lt">Apie gamtą</category>
-    <category lang="lt">Dokumentika</category>
-    <icon src="https://cdn.tvstart.com/img/programme//thumb/426197.jpg" />
-    <episode-num system="onscreen">E3</episode-num>
-  </programme>
-  <programme start="20180428094500 +0300" stop="20180428103800 +0300" channel="LRT Televizija">
-    <title lang="lt">Gamtos pasaulis. Tobula partnerystė</title>
-    <desc lang="lt">Dokumentinis filmas. Didžioji Britanija. 2016 m. Rež. Roger Webb(n)</desc>
-    <date>2016</date>
-    <category lang="lt">Aplinka</category>
-    <icon src="https://cdn.tvstart.com/img/programme//thumb/403088.jpg" />
-  </programme>
-  <programme start="20180428103800 +0300" stop="20180428104000 +0300" channel="LRT Televizija">
-    <title lang="lt">Lietuvos šimtmečio datos</title>
-    <category lang="lt">Kultūra</category>
-    <icon src="https://cdn.tvstart.com/img/programme//thumb/417450.jpg" />
-    <episode-num system="onscreen">E13</episode-num>
-  </programme>
-  <programme start="20180428104000 +0300" stop="20180428121500 +0300" channel="LRT Televizija">
-    <title lang="lt">Mis Marpl. Kodėl nepaklausė Evans?</title>
-    <desc lang="lt">Be galo smalsi ir žavinga senučiukė Džein Marpl Agathos Christie kūriniuose atsirado 1930 m. ir akimirksniu užkariavo skaitytojų simpatijas. Pagyvenusi kaimo ledi sugeba išnarplioti painiausius nusikaltimus, kurių neįkanda net profesionalūs detektyvai. Mis Marpl atmintis sukaupusi neišsenkamus pavyzdžius iš savo kaimynų gyvenimo, tereikia surasti tinkamą analogiją ir ja pasinaudojus rasti nusikaltėlius(n)</desc>
-    <date>2008</date>
-    <category lang="lt">Detektyvas</category>
-    <category lang="lt">Serialai</category>
-    <icon src="https://cdn.tvstart.com/img/programme//thumb/154533.jpg" />
-    <episode-num system="onscreen">S4E3</episode-num>
-  </programme>
-  <programme start="20180428121500 +0300" stop="20180428124500 +0300" channel="LRT Televizija">
-    <title lang="lt">Dokumentinė apybraiža „Mes nugalėjom“</title>
-    <desc lang="lt">Aut. Viktorija Zavistanovič(n)</desc>
-    <category lang="lt">Kultūra</category>
-    <icon src="https://cdn.tvstart.com/img/programme//thumb/412633.jpg" />
-    <episode-num system="onscreen">E48</episode-num>
-  </programme>
-  <programme start="20180428124500 +0300" stop="20180428130000 +0300" channel="LRT Televizija">
-    <title lang="lt">Žinios. Orai</title>
-    <desc lang="lt">Operatyvi informacija apie svarbiausius įvykius ir procesus(n)</desc>
-    <category lang="lt">Žinios</category>
-    <icon src="https://cdn.tvstart.com/img/programme//thumb/410954.jpg" />
-    <episode-num system="onscreen">E391</episode-num>
-  </programme>
-  <programme start="20180428130000 +0300" stop="20180428143000 +0300" channel="LRT Televizija">
-    <title lang="lt">Sveikinimų koncertas</title>
-    <desc lang="lt">Pasveikinkim vieni kitus už tuos gražius širdies turtus, už tai, kad nieko du kartus šiame pasaulyje nebus. Laidos vedėja Regina Jokubauskaitė(n)</desc>
+  <programme start="20180501210000 +0300" stop="20180501230000 +0300" channel="MTV Music">
+    <title lang="lt">Best of British! Top 20</title>
+    <desc lang="lt">Ed Sheeran, Adele, Jess Glynne... there are loads of talented Brits out there and right now we are counting down the cream of the crop! Here is MTV's Best Of British Top 20(n)</desc>
     <category lang="lt">Muzika</category>
-    <icon src="https://cdn.tvstart.com/img/programme//thumb/347538.jpg" />
-    <episode-num system="onscreen">E512</episode-num>
   </programme>
-  <programme start="20180428143000 +0300" stop="20180428150000 +0300" channel="LRT Televizija">
-    <title lang="lt">Žinios. Orai</title>
-    <desc lang="lt">Operatyvi informacija apie svarbiausius įvykius ir procesus(n)</desc>
-    <category lang="lt">Žinios</category>
-    <icon src="https://cdn.tvstart.com/img/programme//thumb/410954.jpg" />
-    <episode-num system="onscreen">E34</episode-num>
+  <programme start="20180501230000 +0300" stop="20180502010000 +0300" channel="MTV Music">
+    <title lang="lt">Hottest Worldwide Hits: Top 20!</title>
+    <desc lang="lt">We've got a playlist filled with the biggest hits that have taken over the world(n)</desc>
+    <category lang="lt">Muzika</category>
   </programme>
-  <programme start="20180428150000 +0300" stop="20180428153000 +0300" channel="LRT Televizija">
-    <title lang="lt">Teisė žinoti</title>
-    <desc lang="lt">„Teisė žinoti“ – diskusija aktualiomis temomis su informuotais ir savo nuomonę turinčiais pašnekovais, kurių veikla Jums gali būti ne tik įdomi, bet ir svarbi(n)</desc>
-    <category lang="lt">Pokalbių šou</category>
-    <icon src="https://cdn.tvstart.com/img/programme//thumb/347536.jpg" />
-    <episode-num system="onscreen">E207</episode-num>
+  <programme start="20180502010000 +0300" stop="20180502030000 +0300" channel="MTV Music">
+    <title lang="lt">A-List Playlist</title>
+    <desc lang="lt">At MTV we're committed to bringing you the biggest stars from around the globe and right now we've packaged up the biggest-selling stars to bring you our A-List Playlist(n)</desc>
+    <category lang="lt">Muzika</category>
+    <icon src="https://cdn.tvstart.com/img/programme//thumb/398343.jpg" />
   </programme>
-  <programme start="20180428153000 +0300" stop="20180428162500 +0300" channel="LRT Televizija">
-    <title lang="lt">Nacionalinė paieškų tarnyba</title>
-    <desc lang="lt">Analogų neturinti televizijos laida, padedanti po pasaulį išblaškytiems giminaičiams ir artimiesiems surasti vienam kitą(n)</desc>
-    <category lang="lt">Dokumentika</category>
-    <category lang="lt">Kasdienybė</category>
-    <icon src="https://cdn.tvstart.com/img/programme//thumb/347534.jpg" />
-    <episode-num system="onscreen">E265</episode-num>
+  <programme start="20180502030000 +0300" stop="20180502050000 +0300" channel="MTV Music">
+    <title lang="lt">Teleshopping</title>
+    <desc lang="lt">Emisiune în care sunt prezentate diferite produse în scopul vânzarii lor catre telespectatorii doritori, prin intermediul unei comenzi telefonice. Află care sunt cele mai noi produse de pe piaţă menite a-ţi schimba viaţa. Fă economie de timp şi chiar de bani. Fă shopping în faţa televizorului(n)</desc>
+    <category lang="lt">Teleparduotuvė</category>
+    <icon src="https://cdn.tvstart.com/img/programme//thumb/398351.jpg" />
   </programme>
-  <programme start="20180428162500 +0300" stop="20180428163000 +0300" channel="LRT Televizija">
-    <title lang="lt">Lietuvos šimtmečio datos</title>
-    <category lang="lt">Kultūra</category>
-    <icon src="https://cdn.tvstart.com/img/programme//thumb/417450.jpg" />
-    <episode-num system="onscreen">E13</episode-num>
+  <programme start="20180502050000 +0300" stop="20180502070000 +0300" channel="MTV Music">
+    <title lang="lt">A-List Playlist</title>
+    <desc lang="lt">At MTV we're committed to bringing you the biggest stars from around the globe and right now we've packaged up the biggest-selling stars to bring you our A-List Playlist(n)</desc>
+    <category lang="lt">Muzika</category>
+    <icon src="https://cdn.tvstart.com/img/programme//thumb/398343.jpg" />
   </programme>
-  <programme start="20180428163000 +0300" stop="20180428172500 +0300" channel="LRT Televizija">
-    <title lang="lt">Stilius</title>
-    <desc lang="lt">„Stilius“ – tai kokybės ženklas, pozityvi žinia, tai laikas atsipalaiduoti ir pamiršti rūpesčius. Mes žvelgiame giliau ir toliau. Tobuli, bet paprasti dalykai nepraslys pro mūsų akis(n)</desc>
-    <category lang="lt">Kasdienybė</category>
-    <icon src="https://cdn.tvstart.com/img/programme//thumb/399424.jpg" />
-    <episode-num system="onscreen">E392</episode-num>
+  <programme start="20180502070000 +0300" stop="20180502080000 +0300" channel="MTV Music">
+    <title lang="lt">2018's Hottest Party Hits! Top 10</title>
+    <desc lang="lt">The party is right here on MTV Music as we take you through 2018's biggest dancefloor fillers. Expect ten of the biggest, loudest and best songs to soundtrack your party(n)</desc>
+    <category lang="lt">Muzika</category>
+    <icon src="https://cdn.tvstart.com/img/programme//thumb/398354.jpg" />
   </programme>
-  <programme start="20180428172500 +0300" stop="20180428173000 +0300" channel="LRT Televizija">
-    <title lang="lt">Loterijos „Keno Loto“ ir „Jėga“</title>
-    <category lang="lt">TV žaidimas</category>
-    <icon src="https://cdn.tvstart.com/img/programme//thumb/384602.jpg" />
-    <episode-num system="onscreen">E110</episode-num>
+  <programme start="20180502080000 +0300" stop="20180502090000 +0300" channel="MTV Music">
+    <title lang="lt">Sia: Official Top 10</title>
+    <desc lang="lt">We use exclusive official charts data to count down the Top 10 best-selling singles from Aussie superstar singer-songwriter Sia. What will be her biggest-selling record? Tune in to find out(n)</desc>
+    <category lang="lt">Muzika</category>
   </programme>
-  <programme start="20180428173000 +0300" stop="20180428175200 +0300" channel="LRT Televizija">
-    <title lang="lt">Panorama</title>
-    <desc lang="lt">Svarbiausios naujienos iš Lietuvos ir pasaulio – ne tik iš sostinių, bet ir atokiausių kampelių, informacija tiesiogiai iš įvykių epicentro, argumentų kaktomuša, interviu su dienos herojais tiesioginiame eteryje(n)</desc>
-    <category lang="lt">Žinios</category>
-    <icon src="https://cdn.tvstart.com/img/programme//thumb/328765.jpg" />
-    <episode-num system="onscreen">E1362</episode-num>
+  <programme start="20180502090000 +0300" stop="20180502123000 +0300" channel="MTV Music">
+    <title lang="lt">The Official UK Top 40</title>
+    <desc lang="lt">Exclusive first look at the biggest-selling songs of the week as we reveal the winners and losers of the race to the Official UK Number One spot(n)</desc>
+    <category lang="lt">Muzika</category>
+    <icon src="https://cdn.tvstart.com/img/programme//thumb/411717.jpg" />
+    <episode-num system="onscreen">S11E1118</episode-num>
   </programme>
-  <programme start="20180428175200 +0300" stop="20180428180000 +0300" channel="LRT Televizija">
-    <title lang="lt">Sportas</title>
-    <desc lang="lt">„Sporto žiniose“ – Lietuvos ir pasaulio rekordai bei svarbiausių varžybų akimirkos. Faktai ir įspūdžiai iš didžiausių planetos stadionų bei mūsų šalies miestų arenų. Olimpinių medalių spindesys ir sūrūs sportininkų prakaito lašai(n)</desc>
-    <category lang="lt">Žinios</category>
-    <icon src="https://cdn.tvstart.com/img/programme//thumb/419563.jpeg" />
-    <episode-num system="onscreen">E34</episode-num>
+  <programme start="20180502123000 +0300" stop="20180502130000 +0300" channel="MTV Music">
+    <title lang="lt">Years &amp; Years Live @ V Festival 2016</title>
+    <desc lang="lt">Years &amp; Years perform live at V Festival(n)</desc>
+    <category lang="lt">Muzika</category>
   </programme>
-  <programme start="20180428180000 +0300" stop="20180428200500 +0300" channel="LRT Televizija">
-    <title lang="lt">Muzikinė pramoginė programa „Du balsai – viena širdis“</title>
-    <category lang="lt">Pramogos</category>
-    <icon src="https://cdn.tvstart.com/img/programme//thumb/424647.jpg" />
-    <episode-num system="onscreen">E7</episode-num>
+  <programme start="20180502130000 +0300" stop="20180502150000 +0300" channel="MTV Music">
+    <title lang="lt">Official Top 20 Number Ones of the 10s</title>
+    <desc lang="lt">We use exclusive official charts stats to count down the best-selling chart-toppers of the decade! What will be crowned Number 1? Tune in to find out!(n)</desc>
+    <category lang="lt">Muzika</category>
   </programme>
-  <programme start="20180428200500 +0300" stop="20180428201000 +0300" channel="LRT Televizija">
-    <title lang="lt">Trumposios žinios</title>
-    <desc lang="lt">Lietuvos ir užsienio įvykiai(n)</desc>
-    <category lang="lt">Žinios</category>
-    <icon src="https://cdn.tvstart.com/img/programme//thumb/369075.jpg" />
-    <episode-num system="onscreen">E1684</episode-num>
+  <programme start="20180502150000 +0300" stop="20180502153000 +0300" channel="MTV Music">
+    <title lang="lt">Jason Derulo: Is This Your King Of Pop</title>
+    <title lang="xx">Shawn Mendes: Is This Your King Of Pop</title>
+    <desc lang="lt">? MTV is celebrating the Royal Wedding! The stars are battling it out for your votes to see who will be crowned the King and Queen of Pop, so head to mtv.co.uk/poproyalty and vote now!(n)</desc>
+    <category lang="lt">Muzika</category>
   </programme>
-  <programme start="20180428201000 +0300" stop="20180428215500 +0300" channel="LRT Televizija">
-    <title lang="lt">Išbandymas dviem</title>
-    <title lang="xx">Admission</title>
-    <desc lang="lt">Kiekvieną pavasarį mokyklų absolventai su baime laukia laiškų iš koledžų priėmimo komisijų, galinčių padrąsinti ir paskatinti juos siekti savo tikslų. Prinstono universiteto priėmimo komisijos narei Poršijai Neitan (akt. Tina Fey) tenka vertinti tūkstančius paraiškų. Bėgant metams, Poršija gyvena pagal taisykles, savo darbo rūpesčiais namuose ji dalijasi su Prinstono profesoriumi Marku (akt. Michael Sheen). Klarensui (akt. Wallace Shawn), priėmimo reikalų dekanui, paskelbus apie artėjantį išėjimą į pensiją, stipriausiomis kandidatėmis į jo vietą tampa Poršija ir jos varžovė bendradarbė Korina (akt. Gloria Reuben). Tačiau Poršijai tai įprasti darbo reikalai, nes ji leidžiasi į kasmetinę kelionę ieškoti naujokų(n)</desc>
-    <credits>
-      <director>Paul Weitz</director>
-      <actor>Tina Fey</actor>
-      <actor>Ann Harada</actor>
-      <actor>Ben Levin</actor>
-      <actor>Dan Levy</actor>
-      <actor>Maggie Keenan-Bolger</actor>
-      <actor>Gloria Reuben</actor>
-      <actor>Paul Rudd</actor>
-      <actor>Wallace Shawn</actor>
-      <actor>Elaine Kussack</actor>
-      <actor>Christopher Evan Welch</actor>
-      <actor>Michael Genadry</actor>
-      <actor>Juliet Brett</actor>
-      <actor>John Brodsky</actor>
-      <actor>Camille Branton</actor>
-      <actor>Sarita Choudhury</actor>
-    </credits>
-    <date>2013</date>
-    <category lang="lt">Komedija</category>
-    <category lang="lt">Drama</category>
-    <category lang="lt">Melodrama</category>
-    <category lang="lt">Filmai</category>
-    <icon src="https://cdn.tvstart.com/img/programme//thumb/382433.jpg" />
-    <country>JAV</country>
-    <rating system="IMDb">
-      <value>5.7</value>
-    </rating>
+  <programme start="20180502153000 +0300" stop="20180502160000 +0300" channel="MTV Music">
+    <title lang="lt">Jess Glynne: Is This Your Queen Of Pop</title>
+    <title lang="xx">Camila Cabello: Is This Your Queen Of Pop</title>
+    <desc lang="lt">? MTV is celebrating the Royal Wedding! The stars are battling it out for your votes to see who will be crowned the King and Queen of Pop, so head to mtv.co.uk/poproyalty and vote now!(n)</desc>
+    <category lang="lt">Muzika</category>
   </programme>
-  <programme start="20180428215500 +0300" stop="20180429000000 +0300" channel="LRT Televizija">
-    <title lang="lt">Kamuolinis žaibas</title>
-    <title lang="xx">Thunderball</title>
-    <desc lang="lt">Veiksmo trileris. Didžioji Britanija, JAV. 1965 m. Rež. Terence Young(n)</desc>
-    <credits>
-      <director>Terence Young</director>
-      <actor>Sean Connery</actor>
-      <actor>Claudine Auger</actor>
-      <actor>Adolfo Celi</actor>
-      <actor>Luciana Paluzzi</actor>
-      <actor>Rik Van Nutter</actor>
-      <actor>Guy Doleman</actor>
-      <actor>Molly Peters</actor>
-      <actor>Martine Beswick</actor>
-      <actor>Bernard Lee</actor>
-      <actor>Desmond Llewelyn</actor>
-      <actor>Lois Maxwell</actor>
-      <actor>Roland Culver</actor>
-      <actor>Earl Cameron</actor>
-      <actor>Paul Stassino</actor>
-      <actor>Rose Alba</actor>
-    </credits>
-    <date>1965</date>
-    <category lang="lt">Veiksmo</category>
-    <category lang="lt">Nuotykių</category>
-    <category lang="lt">Trileris</category>
-    <category lang="lt">Filmai</category>
-    <icon src="https://cdn.tvstart.com/img/programme//thumb/328267.jpg" />
-    <country>Didžioji Britanija</country>
-    <rating system="IMDb">
-      <value>7</value>
-    </rating>
+  <programme start="20180502160000 +0300" stop="20180502170000 +0300" channel="MTV Music">
+    <title lang="lt">The Official Trending Chart Top 10</title>
+    <desc lang="lt">The Official Trending Chart is our weekly Top 10 countdown of the hottest new tracks beginning to make an impact in the UK. Check out this week's biggest movers(n)</desc>
+    <category lang="lt">Serialai</category>
+  </programme>
+  <programme start="20180502170000 +0300" stop="20180502190000 +0300" channel="MTV Music">
+    <title lang="lt">The Official Audio Streaming Chart Top 20</title>
+    <desc lang="lt">Be the first to discover who is Number One in the only Official Streaming Chart compiled exclusively by the Official Charts Company(n)</desc>
+    <category lang="lt">Muzika</category>
+    <icon src="https://cdn.tvstart.com/img/programme//thumb/398360.jpg" />
+  </programme>
+  <programme start="20180502190000 +0300" stop="20180502200000 +0300" channel="MTV Music">
+    <title lang="lt">Ed Sheeran: Official Top 10</title>
+    <desc lang="lt">We use exclusive official charts stats to count down the ten biggest and best singles from Ed Sheeran! What will be his official Number 1? Tune in to find out(n)</desc>
+    <category lang="lt">Muzika</category>
+  </programme>
+  <programme start="20180502200000 +0300" stop="20180502233000 +0300" channel="MTV Music">
+    <title lang="lt">The Official UK Top 40</title>
+    <desc lang="lt">Exclusive first look at the biggest-selling songs of the week as we reveal the winners and losers of the race to the Official UK Number One spot(n)</desc>
+    <category lang="lt">Muzika</category>
+    <icon src="https://cdn.tvstart.com/img/programme//thumb/411717.jpg" />
+    <episode-num system="onscreen">S11E1118</episode-num>
   </programme>
   <programme start="20180429000000 +0300" stop="20180429005500 +0300" channel="LRT Televizija">
     <title lang="lt">Gorongozos nacionalinis parkas. Rojaus atgimimas</title>
@@ -2795,7 +2475,7 @@
     <icon src="https://cdn.tvstart.com/img/programme//thumb/399423.jpg" />
     <episode-num system="onscreen">E257</episode-num>
   </programme>
-  <programme start="20180430005500 +0300" stop="20180430010000 +0300" channel="LRT Televizija">
+  <programme start="20180430005500 +0300" stop="20180430030000 +0300" channel="LRT Televizija">
     <title lang="lt">Muzikinė pramoginė programa „Du balsai – viena širdis“</title>
     <category lang="lt">Pramogos</category>
     <icon src="https://cdn.tvstart.com/img/programme//thumb/424647.jpg" />
@@ -3351,253 +3031,387 @@
     <icon src="https://cdn.tvstart.com/img/programme//thumb/370026.jpg" />
     <episode-num system="onscreen">S2E10</episode-num>
   </programme>
-  <programme start="20180428003000 +0300" stop="20180428011500 +0300" channel="LRT Kultūra">
-    <title lang="lt">Kultūros teismas</title>
-    <desc lang="lt">Teisėja Snieguolė Matulienė(n)</desc>
-    <category lang="lt">Kultūra</category>
-    <icon src="https://cdn.tvstart.com/img/programme//thumb/418103.jpg" />
-    <episode-num system="onscreen">E29</episode-num>
+  <programme start="20180501211500 +0300" stop="20180501220000 +0300" channel="LRT Televizija">
+    <title lang="lt">Karinės paslaptys</title>
+    <desc lang="lt">Didėjant transatlantinės bendruomenės nerimui dėl nestabilumo Rytų Europos ir Rusijos pasienyje, naujas LRT dokumentinių laidų ciklas apie karybą pasakoja apie Lietuvos ir jos sąjungininkių pastangas sustiprinti saugumą mūsų regione. Laidų cikle „Karinės paslaptys” pasakojama apie Lietuvos ir NATO sąjungininkų kariuomenes, karių naudojamą ginkluotę ir taktiką, techniką bei naujausius gynybos technologijų pavyzdžius(n)</desc>
+    <category lang="lt">Istorinis</category>
+    <category lang="lt">Dokumentika</category>
+    <icon src="https://cdn.tvstart.com/img/programme//thumb/372786.jpg" />
+    <episode-num system="onscreen">E90</episode-num>
   </programme>
-  <programme start="20180428011500 +0300" stop="20180428020000 +0300" channel="LRT Kultūra">
-    <title lang="lt">Kalbantys tekstai</title>
-    <desc lang="lt">Alvydas Šlepikas(n)</desc>
-    <category lang="lt">Kultūra</category>
-    <icon src="https://cdn.tvstart.com/img/programme//thumb/418252.jpg" />
-    <episode-num system="onscreen">E10</episode-num>
+  <programme start="20180501220000 +0300" stop="20180501220500 +0300" channel="LRT Televizija">
+    <title lang="lt">LRT radijo žinios</title>
+    <desc lang="lt">Didžiausią naujienų tarnybą šalyje ir dešimtis korespondentų Lietuvos regionuose bei pasaulio šalyse nuo JAV iki Maskvos turintis LRT RADIJAS žinias atnaujina kas dieną, kas minutę(n)</desc>
+    <category lang="lt">Žinios</category>
+    <icon src="https://cdn.tvstart.com/img/programme//thumb/422841.jpg" />
+    <episode-num system="onscreen">E2846</episode-num>
   </programme>
-  <programme start="20180428020000 +0300" stop="20180428023000 +0300" channel="LRT Kultūra">
-    <title lang="lt">Euromaxx</title>
-    <desc lang="lt">Ved. Ugnė Galadauskaitė(n)</desc>
+  <programme start="20180501220500 +0300" stop="20180501230000 +0300" channel="LRT Televizija">
+    <title lang="lt">Dokumentinė istorinė laida „Lietuvos kolumbai“</title>
+    <desc lang="lt">Scen. autorė ir ved. Edita Mildažytė(n)</desc>
+    <category lang="lt">Dokumentika</category>
+    <icon src="https://cdn.tvstart.com/img/programme//thumb/407473.jpg" />
+    <episode-num system="onscreen">E17</episode-num>
+  </programme>
+  <programme start="20180501230000 +0300" stop="20180501230500 +0300" channel="LRT Televizija">
+    <title lang="lt">LRT radijo žinios</title>
+    <desc lang="lt">Didžiausią naujienų tarnybą šalyje ir dešimtis korespondentų Lietuvos regionuose bei pasaulio šalyse nuo JAV iki Maskvos turintis LRT RADIJAS žinias atnaujina kas dieną, kas minutę(n)</desc>
+    <category lang="lt">Žinios</category>
+    <icon src="https://cdn.tvstart.com/img/programme//thumb/422841.jpg" />
+    <episode-num system="onscreen">E2847</episode-num>
+  </programme>
+  <programme start="20180501230500 +0300" stop="20180502000000 +0300" channel="LRT Televizija">
+    <title lang="lt">Klauskite daktaro</title>
+    <desc lang="lt">Kūrybinė laidos grupė šiemet pažada visą Lietuvą padaryti sveikesnę. Pagrindinis laidos tikslas – ne pasakoti apie ligas, o visą dėmesį sutelkti į ligų prevenciją bei sveiką gyvenimo būdą(n)</desc>
+    <category lang="lt">Sveikata</category>
+    <icon src="https://cdn.tvstart.com/img/programme//thumb/399380.jpg" />
+    <episode-num system="onscreen">E590</episode-num>
+  </programme>
+  <programme start="20180502000000 +0300" stop="20180502000500 +0300" channel="LRT Televizija">
+    <title lang="lt">LRT radijo žinios</title>
+    <desc lang="lt">Didžiausią naujienų tarnybą šalyje ir dešimtis korespondentų Lietuvos regionuose bei pasaulio šalyse nuo JAV iki Maskvos turintis LRT RADIJAS žinias atnaujina kas dieną, kas minutę(n)</desc>
+    <category lang="lt">Žinios</category>
+    <icon src="https://cdn.tvstart.com/img/programme//thumb/422841.jpg" />
+    <episode-num system="onscreen">E2848</episode-num>
+  </programme>
+  <programme start="20180502000500 +0300" stop="20180502010000 +0300" channel="LRT Televizija">
+    <title lang="lt">Istorijos detektyvai</title>
+    <desc lang="lt">Atsakymų į senovės mįsles bus ieškoma ne tik Lietuvoje ar Vilniuje. Filmuota medžiaga bus iš Lenkijos, Latvijos. Istorines minkles padės įminti patys geriausi Lietuvos istorikai, archeologai, mitologai, kalbininkai(n)</desc>
+    <category lang="lt">Istorinis</category>
+    <icon src="https://cdn.tvstart.com/img/programme//thumb/422834.jpg" />
+    <episode-num system="onscreen">E25</episode-num>
+  </programme>
+  <programme start="20180502010000 +0300" stop="20180502010500 +0300" channel="LRT Televizija">
+    <title lang="lt">LRT radijo žinios</title>
+    <desc lang="lt">Didžiausią naujienų tarnybą šalyje ir dešimtis korespondentų Lietuvos regionuose bei pasaulio šalyse nuo JAV iki Maskvos turintis LRT RADIJAS žinias atnaujina kas dieną, kas minutę(n)</desc>
+    <category lang="lt">Žinios</category>
+    <icon src="https://cdn.tvstart.com/img/programme//thumb/422841.jpg" />
+    <episode-num system="onscreen">E2849</episode-num>
+  </programme>
+  <programme start="20180502010500 +0300" stop="20180502020000 +0300" channel="LRT Televizija">
+    <title lang="lt">Emigrantai</title>
+    <desc lang="lt">Laidoje „Emigrantai“ - naujausių išeivių sudužusios viltys ir nepagražinti likimai, dokumentiniai kadrai, kuriuose užfisuota, nepagražinta Ispanijoje ir Anglijoje laimės ieškančių lietuvaičių gyvenimo realybė. Ar iš tikrųjų TEN geriau nei ČIA(n)</desc>
+    <category lang="lt">Dokumentika</category>
+    <category lang="lt">Drama</category>
+    <icon src="https://cdn.tvstart.com/img/programme//thumb/374153.jpg" />
+    <episode-num system="onscreen">E210</episode-num>
+  </programme>
+  <programme start="20180502020000 +0300" stop="20180502030000 +0300" channel="LRT Televizija">
+    <title lang="lt">Seserys</title>
+    <desc lang="lt">Vaidybinis serialas. Ispanija. 2016 m(n)</desc>
+    <date>2016</date>
+    <category lang="lt">Drama</category>
+    <category lang="lt">Serialai</category>
+    <icon src="https://cdn.tvstart.com/img/programme//thumb/409800.jpg" />
+    <episode-num system="onscreen">E291</episode-num>
+  </programme>
+  <programme start="20180502030000 +0300" stop="20180502030500 +0300" channel="LRT Televizija">
+    <title lang="lt">Lietuvos Respublikos himnas</title>
+    <desc lang="lt">Lietuvos Respublikos himnas(n)</desc>
+    <category lang="lt">Žinios</category>
+    <icon src="https://cdn.tvstart.com/img/programme//thumb/401727.jpg" />
+    <episode-num system="onscreen">E1</episode-num>
+  </programme>
+  <programme start="20180502030500 +0300" stop="20180502033000 +0300" channel="LRT Televizija">
+    <title lang="lt">Labas rytas, Lietuva</title>
+    <desc lang="lt">Populiariausia ir ankstyviausia Lietuvoje ryto informacinė laida kiekvieną darbo dienos rytą žiūrovams siūlo tai, kas svarbiausia ryte: naujausias žinias, sporto pranešimus, spaudos apžvalgas, išsamią orų prognozę, pokalbius su studijos svečiais aktualiausiomis nūdienos temomis(n)</desc>
+    <category lang="lt">Žinios</category>
+    <icon src="https://cdn.tvstart.com/img/programme//thumb/422835.png" />
+    <episode-num system="onscreen">E1061</episode-num>
+  </programme>
+  <programme start="20180502033000 +0300" stop="20180502033700 +0300" channel="LRT Televizija">
+    <title lang="lt">Žinios. Orai</title>
+    <desc lang="lt">Operatyvi informacija apie svarbiausius įvykius ir procesus(n)</desc>
+    <category lang="lt">Žinios</category>
+    <icon src="https://cdn.tvstart.com/img/programme//thumb/410954.jpg" />
+    <episode-num system="onscreen">E26</episode-num>
+  </programme>
+  <programme start="20180502033700 +0300" stop="20180502040000 +0300" channel="LRT Televizija">
+    <title lang="lt">Labas rytas, Lietuva</title>
+    <desc lang="lt">Populiariausia ir ankstyviausia Lietuvoje ryto informacinė laida kiekvieną darbo dienos rytą žiūrovams siūlo tai, kas svarbiausia ryte: naujausias žinias, sporto pranešimus, spaudos apžvalgas, išsamią orų prognozę, pokalbius su studijos svečiais aktualiausiomis nūdienos temomis(n)</desc>
+    <category lang="lt">Žinios</category>
+    <icon src="https://cdn.tvstart.com/img/programme//thumb/422835.png" />
+    <episode-num system="onscreen">E1061</episode-num>
+  </programme>
+  <programme start="20180502040000 +0300" stop="20180502041000 +0300" channel="LRT Televizija">
+    <title lang="lt">Žinios. Orai</title>
+    <desc lang="lt">Operatyvi informacija apie svarbiausius įvykius ir procesus(n)</desc>
+    <category lang="lt">Žinios</category>
+    <icon src="https://cdn.tvstart.com/img/programme//thumb/410954.jpg" />
+    <episode-num system="onscreen">E26</episode-num>
+  </programme>
+  <programme start="20180502041000 +0300" stop="20180502041500 +0300" channel="LRT Televizija">
+    <title lang="lt">Labas rytas, Lietuva</title>
+    <desc lang="lt">Populiariausia ir ankstyviausia Lietuvoje ryto informacinė laida kiekvieną darbo dienos rytą žiūrovams siūlo tai, kas svarbiausia ryte: naujausias žinias, sporto pranešimus, spaudos apžvalgas, išsamią orų prognozę, pokalbius su studijos svečiais aktualiausiomis nūdienos temomis(n)</desc>
+    <category lang="lt">Žinios</category>
+    <icon src="https://cdn.tvstart.com/img/programme//thumb/422835.png" />
+    <episode-num system="onscreen">E1061</episode-num>
+  </programme>
+  <programme start="20180502041500 +0300" stop="20180502041800 +0300" channel="LRT Televizija">
+    <title lang="lt">Šimtas. Trumpos istorijos apie dvi Lietuvas</title>
+    <category lang="lt">Kultūra</category>
+    <icon src="https://cdn.tvstart.com/img/programme//thumb/417451.jpg" />
+    <episode-num system="onscreen">E37</episode-num>
+  </programme>
+  <programme start="20180502041800 +0300" stop="20180502043000 +0300" channel="LRT Televizija">
+    <title lang="lt">Labas rytas, Lietuva</title>
+    <desc lang="lt">Populiariausia ir ankstyviausia Lietuvoje ryto informacinė laida kiekvieną darbo dienos rytą žiūrovams siūlo tai, kas svarbiausia ryte: naujausias žinias, sporto pranešimus, spaudos apžvalgas, išsamią orų prognozę, pokalbius su studijos svečiais aktualiausiomis nūdienos temomis(n)</desc>
+    <category lang="lt">Žinios</category>
+    <icon src="https://cdn.tvstart.com/img/programme//thumb/422835.png" />
+    <episode-num system="onscreen">E1061</episode-num>
+  </programme>
+  <programme start="20180502043000 +0300" stop="20180502044000 +0300" channel="LRT Televizija">
+    <title lang="lt">Žinios. Orai</title>
+    <desc lang="lt">Operatyvi informacija apie svarbiausius įvykius ir procesus(n)</desc>
+    <category lang="lt">Žinios</category>
+    <icon src="https://cdn.tvstart.com/img/programme//thumb/410954.jpg" />
+    <episode-num system="onscreen">E26</episode-num>
+  </programme>
+  <programme start="20180502044000 +0300" stop="20180502050000 +0300" channel="LRT Televizija">
+    <title lang="lt">Labas rytas, Lietuva</title>
+    <desc lang="lt">Populiariausia ir ankstyviausia Lietuvoje ryto informacinė laida kiekvieną darbo dienos rytą žiūrovams siūlo tai, kas svarbiausia ryte: naujausias žinias, sporto pranešimus, spaudos apžvalgas, išsamią orų prognozę, pokalbius su studijos svečiais aktualiausiomis nūdienos temomis(n)</desc>
+    <category lang="lt">Žinios</category>
+    <icon src="https://cdn.tvstart.com/img/programme//thumb/422835.png" />
+    <episode-num system="onscreen">E1061</episode-num>
+  </programme>
+  <programme start="20180502050000 +0300" stop="20180502050700 +0300" channel="LRT Televizija">
+    <title lang="lt">Žinios. Orai</title>
+    <desc lang="lt">Operatyvi informacija apie svarbiausius įvykius ir procesus(n)</desc>
+    <category lang="lt">Žinios</category>
+    <icon src="https://cdn.tvstart.com/img/programme//thumb/410954.jpg" />
+    <episode-num system="onscreen">E26</episode-num>
+  </programme>
+  <programme start="20180502050700 +0300" stop="20180502053000 +0300" channel="LRT Televizija">
+    <title lang="lt">Labas rytas, Lietuva</title>
+    <desc lang="lt">Populiariausia ir ankstyviausia Lietuvoje ryto informacinė laida kiekvieną darbo dienos rytą žiūrovams siūlo tai, kas svarbiausia ryte: naujausias žinias, sporto pranešimus, spaudos apžvalgas, išsamią orų prognozę, pokalbius su studijos svečiais aktualiausiomis nūdienos temomis(n)</desc>
+    <category lang="lt">Žinios</category>
+    <icon src="https://cdn.tvstart.com/img/programme//thumb/422835.png" />
+    <episode-num system="onscreen">E1061</episode-num>
+  </programme>
+  <programme start="20180502053000 +0300" stop="20180502054000 +0300" channel="LRT Televizija">
+    <title lang="lt">Žinios. Orai</title>
+    <desc lang="lt">Operatyvi informacija apie svarbiausius įvykius ir procesus(n)</desc>
+    <category lang="lt">Žinios</category>
+    <icon src="https://cdn.tvstart.com/img/programme//thumb/410954.jpg" />
+    <episode-num system="onscreen">E26</episode-num>
+  </programme>
+  <programme start="20180502054000 +0300" stop="20180502060500 +0300" channel="LRT Televizija">
+    <title lang="lt">Labas rytas, Lietuva</title>
+    <desc lang="lt">Populiariausia ir ankstyviausia Lietuvoje ryto informacinė laida kiekvieną darbo dienos rytą žiūrovams siūlo tai, kas svarbiausia ryte: naujausias žinias, sporto pranešimus, spaudos apžvalgas, išsamią orų prognozę, pokalbius su studijos svečiais aktualiausiomis nūdienos temomis(n)</desc>
+    <category lang="lt">Žinios</category>
+    <icon src="https://cdn.tvstart.com/img/programme//thumb/422835.png" />
+    <episode-num system="onscreen">E1061</episode-num>
+  </programme>
+  <programme start="20180502060500 +0300" stop="20180502070500 +0300" channel="LRT Televizija">
+    <title lang="lt">Senis</title>
+    <desc lang="lt">Vokiečių detektyvinis serialas „Senis“ apie išmintingą Miuncheno policijos komisarą Erviną Kiosterį, kuris kartu su savo pagalbininkais narplioja pačias painiausias bylas. „Seniu“ pramintas komisaras garsėja ne savo triukais ar drąsiais susirėmimais, o išmintim ir žmogaus psichologijos išmanymu(n)</desc>
+    <date>2004</date>
+    <category lang="lt">Drama</category>
+    <category lang="lt">Kriminalinis</category>
+    <category lang="lt">Serialai</category>
+    <icon src="https://cdn.tvstart.com/img/programme//thumb/422833.jpg" />
+    <episode-num system="onscreen">E303</episode-num>
+  </programme>
+  <programme start="20180502070500 +0300" stop="20180502075500 +0300" channel="LRT Televizija">
+    <title lang="lt">Štutgarto kriminalinė policija</title>
+    <desc lang="lt">Detektyvinis serialas. Vokietija. 2012–2013 m(n)</desc>
+    <category lang="lt">Kriminalinis</category>
+    <category lang="lt">Serialai</category>
+    <icon src="https://cdn.tvstart.com/img/programme//thumb/138754.jpg" />
+    <episode-num system="onscreen">S4E23</episode-num>
+  </programme>
+  <programme start="20180502075500 +0300" stop="20180502084000 +0300" channel="LRT Televizija">
+    <title lang="lt">Akis už akį</title>
+    <desc lang="lt">Veiksmo serialas. JAV. 2011 m(n)</desc>
+    <date>2012</date>
+    <category lang="lt">Drama</category>
+    <category lang="lt">Kriminalinis</category>
+    <category lang="lt">Mistinis</category>
+    <category lang="lt">Serialai</category>
+    <icon src="https://cdn.tvstart.com/img/programme//thumb/375583.jpg" />
+    <episode-num system="onscreen">S5E1</episode-num>
+  </programme>
+  <programme start="20180502084000 +0300" stop="20180502094000 +0300" channel="LRT Televizija">
+    <title lang="lt">Emigrantai</title>
+    <desc lang="lt">Laidoje „Emigrantai“ - naujausių išeivių sudužusios viltys ir nepagražinti likimai, dokumentiniai kadrai, kuriuose užfisuota, nepagražinta Ispanijoje ir Anglijoje laimės ieškančių lietuvaičių gyvenimo realybė. Ar iš tikrųjų TEN geriau nei ČIA(n)</desc>
+    <category lang="lt">Dokumentika</category>
+    <category lang="lt">Drama</category>
+    <icon src="https://cdn.tvstart.com/img/programme//thumb/374153.jpg" />
+    <episode-num system="onscreen">E210</episode-num>
+  </programme>
+  <programme start="20180502094000 +0300" stop="20180502100500 +0300" channel="LRT Televizija">
+    <title lang="lt">TV žaidimas „Kas ir kodėl?“</title>
+    <category lang="lt">TV žaidimas</category>
+    <icon src="https://cdn.tvstart.com/img/programme//thumb/406634.jpg" />
+    <episode-num system="onscreen">E458</episode-num>
+  </programme>
+  <programme start="20180502100500 +0300" stop="20180502110000 +0300" channel="LRT Televizija">
+    <title lang="lt">Klauskite daktaro</title>
+    <desc lang="lt">Kūrybinė laidos grupė šiemet pažada visą Lietuvą padaryti sveikesnę. Pagrindinis laidos tikslas – ne pasakoti apie ligas, o visą dėmesį sutelkti į ligų prevenciją bei sveiką gyvenimo būdą(n)</desc>
+    <category lang="lt">Sveikata</category>
+    <icon src="https://cdn.tvstart.com/img/programme//thumb/399380.jpg" />
+    <episode-num system="onscreen">E585</episode-num>
+  </programme>
+  <programme start="20180502110000 +0300" stop="20180502111500 +0300" channel="LRT Televizija">
+    <title lang="lt">Žinios. Orai</title>
+    <desc lang="lt">Operatyvi informacija apie svarbiausius įvykius ir procesus(n)</desc>
+    <category lang="lt">Žinios</category>
+    <icon src="https://cdn.tvstart.com/img/programme//thumb/410954.jpg" />
+    <episode-num system="onscreen">E749</episode-num>
+  </programme>
+  <programme start="20180502111500 +0300" stop="20180502120000 +0300" channel="LRT Televizija">
+    <title lang="lt">Laba diena, Lietuva</title>
+    <desc lang="lt">Pačios naujausios žinios iš LRT radijo ir televizijos studijų ir truputis muzikos atokvėpiui, aktualūs interviu ir ne mažiau intriguojantys archyvo kadrai(n)</desc>
+    <category lang="lt">Žinios</category>
+    <icon src="https://cdn.tvstart.com/img/programme//thumb/399383.jpg" />
+    <episode-num system="onscreen">E1415</episode-num>
+  </programme>
+  <programme start="20180502120000 +0300" stop="20180502121000 +0300" channel="LRT Televizija">
+    <title lang="lt">Žinios. Orai</title>
+    <desc lang="lt">Operatyvi informacija apie svarbiausius įvykius ir procesus(n)</desc>
+    <category lang="lt">Žinios</category>
+    <icon src="https://cdn.tvstart.com/img/programme//thumb/410954.jpg" />
+    <episode-num system="onscreen">E798</episode-num>
+  </programme>
+  <programme start="20180502121000 +0300" stop="20180502123000 +0300" channel="LRT Televizija">
+    <title lang="lt">Laba diena, Lietuva</title>
+    <desc lang="lt">Pačios naujausios žinios iš LRT radijo ir televizijos studijų ir truputis muzikos atokvėpiui, aktualūs interviu ir ne mažiau intriguojantys archyvo kadrai(n)</desc>
+    <category lang="lt">Žinios</category>
+    <icon src="https://cdn.tvstart.com/img/programme//thumb/399383.jpg" />
+    <episode-num system="onscreen">E1415</episode-num>
+  </programme>
+  <programme start="20180502123000 +0300" stop="20180502123300 +0300" channel="LRT Televizija">
+    <title lang="lt">Šimtas. Trumpos istorijos apie dvi Lietuvas</title>
+    <category lang="lt">Kultūra</category>
+    <icon src="https://cdn.tvstart.com/img/programme//thumb/417451.jpg" />
+    <episode-num system="onscreen">E37</episode-num>
+  </programme>
+  <programme start="20180502123300 +0300" stop="20180502130000 +0300" channel="LRT Televizija">
+    <title lang="lt">Laba diena, Lietuva</title>
+    <desc lang="lt">Pačios naujausios žinios iš LRT radijo ir televizijos studijų ir truputis muzikos atokvėpiui, aktualūs interviu ir ne mažiau intriguojantys archyvo kadrai(n)</desc>
+    <category lang="lt">Žinios</category>
+    <icon src="https://cdn.tvstart.com/img/programme//thumb/399383.jpg" />
+    <episode-num system="onscreen">E1415</episode-num>
+  </programme>
+  <programme start="20180502130000 +0300" stop="20180502131500 +0300" channel="LRT Televizija">
+    <title lang="lt">Žinios. Orai</title>
+    <desc lang="lt">Operatyvi informacija apie svarbiausius įvykius ir procesus(n)</desc>
+    <category lang="lt">Žinios</category>
+    <icon src="https://cdn.tvstart.com/img/programme//thumb/410954.jpg" />
+    <episode-num system="onscreen">E220</episode-num>
+  </programme>
+  <programme start="20180502131500 +0300" stop="20180502133000 +0300" channel="LRT Televizija">
+    <title lang="lt">Laba diena, Lietuva</title>
+    <desc lang="lt">Pačios naujausios žinios iš LRT radijo ir televizijos studijų ir truputis muzikos atokvėpiui, aktualūs interviu ir ne mažiau intriguojantys archyvo kadrai(n)</desc>
+    <category lang="lt">Žinios</category>
+    <icon src="https://cdn.tvstart.com/img/programme//thumb/399383.jpg" />
+    <episode-num system="onscreen">E1415</episode-num>
+  </programme>
+  <programme start="20180502133000 +0300" stop="20180502143000 +0300" channel="LRT Televizija">
+    <title lang="lt">Seserys</title>
+    <desc lang="lt">Vaidybinis serialas. Ispanija. 2016 m(n)</desc>
+    <date>2016</date>
+    <category lang="lt">Drama</category>
+    <category lang="lt">Serialai</category>
+    <icon src="https://cdn.tvstart.com/img/programme//thumb/409800.jpg" />
+    <episode-num system="onscreen">E292</episode-num>
+  </programme>
+  <programme start="20180502143000 +0300" stop="20180502150000 +0300" channel="LRT Televizija">
+    <title lang="lt">Žinios. Orai</title>
+    <desc lang="lt">Operatyvi informacija apie svarbiausius įvykius ir procesus(n)</desc>
+    <category lang="lt">Žinios</category>
+    <icon src="https://cdn.tvstart.com/img/programme//thumb/410954.jpg" />
+    <episode-num system="onscreen">E37</episode-num>
+  </programme>
+  <programme start="20180502150000 +0300" stop="20180502153000 +0300" channel="LRT Televizija">
+    <title lang="lt">TV žaidimas „Kas ir kodėl?“</title>
+    <category lang="lt">TV žaidimas</category>
+    <icon src="https://cdn.tvstart.com/img/programme//thumb/406634.jpg" />
+    <episode-num system="onscreen">E463</episode-num>
+  </programme>
+  <programme start="20180502153000 +0300" stop="20180502162500 +0300" channel="LRT Televizija">
+    <title lang="lt">Klauskite daktaro</title>
+    <desc lang="lt">Kūrybinė laidos grupė šiemet pažada visą Lietuvą padaryti sveikesnę. Pagrindinis laidos tikslas – ne pasakoti apie ligas, o visą dėmesį sutelkti į ligų prevenciją bei sveiką gyvenimo būdą(n)</desc>
+    <category lang="lt">Sveikata</category>
+    <icon src="https://cdn.tvstart.com/img/programme//thumb/399380.jpg" />
+    <episode-num system="onscreen">E591</episode-num>
+  </programme>
+  <programme start="20180502162500 +0300" stop="20180502163000 +0300" channel="LRT Televizija">
+    <title lang="lt">Šimtas. Trumpos istorijos apie dvi Lietuvas</title>
+    <category lang="lt">Kultūra</category>
+    <icon src="https://cdn.tvstart.com/img/programme//thumb/417451.jpg" />
+    <episode-num system="onscreen">E37</episode-num>
+  </programme>
+  <programme start="20180502163000 +0300" stop="20180502172500 +0300" channel="LRT Televizija">
+    <title lang="lt">Gyvenimas</title>
+    <desc lang="lt">Gyvenimas mūsų laidose bus toks, kuris įkvepia pozityvumu ir įvairove, pasakojimai – atviri ir nuoširdūs, išpažintys – tikros ir griebiančios už širdies. Kviesime drauge pažinti platųjį pasaulį, leistis į nuotykius, ieškoti visiems aktualių atsakymų, kodėl gi gyvenimas yra toks nepakartojamas(n)</desc>
     <category lang="lt">Pramogos</category>
-    <icon src="https://cdn.tvstart.com/img/programme//thumb/402080.jpg" />
-    <episode-num system="onscreen">E134</episode-num>
+    <icon src="https://cdn.tvstart.com/img/programme//thumb/374152.jpg" />
+    <episode-num system="onscreen">E170</episode-num>
   </programme>
-  <programme start="20180428023000 +0300" stop="20180428025200 +0300" channel="LRT Kultūra">
+  <programme start="20180502172500 +0300" stop="20180502173000 +0300" channel="LRT Televizija">
+    <title lang="lt">Loterija „Keno Loto“</title>
+    <category lang="lt">TV žaidimas</category>
+    <icon src="https://cdn.tvstart.com/img/programme//thumb/384602.jpg" />
+    <episode-num system="onscreen">E1066</episode-num>
+  </programme>
+  <programme start="20180502173000 +0300" stop="20180502180500 +0300" channel="LRT Televizija">
     <title lang="lt">Panorama</title>
     <desc lang="lt">Svarbiausios naujienos iš Lietuvos ir pasaulio – ne tik iš sostinių, bet ir atokiausių kampelių, informacija tiesiogiai iš įvykių epicentro, argumentų kaktomuša, interviu su dienos herojais tiesioginiame eteryje(n)</desc>
     <category lang="lt">Žinios</category>
-    <icon src="https://cdn.tvstart.com/img/programme//thumb/374162.jpg" />
-    <episode-num system="onscreen">E1361</episode-num>
+    <icon src="https://cdn.tvstart.com/img/programme//thumb/328765.jpg" />
+    <episode-num system="onscreen">E1366</episode-num>
   </programme>
-  <programme start="20180428025200 +0300" stop="20180428030000 +0300" channel="LRT Kultūra">
+  <programme start="20180502180500 +0300" stop="20180502182000 +0300" channel="LRT Televizija">
+    <title lang="lt">Dėmesio centre</title>
+    <desc lang="lt">Apie svarbiausius viešojo gyvenimo įvykius visuomenė dažnai sužino tik tai kas pranešama žiniose ar naujienų portaluose. Tačiau norint giliau suvokti svarbiausius įvykius, procesus, reiškinius, tendencijas būtinas profesionalesnis ir gilesnis požiūris(n)</desc>
+    <category lang="lt">Žinios</category>
+    <icon src="https://cdn.tvstart.com/img/programme//thumb/347527.jpg" />
+    <episode-num system="onscreen">E592</episode-num>
+  </programme>
+  <programme start="20180502182000 +0300" stop="20180502182900 +0300" channel="LRT Televizija">
     <title lang="lt">Sportas</title>
     <desc lang="lt">„Sporto žiniose“ – Lietuvos ir pasaulio rekordai bei svarbiausių varžybų akimirkos. Faktai ir įspūdžiai iš didžiausių planetos stadionų bei mūsų šalies miestų arenų. Olimpinių medalių spindesys ir sūrūs sportininkų prakaito lašai(n)</desc>
     <category lang="lt">Žinios</category>
     <icon src="https://cdn.tvstart.com/img/programme//thumb/419563.jpeg" />
-    <episode-num system="onscreen">E33</episode-num>
+    <episode-num system="onscreen">E38</episode-num>
   </programme>
-  <programme start="20180428030000 +0300" stop="20180428030500 +0300" channel="LRT Kultūra">
-    <title lang="lt">Lietuvos Respublikos himnas</title>
-    <desc lang="lt">Lietuvos Respublikos himnas(n)</desc>
+  <programme start="20180502182900 +0300" stop="20180502183000 +0300" channel="LRT Televizija">
+    <title lang="lt">Loterija „Jėga“</title>
+    <category lang="lt">TV žaidimas</category>
+    <icon src="https://cdn.tvstart.com/img/programme//thumb/384603.jpg" />
+    <episode-num system="onscreen">E979</episode-num>
+  </programme>
+  <programme start="20180502183000 +0300" stop="20180502194500 +0300" channel="LRT Televizija">
+    <title lang="lt">Auksinis protas</title>
+    <desc lang="lt">Intelektinis TV žaidimas(n)</desc>
+    <category lang="lt">TV žaidimas</category>
+    <icon src="https://cdn.tvstart.com/img/programme//thumb/399416.jpg" />
+    <episode-num system="onscreen">E155</episode-num>
+  </programme>
+  <programme start="20180502194500 +0300" stop="20180502195000 +0300" channel="LRT Televizija">
+    <title lang="lt">Trumposios žinios</title>
+    <desc lang="lt">Lietuvos ir užsienio įvykiai(n)</desc>
     <category lang="lt">Žinios</category>
-    <icon src="https://cdn.tvstart.com/img/programme//thumb/375571.jpg" />
-    <episode-num system="onscreen">E1</episode-num>
+    <icon src="https://cdn.tvstart.com/img/programme//thumb/369075.jpg" />
+    <episode-num system="onscreen">E1688</episode-num>
   </programme>
-  <programme start="20180428030500 +0300" stop="20180428043500 +0300" channel="LRT Kultūra">
-    <title lang="lt">Duokim garo!</title>
-    <desc lang="lt">Ved. Loreta Sungailienė ir Stanislovas Kavaliauskas(n)</desc>
-    <category lang="lt">Muzika</category>
-    <icon src="https://cdn.tvstart.com/img/programme//thumb/401638.jpg" />
-    <episode-num system="onscreen">E345</episode-num>
-  </programme>
-  <programme start="20180428043500 +0300" stop="20180428050500 +0300" channel="LRT Kultūra">
-    <title lang="lt">Kultūrų kryžkelė. Rusų gatvė</title>
-    <category lang="lt">Kasdienybė</category>
-    <icon src="https://cdn.tvstart.com/img/programme//thumb/403682.jpeg" />
-    <episode-num system="onscreen">E109</episode-num>
-  </programme>
-  <programme start="20180428050500 +0300" stop="20180428053000 +0300" channel="LRT Kultūra">
-    <title lang="lt">Misija: Vilnija</title>
-    <desc lang="lt">Laida pasakos Vilniaus krašto žmonių istorijas, analizuos ir, kaip tikisi jos autoriai, padės spręsti šio krašto problemas, kartu ir pamėgins padėti Lietuvoje gyvenantiems skirtingų tautų žmonėms geriau suprasti vienas kitą ir šalyje vykstančius procesus(n)</desc>
+  <programme start="20180502195000 +0300" stop="20180502202000 +0300" channel="LRT Televizija">
+    <title lang="lt">Klausimėlis.lt</title>
+    <desc lang="lt">Laida Klausimėlis.lt – į konkretų klausimą – gausybė atsakymų..(n)</desc>
     <category lang="lt">Pramogos</category>
-    <icon src="https://cdn.tvstart.com/img/programme//thumb/374156.jpg" />
-    <episode-num system="onscreen">E101</episode-num>
+    <icon src="https://cdn.tvstart.com/img/programme//thumb/422827.jpg" />
+    <episode-num system="onscreen">E354</episode-num>
   </programme>
-  <programme start="20180428053000 +0300" stop="20180428060000 +0300" channel="LRT Kultūra">
-    <title lang="lt">Maistas ir aistros</title>
-    <desc lang="lt">Ved. Erikas Tamašauskas ir Indrė Tamašauskienė(n)</desc>
-    <category lang="lt">Kulinarija</category>
-    <icon src="https://cdn.tvstart.com/img/programme//thumb/403884.jpg" />
-    <episode-num system="onscreen">E62</episode-num>
-  </programme>
-  <programme start="20180428060000 +0300" stop="20180428063000 +0300" channel="LRT Kultūra">
-    <title lang="lt">Pažvelk į profesiją kitaip</title>
-    <desc lang="lt">Ved. Andrius Baranovas(n)</desc>
-    <category lang="lt">Biografinis</category>
-    <category lang="lt">Dokumentika</category>
-    <icon src="https://cdn.tvstart.com/img/programme//thumb/402108.jpg" />
-    <episode-num system="onscreen">E102</episode-num>
-  </programme>
-  <programme start="20180428063000 +0300" stop="20180428070000 +0300" channel="LRT Kultūra">
-    <title lang="lt">Mokslo sriuba</title>
-    <desc lang="lt">Ved. Ignas Kančys. „Mokslo sriuba - keista, įdomi, nuotaikinga, kerinti, pažintinė TV laida smalsiems žmonėms. Mokslas ir technologijos ateina pas tave(n)</desc>
-    <category lang="lt">Dokumentika</category>
-    <icon src="https://cdn.tvstart.com/img/programme//thumb/380007.jpg" />
-    <episode-num system="onscreen">E136</episode-num>
-  </programme>
-  <programme start="20180428070000 +0300" stop="20180428083500 +0300" channel="LRT Kultūra">
-    <title lang="lt">Vaikų ir moksleivių televizijos konkursas „Dainų dainelė 2018“</title>
-    <desc lang="lt">Ved. Raminta Naujanytė-Bjelle ir Ignas Andriukevičius(n)</desc>
-    <category lang="lt">Visai šeimai</category>
-    <category lang="lt">Muzika</category>
-    <icon src="https://cdn.tvstart.com/img/programme//thumb/397104.jpg" />
-    <episode-num system="onscreen">E8</episode-num>
-  </programme>
-  <programme start="20180428083500 +0300" stop="20180428102000 +0300" channel="LRT Kultūra">
-    <title lang="lt">Atminimo vakaras „In memoriam Virgilijui Noreikai”</title>
-    <category lang="lt">Koncertas</category>
-    <icon src="https://cdn.tvstart.com/img/programme//thumb/425917.jpg" />
-    <episode-num system="onscreen">E1</episode-num>
-  </programme>
-  <programme start="20180428102000 +0300" stop="20180428111000 +0300" channel="LRT Kultūra">
-    <title lang="lt">Klauskite daktaro</title>
-    <desc lang="lt">Kūrybinė laidos grupė šiemet pažada visą Lietuvą padaryti sveikesnę. Pagrindinis laidos tikslas – ne pasakoti apie ligas, o visą dėmesį sutelkti į ligų prevenciją bei sveiką gyvenimo būdą(n)</desc>
-    <category lang="lt">Sveikata</category>
-    <icon src="https://cdn.tvstart.com/img/programme//thumb/374149.jpg" />
-    <episode-num system="onscreen">E546</episode-num>
-  </programme>
-  <programme start="20180428111000 +0300" stop="20180428120500 +0300" channel="LRT Kultūra">
-    <title lang="lt">Stilius</title>
-    <desc lang="lt">Ved. Violeta Baublienė(n)</desc>
-    <category lang="lt">Kasdienybė</category>
-    <icon src="https://cdn.tvstart.com/img/programme//thumb/374158.jpg" />
-    <episode-num system="onscreen">E388</episode-num>
-  </programme>
-  <programme start="20180428120500 +0300" stop="20180428130000 +0300" channel="LRT Kultūra">
-    <title lang="lt">Atžalos</title>
-    <desc lang="lt">Daugiaserijinis vaidybinis filmas. Scen. aut. Bronius Bušma, rež. Saulius Vosylius(n)</desc>
-    <date>1998</date>
-    <category lang="lt">Drama</category>
+  <programme start="20180502202000 +0300" stop="20180502211500 +0300" channel="LRT Televizija">
+    <title lang="lt">Svetimšalė</title>
+    <desc lang="lt">Draminis serialas. JAV. 2015 m. N-14(n)</desc>
+    <date>2015</date>
+    <category lang="lt">Melodrama</category>
+    <category lang="lt">Mokslinė fantastika</category>
     <category lang="lt">Serialai</category>
-    <episode-num system="onscreen">E7</episode-num>
-  </programme>
-  <programme start="20180428130000 +0300" stop="20180428133500 +0300" channel="LRT Kultūra">
-    <title lang="lt">Euromaxx</title>
-    <desc lang="lt">Ved. Ugnė Galadauskaitė(n)</desc>
-    <category lang="lt">Pramogos</category>
-    <icon src="https://cdn.tvstart.com/img/programme//thumb/402080.jpg" />
-    <episode-num system="onscreen">E135</episode-num>
-  </programme>
-  <programme start="20180428133500 +0300" stop="20180428143000 +0300" channel="LRT Kultūra">
-    <title lang="lt">Istorijos perimetrai</title>
-    <desc lang="lt">3 d. Nepriklausomybės kovos. Dokumentinis filmas. Rež. Rimas Bružas(n)</desc>
-    <category lang="lt">Istorinis</category>
-    <category lang="lt">Kultūra</category>
-    <icon src="https://cdn.tvstart.com/img/programme//thumb/419564.jpg" />
-    <episode-num system="onscreen">E3</episode-num>
-  </programme>
-  <programme start="20180428143000 +0300" stop="20180428150000 +0300" channel="LRT Kultūra">
-    <title lang="lt">Atspindžiai. Paveldo kolekcija</title>
-    <category lang="lt">Kultūra</category>
-    <icon src="https://cdn.tvstart.com/img/programme//thumb/403867.jpg" />
-    <episode-num system="onscreen">E28</episode-num>
-  </programme>
-  <programme start="20180428150000 +0300" stop="20180428154500 +0300" channel="LRT Kultūra">
-    <title lang="lt">Prisikėlimo ekspresas – šimtmečio veidai</title>
-    <desc lang="lt">Ved. Egidijus Aleksandravičius(n)</desc>
-    <category lang="lt">Kultūra</category>
-    <icon src="https://cdn.tvstart.com/img/programme//thumb/422122.jpg" />
-    <episode-num system="onscreen">E17</episode-num>
-  </programme>
-  <programme start="20180428154500 +0300" stop="20180428162500 +0300" channel="LRT Kultūra">
-    <title lang="lt">Stambiu planu</title>
-    <desc lang="lt">Ved. Andrius Rožickas(n)</desc>
-    <category lang="lt">Kultūra</category>
-    <icon src="https://cdn.tvstart.com/img/programme//thumb/398765.jpg" />
-    <episode-num system="onscreen">E62</episode-num>
-  </programme>
-  <programme start="20180428162500 +0300" stop="20180428190000 +0300" channel="LRT Kultūra">
-    <title lang="lt">Pasaulio ledo ritulio čempionatas</title>
-    <desc lang="lt">I diviziono B grupė. Lietuva – Estija. Tiesioginė transliacija iš Kauno(n)</desc>
-    <category lang="lt">Sportas</category>
-    <icon src="https://cdn.tvstart.com/img/programme//thumb/425705.jpg" />
-    <episode-num system="onscreen">E5</episode-num>
-  </programme>
-  <programme start="20180428190000 +0300" stop="20180428203000 +0300" channel="LRT Kultūra">
-    <title lang="lt">Negyvėliams netinka pledai</title>
-    <title lang="xx">Dead Men Don't Wear Plaid</title>
-    <desc lang="lt">Komikas Steve‘as Martinas vaidina privatų detektyvą Rigbį Rierdoną ironiškoje klasikinių Holivudo detektyvų parodijoje. Jis taip meistriškai „įmontuotas“ į penktojo dešimtmečio filmų kadrus, jog atrodo visai suprantama ir natūralu, kad jis kalbasi su ryškiausiomis ekrano žvaigždėmis. Ir dar suprantamiau tai, kad tik jis gali atskleisti mistišką nusikaltimo paslaptį.(n)</desc>
-    <credits>
-      <director>Carl Reiner</director>
-      <actor>Steve Martin</actor>
-      <actor>Rachel Ward</actor>
-      <actor>Alan Ladd</actor>
-      <actor>Carl Reiner</actor>
-      <actor>Barbara Stanwyck</actor>
-      <actor>Ray Milland</actor>
-      <actor>Ava Gardner</actor>
-      <actor>Burt Lancaster</actor>
-      <actor>Humphrey Bogart</actor>
-      <actor>Cary Grant</actor>
-      <actor>Ingrid Bergman</actor>
-      <actor>Veronica Lake</actor>
-      <actor>Bette Davis</actor>
-      <actor>Lana Turner</actor>
-      <actor>Edward Arnold</actor>
-    </credits>
-    <date>1982</date>
-    <category lang="lt">Komedija</category>
-    <category lang="lt">Kriminalinis</category>
-    <category lang="lt">Mistinis</category>
-    <category lang="lt">Filmai</category>
-    <icon src="https://cdn.tvstart.com/img/programme//thumb/87688.jpg" />
-    <country>JAV</country>
-    <rating system="IMDb">
-      <value>6.8</value>
-    </rating>
-  </programme>
-  <programme start="20180428203000 +0300" stop="20180428213000 +0300" channel="LRT Kultūra">
-    <title lang="lt">LRT opus</title>
-    <desc lang="lt">Grupė „MOVO“(n)</desc>
-    <category lang="lt">Muzika</category>
-    <icon src="https://cdn.tvstart.com/img/programme//thumb/402101.jpg" />
-    <episode-num system="onscreen">E23</episode-num>
-  </programme>
-  <programme start="20180428213000 +0300" stop="20180428220000 +0300" channel="LRT Kultūra">
-    <title lang="lt">Dabar pasaulyje</title>
-    <desc lang="lt">Informacinė-analitinė laida rusų kalba iš Prahos(n)</desc>
-    <category lang="lt">Dokumentika</category>
-    <category lang="lt">Žinios</category>
-    <icon src="https://cdn.tvstart.com/img/programme//thumb/354516.png" />
-    <episode-num system="onscreen">E1201</episode-num>
-  </programme>
-  <programme start="20180428220000 +0300" stop="20180428233000 +0300" channel="LRT Kultūra">
-    <title lang="lt">Virš mūsų tik dangus</title>
-    <title lang="xx">Über uns das All</title>
-    <desc lang="lt">Drama. Vokietija N-14. Rež. Jan Schomburg(n)</desc>
-    <credits>
-      <director>Jan Schomburg</director>
-      <actor>Sandra Hüller</actor>
-      <actor>Georg Friedrich</actor>
-      <actor>Felix Schmidt-Knopp</actor>
-      <actor>Kathrin Wehlisch</actor>
-      <actor>Valery Tscheplanowa</actor>
-      <actor>Stephan Grossmann</actor>
-      <actor>Aljoscha Stadelmann</actor>
-      <actor>Piet Fuchs</actor>
-      <actor>Martin Reinke</actor>
-      <actor>Verena Plangger</actor>
-      <actor>Julia Wieninger</actor>
-      <actor>Laura Sundermann</actor>
-      <actor>Clemens Dönicke</actor>
-      <actor>Anja Herden</actor>
-      <actor>Anja Lais</actor>
-    </credits>
-    <date>2011</date>
-    <category lang="lt">Drama</category>
-    <category lang="lt">Filmai</category>
-    <icon src="https://cdn.tvstart.com/img/programme//thumb/425916.jpg" />
-    <country>Vokietija</country>
-    <rating system="IMDb">
-      <value>6.8</value>
-    </rating>
-  </programme>
-  <programme start="20180428233000 +0300" stop="20180429002000 +0300" channel="LRT Kultūra">
-    <title lang="lt">Anapus čia ir dabar</title>
-    <desc lang="lt">Ved. Algirdas Acus. Rež. Rimantas Babrauskas(n)</desc>
-    <category lang="lt">Dokumentika</category>
-    <icon src="https://cdn.tvstart.com/img/programme//thumb/380003.jpg" />
-    <episode-num system="onscreen">E57</episode-num>
+    <icon src="https://cdn.tvstart.com/img/programme//thumb/370026.jpg" />
+    <episode-num system="onscreen">S2E11</episode-num>
   </programme>
   <programme start="20180429002000 +0300" stop="20180429005000 +0300" channel="LRT Kultūra">
     <title lang="lt">Pažvelk į profesiją kitaip</title>
@@ -3956,7 +3770,7 @@
     <icon src="https://cdn.tvstart.com/img/programme//thumb/374162.jpg" />
     <episode-num system="onscreen">E1363</episode-num>
   </programme>
-  <programme start="20180430025200 +0300" stop="20180430025700 +0300" channel="LRT Kultūra">
+  <programme start="20180430025200 +0300" stop="20180430030000 +0300" channel="LRT Kultūra">
     <title lang="lt">Sportas</title>
     <desc lang="lt">„Sporto žiniose“ – Lietuvos ir pasaulio rekordai bei svarbiausių varžybų akimirkos. Faktai ir įspūdžiai iš didžiausių planetos stadionų bei mūsų šalies miestų arenų. Olimpinių medalių spindesys ir sūrūs sportininkų prakaito lašai(n)</desc>
     <category lang="lt">Žinios</category>
@@ -4583,5 +4397,379 @@
     <category lang="lt">Serialai</category>
     <icon src="https://cdn.tvstart.com/img/programme//thumb/412434.jpg" />
     <episode-num system="onscreen">S1E4</episode-num>
+  </programme>
+  <programme start="20180501210000 +0300" stop="20180501211500 +0300" channel="LRT Kultūra">
+    <title lang="lt">DW naujienos rusų kalba</title>
+    <desc lang="lt">DW naujienų laida rusų kalba(n)</desc>
+    <category lang="lt">Žinios</category>
+    <icon src="https://cdn.tvstart.com/img/programme//thumb/422791.jpg" />
+    <episode-num system="onscreen">E692</episode-num>
+  </programme>
+  <programme start="20180501211500 +0300" stop="20180501214500 +0300" channel="LRT Kultūra">
+    <title lang="lt">Dabar pasaulyje</title>
+    <desc lang="lt">Informacinė-analitinė laida rusų kalba iš Prahos(n)</desc>
+    <category lang="lt">Dokumentika</category>
+    <category lang="lt">Žinios</category>
+    <icon src="https://cdn.tvstart.com/img/programme//thumb/354516.png" />
+    <episode-num system="onscreen">E1203</episode-num>
+  </programme>
+  <programme start="20180501214500 +0300" stop="20180501223000 +0300" channel="LRT Kultūra">
+    <title lang="lt">Džiazo muzikos vakaras</title>
+    <category lang="lt">Muzika</category>
+    <icon src="https://cdn.tvstart.com/img/programme//thumb/375592.jpg" />
+    <episode-num system="onscreen">E191</episode-num>
+  </programme>
+  <programme start="20180501223000 +0300" stop="20180501235500 +0300" channel="LRT Kultūra">
+    <title lang="lt">Drakono širdis. Nauja pradžia</title>
+    <title lang="xx">Dragonheart: A New Beginning</title>
+    <desc lang="lt">Džefas kuopia vienuolyno arklides ir svajoja tapti riteriu. Deja, nekilmingo našlaičio niekas nė neketina įšventinti į garbingų riterių ordiną. Tačiau vieną gražią dieną Džefas randa... drakoną. Visa karalystė susidomi radiniu, o ypač garsus riteris ir karaliaus patarėjas. Pasižiūrėti drakono atvyksta net senas kinas drauge su auklėtiniu. Tik jiedu ir piktasis riteris žino, kad jei drakonas atiduos savo širdį blogiui, pasaulis žus. Tad Džefui ir jo draugui drakonui tenka įsisukti į aršius susirėmimus tarp gėrio ir blogio bei patirti įvairių nuotykių(n)</desc>
+    <credits>
+      <director>Doug Lefler</director>
+      <actor>Christopher Masterson</actor>
+      <actor>Harry Van Gorkum</actor>
+      <actor>Rona Figueroa</actor>
+      <actor>Matthew Hickey</actor>
+      <actor>Matt Hickey</actor>
+    </credits>
+    <date>2000</date>
+    <category lang="lt">Mokslinė fantastika</category>
+    <category lang="lt">Filmai</category>
+    <icon src="https://cdn.tvstart.com/img/programme//thumb/424558.jpg" />
+    <country>JAV</country>
+    <rating system="IMDb">
+      <value>4.5</value>
+    </rating>
+  </programme>
+  <programme start="20180501235500 +0300" stop="20180502002500 +0300" channel="LRT Kultūra">
+    <title lang="lt">Kultūrų kryžkelė. Rusų gatvė</title>
+    <category lang="lt">Kasdienybė</category>
+    <icon src="https://cdn.tvstart.com/img/programme//thumb/403682.jpeg" />
+    <episode-num system="onscreen">E110</episode-num>
+  </programme>
+  <programme start="20180502002500 +0300" stop="20180502005500 +0300" channel="LRT Kultūra">
+    <title lang="lt">Kelias</title>
+    <desc lang="lt">Lietuvoje yra dvi gyvos ir veiklios istorinės evangelikų konfesijos – liuteronai ir reformatai. Dažnai jie dar vadinami protestantais. Tai maždaug vienas procentas Lietuvos gyventojų(n)</desc>
+    <credits>
+      <director>Юлия Краснова</director>
+      <director>Сергей Краснов</director>
+      <actor>Вячеслав Разбегаев</actor>
+      <actor>Ольга Павловец</actor>
+      <actor>Екатерина Вуличенко</actor>
+      <actor>Алексей Герилович</actor>
+      <actor>Денис Игнатов</actor>
+      <actor>Павел Майков</actor>
+      <actor>Дмитрий Муляр</actor>
+      <actor>Юрий Назаров</actor>
+      <actor>Роман Радов</actor>
+      <actor>Михаил Станкевич</actor>
+      <actor>Александр Шатохин</actor>
+      <actor>Владимир Юматов</actor>
+    </credits>
+    <date>2009</date>
+    <category lang="lt">Drama</category>
+    <category lang="lt">Religija</category>
+    <icon src="https://cdn.tvstart.com/img/programme//thumb/39063.jpg" />
+    <country>Rusija</country>
+    <episode-num system="onscreen">E100</episode-num>
+  </programme>
+  <programme start="20180502005500 +0300" stop="20180502014500 +0300" channel="LRT Kultūra">
+    <title lang="lt">Klauskite daktaro</title>
+    <desc lang="lt">Kūrybinė laidos grupė šiemet pažada visą Lietuvą padaryti sveikesnę. Pagrindinis laidos tikslas – ne pasakoti apie ligas, o visą dėmesį sutelkti į ligų prevenciją bei sveiką gyvenimo būdą(n)</desc>
+    <category lang="lt">Sveikata</category>
+    <icon src="https://cdn.tvstart.com/img/programme//thumb/374149.jpg" />
+    <episode-num system="onscreen">E546</episode-num>
+  </programme>
+  <programme start="20180502014500 +0300" stop="20180502023000 +0300" channel="LRT Kultūra">
+    <title lang="lt">Teatras</title>
+    <desc lang="lt">Aut. Margarita Alper(n)</desc>
+    <credits>
+      <director>Янис Стрейч</director>
+      <actor>Вия Артмане</actor>
+      <actor>Гунар Цилинский</actor>
+      <actor>Эльза Радзинь</actor>
+      <actor>Ивар Калныньш</actor>
+      <actor>Раймонд Паулс</actor>
+      <actor>Эдуард Павулс</actor>
+      <actor>Майя Эглите</actor>
+      <actor>Валентин Скулме</actor>
+      <actor>Петерис Гаудиньш</actor>
+      <actor>Илга Витола</actor>
+      <actor>Лилита Берзиня</actor>
+      <actor>Эвальд Валтер</actor>
+      <actor>Байба Индриксоне</actor>
+      <actor>Юрис Стренга</actor>
+      <actor>Ольга Круминя</actor>
+      <actor>Янис Стрейч</actor>
+    </credits>
+    <date>1978</date>
+    <category lang="lt">Drama</category>
+    <category lang="lt">Spektaklis</category>
+    <icon src="https://cdn.tvstart.com/img/programme//thumb/252212.jpg" />
+    <country>Rusija</country>
+    <episode-num system="onscreen">E38</episode-num>
+  </programme>
+  <programme start="20180502023000 +0300" stop="20180502025200 +0300" channel="LRT Kultūra">
+    <title lang="lt">Panorama</title>
+    <desc lang="lt">Svarbiausios naujienos iš Lietuvos ir pasaulio – ne tik iš sostinių, bet ir atokiausių kampelių, informacija tiesiogiai iš įvykių epicentro, argumentų kaktomuša, interviu su dienos herojais tiesioginiame eteryje(n)</desc>
+    <category lang="lt">Žinios</category>
+    <icon src="https://cdn.tvstart.com/img/programme//thumb/374162.jpg" />
+    <episode-num system="onscreen">E1365</episode-num>
+  </programme>
+  <programme start="20180502025200 +0300" stop="20180502030000 +0300" channel="LRT Kultūra">
+    <title lang="lt">Sportas</title>
+    <desc lang="lt">„Sporto žiniose“ – Lietuvos ir pasaulio rekordai bei svarbiausių varžybų akimirkos. Faktai ir įspūdžiai iš didžiausių planetos stadionų bei mūsų šalies miestų arenų. Olimpinių medalių spindesys ir sūrūs sportininkų prakaito lašai(n)</desc>
+    <category lang="lt">Žinios</category>
+    <icon src="https://cdn.tvstart.com/img/programme//thumb/419563.jpeg" />
+    <episode-num system="onscreen">E37</episode-num>
+  </programme>
+  <programme start="20180502030000 +0300" stop="20180502030500 +0300" channel="LRT Kultūra">
+    <title lang="lt">Lietuvos Respublikos himnas</title>
+    <desc lang="lt">Lietuvos Respublikos himnas(n)</desc>
+    <category lang="lt">Žinios</category>
+    <icon src="https://cdn.tvstart.com/img/programme//thumb/375571.jpg" />
+    <episode-num system="onscreen">E1</episode-num>
+  </programme>
+  <programme start="20180502030500 +0300" stop="20180502035000 +0300" channel="LRT Kultūra">
+    <title lang="lt">Džiazo muzikos vakaras</title>
+    <category lang="lt">Muzika</category>
+    <icon src="https://cdn.tvstart.com/img/programme//thumb/375592.jpg" />
+    <episode-num system="onscreen">E191</episode-num>
+  </programme>
+  <programme start="20180502035000 +0300" stop="20180502040500 +0300" channel="LRT Kultūra">
+    <title lang="lt">Mano tėviškė</title>
+    <category lang="lt">Kultūra</category>
+    <icon src="https://cdn.tvstart.com/img/programme//thumb/422849.jpg" />
+    <episode-num system="onscreen">E15</episode-num>
+  </programme>
+  <programme start="20180502040500 +0300" stop="20180502041500 +0300" channel="LRT Kultūra">
+    <title lang="lt">Grizis ir lemingai</title>
+    <desc lang="lt">Animacinis serialas. Prancūzija(n)</desc>
+    <date>2016</date>
+    <category lang="lt">Animacinis</category>
+    <category lang="lt">Serialai</category>
+    <icon src="https://cdn.tvstart.com/img/programme//thumb/422240.jpg" />
+    <episode-num system="onscreen">E72</episode-num>
+  </programme>
+  <programme start="20180502041500 +0300" stop="20180502042500 +0300" channel="LRT Kultūra">
+    <title lang="lt">Auklė Mun</title>
+    <desc lang="lt">Animacinis serialas. Prancūzija(n)</desc>
+    <date>2016</date>
+    <category lang="lt">Animacinis</category>
+    <category lang="lt">Vaikams</category>
+    <icon src="https://cdn.tvstart.com/img/programme//thumb/400060.jpg" />
+    <episode-num system="onscreen">E13</episode-num>
+  </programme>
+  <programme start="20180502042500 +0300" stop="20180502045000 +0300" channel="LRT Kultūra">
+    <title lang="lt">Tobotai</title>
+    <desc lang="lt">Animacinis serialas. P. Korėja(n)</desc>
+    <date>2010</date>
+    <category lang="lt">Animacinis</category>
+    <category lang="lt">Vaikams</category>
+    <icon src="https://cdn.tvstart.com/img/programme//thumb/407877.jpg" />
+    <episode-num system="onscreen">S1E28</episode-num>
+  </programme>
+  <programme start="20180502045000 +0300" stop="20180502052000 +0300" channel="LRT Kultūra">
+    <title lang="lt">Pradėk nuo savęs</title>
+    <desc lang="lt">Scen. aut. Dalia Juočerytė(n)</desc>
+    <category lang="lt">Kasdienybė</category>
+    <episode-num system="onscreen">E100</episode-num>
+  </programme>
+  <programme start="20180502052000 +0300" stop="20180502055000 +0300" channel="LRT Kultūra">
+    <title lang="lt">Nacionalinis turtas</title>
+    <category lang="lt">Kultūra</category>
+    <icon src="https://cdn.tvstart.com/img/programme//thumb/403892.jpg" />
+    <episode-num system="onscreen">E62</episode-num>
+  </programme>
+  <programme start="20180502055000 +0300" stop="20180502061500 +0300" channel="LRT Kultūra">
+    <title lang="lt">Kaip atsiranda daiktai</title>
+    <desc lang="lt">Dokumentinis serialas. JAV, Kanada. 2008–2009 m(n)</desc>
+    <category lang="lt">Dokumentika</category>
+    <icon src="https://cdn.tvstart.com/img/programme//thumb/400744.jpg" />
+    <episode-num system="onscreen">S8E26</episode-num>
+  </programme>
+  <programme start="20180502061500 +0300" stop="20180502090000 +0300" channel="LRT Kultūra">
+    <title lang="lt">Labas rytas, Lietuva</title>
+    <desc lang="lt">Populiariausia ir ankstyviausia Lietuvoje ryto informacinė laida kiekvieną darbo dienos rytą žiūrovams siūlo tai, kas svarbiausia ryte: naujausias žinias, sporto pranešimus, spaudos apžvalgas, išsamią orų prognozę, pokalbius su studijos svečiais aktualiausiomis nūdienos temomis(n)</desc>
+    <category lang="lt">Žinios</category>
+    <icon src="https://cdn.tvstart.com/img/programme//thumb/374150.jpg" />
+    <episode-num system="onscreen">E1061</episode-num>
+  </programme>
+  <programme start="20180502090000 +0300" stop="20180502091500 +0300" channel="LRT Kultūra">
+    <title lang="lt">DW naujienos rusų kalba</title>
+    <desc lang="lt">DW naujienų laida rusų kalba(n)</desc>
+    <category lang="lt">Žinios</category>
+    <icon src="https://cdn.tvstart.com/img/programme//thumb/422791.jpg" />
+    <episode-num system="onscreen">E692</episode-num>
+  </programme>
+  <programme start="20180502091500 +0300" stop="20180502094500 +0300" channel="LRT Kultūra">
+    <title lang="lt">Meno ritmai</title>
+    <desc lang="lt">Dokumentinis serialas. Vokietija. Laisvasis stilius. Džiazas Kinijoje (Freestyle. Jazz and China). Rež. Mathias Frick(n)</desc>
+    <date>2016</date>
+    <category lang="lt">Dokumentika</category>
+    <category lang="lt">Kultūra</category>
+    <icon src="https://cdn.tvstart.com/img/programme//thumb/425353.jpg" />
+    <episode-num system="onscreen">E4</episode-num>
+  </programme>
+  <programme start="20180502094500 +0300" stop="20180502103500 +0300" channel="LRT Kultūra">
+    <title lang="lt">Stilius</title>
+    <desc lang="lt">Ved. Violeta Baublienė(n)</desc>
+    <category lang="lt">Kasdienybė</category>
+    <icon src="https://cdn.tvstart.com/img/programme//thumb/374158.jpg" />
+    <episode-num system="onscreen">E388</episode-num>
+  </programme>
+  <programme start="20180502103500 +0300" stop="20180502112000 +0300" channel="LRT Kultūra">
+    <title lang="lt">Legendos</title>
+    <desc lang="lt">Dokumentinių apybraižų ciklas. Ved. Aistė Stonytė-Budzinauskienė(n)</desc>
+    <category lang="lt">Kultūra</category>
+    <icon src="https://cdn.tvstart.com/img/programme//thumb/375599.jpg" />
+    <episode-num system="onscreen">E241</episode-num>
+  </programme>
+  <programme start="20180502112000 +0300" stop="20180502121500 +0300" channel="LRT Kultūra">
+    <title lang="lt">Šventasis karas</title>
+    <desc lang="lt">Dokumentinis serialas. Vokietija. Kryžiaus žygis į Jeruzalę (Crusade to Jerusalem)(n)</desc>
+    <date>2011</date>
+    <category lang="lt">Istorinis</category>
+    <category lang="lt">Serialai</category>
+    <icon src="https://cdn.tvstart.com/img/programme//thumb/426052.jpg" />
+    <episode-num system="onscreen">E2</episode-num>
+  </programme>
+  <programme start="20180502121500 +0300" stop="20180502122500 +0300" channel="LRT Kultūra">
+    <title lang="lt">Grizis ir lemingai</title>
+    <desc lang="lt">Animacinis serialas. Prancūzija(n)</desc>
+    <date>2016</date>
+    <category lang="lt">Animacinis</category>
+    <category lang="lt">Serialai</category>
+    <icon src="https://cdn.tvstart.com/img/programme//thumb/422240.jpg" />
+    <episode-num system="onscreen">E73</episode-num>
+  </programme>
+  <programme start="20180502122500 +0300" stop="20180502123500 +0300" channel="LRT Kultūra">
+    <title lang="lt">Grizis ir lemingai</title>
+    <desc lang="lt">Animacinis serialas. Prancūzija(n)</desc>
+    <date>2016</date>
+    <category lang="lt">Animacinis</category>
+    <category lang="lt">Serialai</category>
+    <icon src="https://cdn.tvstart.com/img/programme//thumb/422240.jpg" />
+    <episode-num system="onscreen">E74</episode-num>
+  </programme>
+  <programme start="20180502123500 +0300" stop="20180502125000 +0300" channel="LRT Kultūra">
+    <title lang="lt">Auklė Mun</title>
+    <desc lang="lt">Animacinis serialas. Prancūzija(n)</desc>
+    <date>2016</date>
+    <category lang="lt">Animacinis</category>
+    <category lang="lt">Vaikams</category>
+    <icon src="https://cdn.tvstart.com/img/programme//thumb/400060.jpg" />
+    <episode-num system="onscreen">E14</episode-num>
+  </programme>
+  <programme start="20180502125000 +0300" stop="20180502131500 +0300" channel="LRT Kultūra">
+    <title lang="lt">Nuo gamyklos konvejerio</title>
+    <desc lang="lt">Dokumentinis serialas. JAV(n)</desc>
+    <date>2008</date>
+    <category lang="lt">Dokumentika</category>
+    <icon src="https://cdn.tvstart.com/img/programme//thumb/394570.jpg" />
+    <episode-num system="onscreen">S1E1</episode-num>
+  </programme>
+  <programme start="20180502131500 +0300" stop="20180502133000 +0300" channel="LRT Kultūra">
+    <title lang="lt">Mažasis atradėjas</title>
+    <desc lang="lt">Ved. Indrė Pivoraitė ir Lukas Birštonas(n)</desc>
+    <category lang="lt">TV žaidimas</category>
+    <episode-num system="onscreen">E1</episode-num>
+  </programme>
+  <programme start="20180502133000 +0300" stop="20180502150000 +0300" channel="LRT Kultūra">
+    <title lang="lt">Laba diena, Lietuva</title>
+    <desc lang="lt">Pačios naujausios žinios iš LRT radijo ir televizijos studijų ir truputis muzikos atokvėpiui, aktualūs interviu ir ne mažiau intriguojantys archyvo kadrai(n)</desc>
+    <category lang="lt">Žinios</category>
+    <icon src="https://cdn.tvstart.com/img/programme//thumb/387896.jpg" />
+    <episode-num system="onscreen">E1415</episode-num>
+  </programme>
+  <programme start="20180502150000 +0300" stop="20180502151500 +0300" channel="LRT Kultūra">
+    <title lang="lt">Kultūrų kryžkelė. Vilniaus albumas</title>
+    <desc lang="lt">„Vilniaus Albumas“ – vienintelė Lietuvoje informacinė publicistinė TV laida lenkų kalba(n)</desc>
+    <category lang="lt">Kasdienybė</category>
+    <icon src="https://cdn.tvstart.com/img/programme//thumb/375589.jpg" />
+    <episode-num system="onscreen">E181</episode-num>
+  </programme>
+  <programme start="20180502151500 +0300" stop="20180502153000 +0300" channel="LRT Kultūra">
+    <title lang="lt">Kultūrų kryžkelė. Trembita</title>
+    <desc lang="lt">Laida ukrainiečių kalba. Ukrainoje nuo senų laikų muzikinis instrumentas trembita kviesdavo žmones į liaudies forumą. Jis pranešdavo apie svarbius visai visuomenei įvykius. Trembita tapo naujienų ir susivienijimo simboliu.Tą patį šiandien bando daryti ir laida „Trembita“(n)</desc>
+    <category lang="lt">Kasdienybė</category>
+    <episode-num system="onscreen">E186</episode-num>
+  </programme>
+  <programme start="20180502153000 +0300" stop="20180502160000 +0300" channel="LRT Kultūra">
+    <title lang="lt">Septynios Kauno dienos</title>
+    <desc lang="lt">„Septynios Kauno dienos“ – sekmadienio informacinė-publicistinė televizijos laida, kurioje – įdomūs žmonės, socialinės problemos, kasdieninio gyvenimo įvykiai, faktai, jų vertinimas. Kauną matysite tokį, koks jis ištikrųjų yra: turtuolis ir vargšas, darbininkas ir inteligentas, politikas ir visiškas indiferentas(n)</desc>
+    <category lang="lt">Žinios</category>
+    <icon src="https://cdn.tvstart.com/img/programme//thumb/399393.jpg" />
+    <episode-num system="onscreen">E396</episode-num>
+  </programme>
+  <programme start="20180502160000 +0300" stop="20180502163500 +0300" channel="LRT Kultūra">
+    <title lang="lt">Maistas ir aistros</title>
+    <desc lang="lt">Ved. Erikas Tamašauskas ir Indrė Tamašauskienė(n)</desc>
+    <category lang="lt">Kulinarija</category>
+    <icon src="https://cdn.tvstart.com/img/programme//thumb/403884.jpg" />
+    <episode-num system="onscreen">E62</episode-num>
+  </programme>
+  <programme start="20180502163500 +0300" stop="20180502172000 +0300" channel="LRT Kultūra">
+    <title lang="lt">Ten, kur namai</title>
+    <desc lang="lt">Draminis serialas. Australija(n)</desc>
+    <date>2013</date>
+    <category lang="lt">Drama</category>
+    <category lang="lt">Serialai</category>
+    <icon src="https://cdn.tvstart.com/img/programme//thumb/406108.jpg" />
+    <episode-num system="onscreen">S1E9</episode-num>
+  </programme>
+  <programme start="20180502172000 +0300" stop="20180502173000 +0300" channel="LRT Kultūra">
+    <title lang="lt">Lietuvių mitologinės būtybės</title>
+    <desc lang="lt">Rež. Algirdas Selenis ir Aurika Selenienė(n)</desc>
+    <date>2008</date>
+    <category lang="lt">Animacinis</category>
+    <category lang="lt">Serialai</category>
+    <icon src="https://cdn.tvstart.com/img/programme//thumb/426048.jpg" />
+  </programme>
+  <programme start="20180502173000 +0300" stop="20180502181500 +0300" channel="LRT Kultūra">
+    <title lang="lt">Kalbantys tekstai</title>
+    <category lang="lt">Kultūra</category>
+    <icon src="https://cdn.tvstart.com/img/programme//thumb/418252.jpg" />
+    <episode-num system="onscreen">E11</episode-num>
+  </programme>
+  <programme start="20180502181500 +0300" stop="20180502191000 +0300" channel="LRT Kultūra">
+    <title lang="lt">Didžiosios Visatos paslaptys su Morganu Frimanu</title>
+    <desc lang="lt">Dokumentinis serialas. JAV Ar galime prikelti mirusiuosius? (Can We Resurrect the Dead?). Rež. Kurt Sayenga(n)</desc>
+    <date>2012</date>
+    <category lang="lt">Dokumentika</category>
+    <category lang="lt">Serialai</category>
+    <icon src="https://cdn.tvstart.com/img/programme//thumb/372322.jpg" />
+    <episode-num system="onscreen">S3E6</episode-num>
+  </programme>
+  <programme start="20180502191000 +0300" stop="20180502210000 +0300" channel="LRT Kultūra">
+    <title lang="lt">Sauliaus sūnus</title>
+    <title lang="xx">Saul fia</title>
+    <desc lang="lt">Vengrijos žydas Saulius dirba Aušvico specialiojoje komandoje. Vyras priverstas padėti žudyti tėvynainius. Mechaniškai, ramiai, išmokęs negirdėti aimanų, nematyti baimės kupinų akių, jis kasdien palydi į dujų kamerą, surenka rūbus ir į krūvą sumeta bejėgius mirusiųjų kūnus. Tačiau šiandien numirėlių krūvoje Saulius išvysta dar kvėpuojantį berniuką. Tai jis – Sauliaus sūnus. Ant rankų laikydamas gyvybę beiškvepiantį kūną, Saulius pasiryžta neįmanomam – palaidoti vaiką koncentracijos stovykloje, kur šimtai gyvybių kasdien virsta pelenais, o mirtis, kaip ir gyvenimas, atrodo beprasmė(n)</desc>
+    <credits>
+      <director>László Nemes  (as Nemes László)</director>
+      <actor>Géza Röhrig</actor>
+      <actor>Levente Molnár</actor>
+      <actor>Urs Rechn</actor>
+      <actor>Todd Charmont</actor>
+      <actor>Jerzy Walczak</actor>
+      <actor>Gergö Farkas</actor>
+      <actor>Balázs Farkas</actor>
+      <actor>Sándor Zsótér</actor>
+      <actor>Marcin Czarnik</actor>
+      <actor>Levente Orbán</actor>
+      <actor>Kamil Dobrowolski</actor>
+      <actor>Uwe Lauer</actor>
+      <actor>Christian Harting</actor>
+      <actor>Attila Fritz</actor>
+      <actor>Mihály Kormos</actor>
+    </credits>
+    <date>2015</date>
+    <category lang="lt">Drama</category>
+    <category lang="lt">Karinis</category>
+    <category lang="lt">Filmai</category>
+    <icon src="https://cdn.tvstart.com/img/programme//thumb/400364.jpg" />
+    <country>Vengrija</country>
+    <rating system="IMDb">
+      <value>7.6</value>
+    </rating>
   </programme>
 </tv>
