@@ -1,0 +1,1123 @@
+ 
+udp://@239.255.12.0:1234: Input/output error
+ 
+ Input #0, mpegts, from 'udp://@239.255.12.2:1234':
+  Duration: N/A, start: 75462.372144, bitrate: N/A
+  Program 1 
+    Metadata:
+      service_name    : Filmzone MPEG2
+      service_provider: 
+    Stream #0:0[0x3e9]: Video: mpeg2video (Main) ([2][0][0][0] / 0x0002), yuv420p(tv, bt470bg, top first), 720x576 [SAR 64:45 DAR 16:9], Closed Captions, 25 fps, 25 tbr, 90k tbn, 50 tbc
+    Stream #0:1[0x3ea](eng): Audio: mp2 ([3][0][0][0] / 0x0003), 48000 Hz, stereo, s16p, 256 kb/s
+    Stream #0:2[0x3eb](rus): Audio: mp2 ([3][0][0][0] / 0x0003), 48000 Hz, stereo, s16p, 128 kb/s
+    Stream #0:3[0x3ed](lit): Audio: mp2 ([3][0][0][0] / 0x0003), 48000 Hz, stereo, s16p, 128 kb/s
+    Stream #0:4[0x4b2](est): Subtitle: dvb_subtitle ([6][0][0][0] / 0x0006)
+    Stream #0:5[0x4b4](lav): Subtitle: dvb_subtitle ([6][0][0][0] / 0x0006)
+ 
+     Last message repeated 4 times
+Input #0, mpegts, from 'udp://@239.255.12.3:1234':
+  Duration: N/A, start: 69119.307622, bitrate: 5640 kb/s
+  Program 1 
+    Metadata:
+      service_name    : Kidzone TV lit
+      service_provider: Telia Eesti
+    Stream #0:0[0x3e9]: Video: mpeg2video (Main) ([2][0][0][0] / 0x0002), yuv420p(tv, top first), 720x576 [SAR 64:45 DAR 16:9], 5000 kb/s, 25 fps, 25 tbr, 90k tbn, 50 tbc
+    Stream #0:1[0x3ea](est): Audio: mp2 ([3][0][0][0] / 0x0003), 48000 Hz, stereo, s16p, 160 kb/s
+    Stream #0:2[0x3eb](lav): Audio: mp2 ([3][0][0][0] / 0x0003), 48000 Hz, stereo, s16p, 160 kb/s
+    Stream #0:3[0x3ec](lit): Audio: mp2 ([3][0][0][0] / 0x0003), 48000 Hz, stereo, s16p, 160 kb/s
+    Stream #0:4[0x3ed](rus): Audio: mp2 ([3][0][0][0] / 0x0003), 48000 Hz, stereo, s16p, 160 kb/s
+ 
+Input #0, mpegts, from 'udp://@239.255.12.4:1234':
+  Duration: N/A, start: 85760.815067, bitrate: N/A
+  Program 1 
+    Metadata:
+      service_name    : Platinum
+      service_provider: 
+    Stream #0:0[0x263]: Video: h264 (Main) ([27][0][0][0] / 0x001B), yuv420p(tv, bt470bg, top first), 720x576 [SAR 16:11 DAR 20:11], 25 fps, 25 tbr, 90k tbn, 50 tbc
+    Stream #0:1[0x277](lit): Audio: mp2 ([4][0][0][0] / 0x0004), 48000 Hz, stereo, s16p, 192 kb/s
+    Stream #0:2[0x278](rus): Audio: mp2 ([4][0][0][0] / 0x0004), 48000 Hz, stereo, s16p, 192 kb/s
+ 
+Input #0, mpegts, from 'udp://@239.255.12.5:1234':
+  Duration: N/A, start: 66642.317078, bitrate: N/A
+  Program 1 
+    Metadata:
+      service_name    : Sony Turbo Lithuania HD
+      service_provider: Levira
+    Stream #0:0[0x1c99]: Video: h264 (High) ([27][0][0][0] / 0x001B), yuv420p(tv, bt709, top first), 1920x1080 [SAR 1:1 DAR 16:9], 25 fps, 50 tbr, 90k tbn, 50 tbc
+    Stream #0:1[0x1d9d](lit): Audio: mp2 ([4][0][0][0] / 0x0004), 48000 Hz, stereo, s16p, 256 kb/s
+    Stream #0:2[0x1d9e](rus): Audio: mp2 ([4][0][0][0] / 0x0004), 48000 Hz, stereo, s16p, 192 kb/s
+ 
+  Input #0, mpegts, from 'udp://@239.255.12.6:1234':
+  Duration: N/A, start: 25184.926733, bitrate: N/A
+  Program 410 
+    Stream #0:0[0x19c]: Video: h264 (High) ([27][0][0][0] / 0x001B), yuv420p(tv, bt709, top first), 1920x1080 [SAR 1:1 DAR 16:9], 25 fps, 25 tbr, 90k tbn, 50 tbc
+    Stream #0:1[0x19d](lit): Audio: mp2 ([3][0][0][0] / 0x0003), 48000 Hz, stereo, s16p, 192 kb/s
+    Stream #0:2[0x19e](qaa): Audio: mp2 ([3][0][0][0] / 0x0003), 48000 Hz, stereo, s16p, 192 kb/s
+    Stream #0:3[0x19f](lit): Audio: ac3 ([6][0][0][0] / 0x0006), 48000 Hz, 5.1(side), fltp, 384 kb/s
+    Stream #0:4[0x1a1](lit): Subtitle: dvb_subtitle ([6][0][0][0] / 0x0006)
+ 
+ Input #0, mpegts, from 'udp://@239.255.12.7:1234':
+  Duration: N/A, start: 77294.453433, bitrate: N/A
+  Program 1 
+    Metadata:
+      service_name    : Kidzone+
+      service_provider: 
+    Stream #0:0[0x3e9]: Video: h264 (Main) ([27][0][0][0] / 0x001B), yuv420p(tv, bt709, top first), 1920x1080 [SAR 1:1 DAR 16:9], 25 fps, 25 tbr, 90k tbn, 50 tbc
+    Stream #0:1[0x3ea](est): Audio: mp2 ([3][0][0][0] / 0x0003), 48000 Hz, stereo, s16p, 192 kb/s
+    Stream #0:2[0x3eb](lav): Audio: mp2 ([3][0][0][0] / 0x0003), 48000 Hz, stereo, s16p, 192 kb/s
+    Stream #0:3[0x3ec](lit): Audio: mp2 ([3][0][0][0] / 0x0003), 48000 Hz, stereo, s16p, 192 kb/s
+    Stream #0:4[0x3ed](rus): Audio: mp2 ([3][0][0][0] / 0x0003), 48000 Hz, stereo, s16p, 192 kb/s
+    Stream #0:5[0x57a](est): Subtitle: dvb_subtitle ([6][0][0][0] / 0x0006)
+    Stream #0:6[0x57c](lav): Subtitle: dvb_subtitle ([6][0][0][0] / 0x0006)
+ 
+Input #0, mpegts, from 'udp://@239.255.12.8:1234':
+  Duration: N/A, start: 91194.876989, bitrate: N/A
+  Program 1 
+    Metadata:
+      service_name    : Lietuvos rytas HD
+      service_provider: Init
+    Stream #0:0[0x6f]: Video: h264 (High) ([27][0][0][0] / 0x001B), yuv420p(tv, bt709, top first), 1920x1080 [SAR 1:1 DAR 16:9], 25 fps, 50 tbr, 90k tbn, 50 tbc
+    Stream #0:1[0x70](lit): Audio: mp2 ([4][0][0][0] / 0x0004), 48000 Hz, stereo, s16p, 192 kb/s
+ 
+Input #0, mpegts, from 'udp://@239.255.12.9:1234':
+  Duration: N/A, start: 67702.864500, bitrate: N/A
+  Program 1 
+    Metadata:
+      service_name    : Sony Channel Lithuania HD
+      service_provider: Levira
+    Stream #0:0[0x1c96]: Video: h264 (High) ([27][0][0][0] / 0x001B), yuv420p(tv, bt709, top first), 1920x1080 [SAR 1:1 DAR 16:9], 25 fps, 50 tbr, 90k tbn, 50 tbc
+    Stream #0:1[0x1d91](lit): Audio: mp2 ([4][0][0][0] / 0x0004), 48000 Hz, stereo, s16p, 256 kb/s
+    Stream #0:2[0x1d92](rus): Audio: mp2 ([4][0][0][0] / 0x0004), 48000 Hz, stereo, s16p, 192 kb/s
+ 
+Input #0, mpegts, from 'udp://@239.255.12.10:1234':
+  Duration: N/A, start: 94389.576933, bitrate: N/A
+  Program 1 
+    Metadata:
+      service_name    : Sport Baltic HD
+      service_provider: Init
+    Stream #0:0[0x65]: Video: h264 (High) ([27][0][0][0] / 0x001B), yuv420p(top first), 1920x1080 [SAR 1:1 DAR 16:9], 25 fps, 25 tbr, 90k tbn, 50 tbc
+    Stream #0:1[0x66](lit): Audio: mp2 ([3][0][0][0] / 0x0003), 48000 Hz, stereo, s16p, 256 kb/s
+ 
+  Input #0, mpegts, from 'udp://@239.255.12.11:1234':
+  Duration: N/A, start: 60009.438711, bitrate: N/A
+  Program 1 
+    Metadata:
+      service_name    : Dom Kino
+      service_provider: 
+    Stream #0:0[0xea]: Video: h264 (Main) ([27][0][0][0] / 0x001B), yuv420p(tv, bt470bg, top first), 720x576 [SAR 16:11 DAR 20:11], 25 fps, 25 tbr, 90k tbn, 50 tbc
+    Stream #0:1[0x14e](rus): Audio: mp2 ([4][0][0][0] / 0x0004), 48000 Hz, stereo, s16p, 256 kb/s
+ 
+            Input #0, mpegts, from 'udp://@239.255.12.12:1234':
+  Duration: N/A, start: 47701.953033, bitrate: N/A
+  Program 4120 
+    Metadata:
+      service_name    : ?MGM HD
+      service_provider: Init
+    Stream #0:0[0xcc]: Video: h264 (High) ([27][0][0][0] / 0x001B), yuv420p(tv, bt709, top first), 1920x1080 [SAR 1:1 DAR 16:9], 25 fps, 50 tbr, 90k tbn, 50 tbc
+    Stream #0:1[0x130](rus): Audio: mp2 ([4][0][0][0] / 0x0004), 48000 Hz, stereo, s16p, 192 kb/s
+    Stream #0:2[0x194](eng): Audio: mp2 ([4][0][0][0] / 0x0004), 48000 Hz, stereo, s16p, 192 kb/s
+ 
+  Input #0, mpegts, from 'udp://@239.255.12.13:1234':
+  Duration: N/A, start: 94420.731533, bitrate: N/A
+  Program 1 
+    Metadata:
+      service_name    : TV3 HD
+      service_provider: Init
+    Stream #0:0[0x65]: Video: h264 (High) ([27][0][0][0] / 0x001B), yuv420p(top first), 1920x1080 [SAR 1:1 DAR 16:9], 25 fps, 25 tbr, 90k tbn, 50 tbc
+    Stream #0:1[0x66](lit): Audio: mp2 ([3][0][0][0] / 0x0003), 48000 Hz, stereo, s16p, 256 kb/s
+ 
+Input #0, mpegts, from 'udp://@239.255.12.14:1234':
+  Duration: N/A, start: 21648.855589, bitrate: N/A
+  Program 1 
+    Metadata:
+      service_name    : ?Food Network
+      service_provider: Init
+    Stream #0:0[0x65]: Video: h264 (Main) ([27][0][0][0] / 0x001B), yuv420p(tv, bt470bg, top first), 720x576 [SAR 16:11 DAR 20:11], 25 fps, 50 tbr, 90k tbn, 50 tbc
+    Stream #0:1[0x66](eng): Audio: mp2 ([4][0][0][0] / 0x0004), 48000 Hz, stereo, s16p, 160 kb/s
+    Stream #0:2[0x68](rus): Audio: mp2 ([4][0][0][0] / 0x0004), 48000 Hz, stereo, s16p, 160 kb/s
+ 
+     Last message repeated 4 times
+ Input #0, mpegts, from 'udp://@239.255.12.15:1234':
+  Duration: N/A, start: 38680.828522, bitrate: N/A
+  Program 1 
+    Metadata:
+      service_name    : Travel Channel HD
+      service_provider: Init
+    Stream #0:0[0x65]: Video: h264 (High) ([27][0][0][0] / 0x001B), yuv420p(tv, bt709, top first), 1920x1080 [SAR 1:1 DAR 16:9], 25 fps, 25 tbr, 90k tbn, 50 tbc
+    Stream #0:1[0x66](eng): Audio: mp2 ([3][0][0][0] / 0x0003), 48000 Hz, stereo, s16p, 128 kb/s
+    Stream #0:2[0x67](rus): Audio: mp2 ([3][0][0][0] / 0x0003), 48000 Hz, stereo, s16p, 128 kb/s
+    Stream #0:3[0x68](ger): Audio: mp2 ([3][0][0][0] / 0x0003), 48000 Hz, stereo, s16p, 128 kb/s
+ 
+                  Input #0, mpegts, from 'udp://@239.255.12.16:1234':
+  Duration: N/A, start: 94435.994367, bitrate: N/A
+  Program 1 
+    Metadata:
+      service_name    : TV6 HD
+      service_provider: Init
+    Stream #0:0[0x65]: Video: h264 (High) ([27][0][0][0] / 0x001B), yuv420p(top first), 1920x1080 [SAR 1:1 DAR 16:9], 25 fps, 25 tbr, 90k tbn, 50 tbc
+    Stream #0:1[0x66](lit): Audio: mp2 ([3][0][0][0] / 0x0003), 48000 Hz, stereo, s16p, 256 kb/s
+ 
+     Last message repeated 4 times
+ Input #0, mpegts, from 'udp://@239.255.12.17:1234':
+  Duration: N/A, start: 25242.452733, bitrate: N/A
+  Program 410 
+    Stream #0:0[0x19c]: Video: h264 (High) ([27][0][0][0] / 0x001B), yuv420p(tv, bt709, top first), 1920x1080 [SAR 1:1 DAR 16:9], 25 fps, 25 tbr, 90k tbn, 50 tbc
+    Stream #0:1[0x19d](lit): Audio: mp2 ([3][0][0][0] / 0x0003), 48000 Hz, stereo, s16p, 192 kb/s
+    Stream #0:2[0x19e](qaa): Audio: mp2 ([3][0][0][0] / 0x0003), 48000 Hz, stereo, s16p, 192 kb/s
+    Stream #0:3[0x19f](lit): Audio: ac3 ([6][0][0][0] / 0x0006), 48000 Hz, 5.1(side), fltp, 384 kb/s
+    Stream #0:4[0x1a1](lit): Subtitle: dvb_subtitle ([6][0][0][0] / 0x0006)
+ 
+     Last message repeated 10 times
+Input #0, mpegts, from 'udp://@239.255.12.18:1234':
+  Duration: N/A, start: 50750.734000, bitrate: N/A
+  Program 191 
+    Metadata:
+      service_name    : MTV Dance
+      service_provider: Init
+    Stream #0:0[0xbeb]: Video: mpeg2video (Main) ([2][0][0][0] / 0x0002), yuv420p(tv, top first), 720x576 [SAR 64:45 DAR 16:9], 25 fps, 25 tbr, 90k tbn, 50 tbc
+    Stream #0:1[0xbec](eng): Audio: mp2 ([3][0][0][0] / 0x0003), 48000 Hz, stereo, s16p, 256 kb/s
+ 
+     Last message repeated 10 times
+Input #0, mpegts, from 'udp://@239.255.12.19:1234':
+  Duration: N/A, start: 50755.918311, bitrate: N/A
+  Program 192 
+    Metadata:
+      service_name    : ?MTV Rocks
+      service_provider: Init
+    Stream #0:0[0xc13]: Video: mpeg2video (Main) ([2][0][0][0] / 0x0002), yuv420p(tv, top first), 720x576 [SAR 64:45 DAR 16:9], 25 fps, 25 tbr, 90k tbn, 50 tbc
+    Stream #0:1[0xc14](eng): Audio: mp2 ([3][0][0][0] / 0x0003), 48000 Hz, stereo, s16p, 256 kb/s
+ 
+     Last message repeated 3 times
+Input #0, mpegts, from 'udp://@239.255.12.20:1234':
+  Duration: N/A, start: 50645.567922, bitrate: N/A
+  Program 193 
+    Metadata:
+      service_name    : VH1 Classic
+      service_provider: Init
+    Stream #0:0[0xbff]: Video: mpeg2video (Main) ([2][0][0][0] / 0x0002), yuv420p(tv, top first), 720x576 [SAR 16:15 DAR 4:3], 25 fps, 25 tbr, 90k tbn, 50 tbc
+    Stream #0:1[0xc00](eng): Audio: mp2 ([3][0][0][0] / 0x0003), 48000 Hz, stereo, s16p, 256 kb/s
+ 
+     Last message repeated 22 times
+Input #0, mpegts, from 'udp://@239.255.12.21:1234':
+  Duration: N/A, start: 56612.532211, bitrate: N/A
+  Program 52 
+    Metadata:
+      service_name    : Detskij Mir/Teleklub
+      service_provider: Init
+    Stream #0:0[0xca9]: Video: mpeg2video (Main) ([2][0][0][0] / 0x0002), yuv420p(tv, top first), 720x576 [SAR 16:15 DAR 4:3], 25 fps, 25 tbr, 90k tbn, 50 tbc
+    Stream #0:1[0xcaa](rus): Audio: mp2 ([4][0][0][0] / 0x0004), 48000 Hz, stereo, s16p, 192 kb/s
+ 
+     Last message repeated 10 times
+Input #0, mpegts, from 'udp://@239.255.12.22:1234':
+  Duration: N/A, start: 64643.343678, bitrate: N/A
+  Program 174 
+    Metadata:
+      service_name    : Nickelodeon
+      service_provider: Init
+    Stream #0:0[0x13bb]: Video: mpeg2video (Main) ([2][0][0][0] / 0x0002), yuv420p(tv, top first), 720x576 [SAR 64:45 DAR 16:9], 25 fps, 25 tbr, 90k tbn, 50 tbc
+    Stream #0:1[0x13bc](eng): Audio: mp2 ([3][0][0][0] / 0x0003), 48000 Hz, stereo, s16p, 192 kb/s
+    Stream #0:2[0x13bd](ron): Audio: mp2 ([3][0][0][0] / 0x0003), 48000 Hz, mono, s16p, 96 kb/s
+    Stream #0:3[0x13be](cze): Audio: mp2 ([3][0][0][0] / 0x0003), 48000 Hz, mono, s16p, 96 kb/s
+    Stream #0:4[0x13bf](rus): Audio: mp2 ([3][0][0][0] / 0x0003), 48000 Hz, stereo, s16p, 192 kb/s
+    Stream #0:5[0x13c0](hun): Audio: mp2 ([3][0][0][0] / 0x0003), 48000 Hz, stereo, s16p, 192 kb/s
+    Stream #0:6[0x13c1](hrv): Audio: mp2 ([3][0][0][0] / 0x0003), 48000 Hz, stereo, s16p, 192 kb/s
+    Stream #0:7[0x13c2](slv): Audio: mp2 ([3][0][0][0] / 0x0003), 48000 Hz, mono, s16p, 96 kb/s
+    Stream #0:8[0x13c3](eng): Subtitle: dvb_teletext ([6][0][0][0] / 0x0006), 492x250
+    Stream #0:9[0x17a4](srp): Audio: mp2 ([3][0][0][0] / 0x0003), 48000 Hz, mono, s16p, 96 kb/s
+    Stream #0:10[0x17a5](bul): Audio: mp2 ([3][0][0][0] / 0x0003), 48000 Hz, mono, s16p, 96 kb/s
+    Stream #0:11[0x17a6](est): Audio: mp2 ([3][0][0][0] / 0x0003), 48000 Hz, mono, s16p, 96 kb/s
+    Stream #0:12[0x17a7](lit): Audio: mp2 ([3][0][0][0] / 0x0003), 48000 Hz, mono, s16p, 96 kb/s
+    Stream #0:13[0x17a8](lav): Audio: mp2 ([3][0][0][0] / 0x0003), 48000 Hz, mono, s16p, 96 kb/s
+ 
+ Input #0, mpegts, from 'udp://@239.255.12.23:1234':
+  Duration: N/A, start: 73297.307167, bitrate: 4118 kb/s
+  Program 3180 
+    Metadata:
+      service_name    : ?Disney Channel
+      service_provider: Init
+    Stream #0:0[0x3d4](rus): Subtitle: dvb_subtitle ([6][0][0][0] / 0x0006)
+    Stream #0:1[0xc6d]: Video: mpeg2video (Main) ([2][0][0][0] / 0x0002), yuv420p(tv, top first), 720x576 [SAR 64:45 DAR 16:9], 3350 kb/s, 25 fps, 25 tbr, 90k tbn, 50 tbc
+    Stream #0:2[0xc6e](swe): Audio: mp2 ([3][0][0][0] / 0x0003), 48000 Hz, stereo, s16p, 192 kb/s
+    Stream #0:3[0xc71](fin): Audio: mp2 ([3][0][0][0] / 0x0003), 48000 Hz, stereo, s16p, 192 kb/s
+    Stream #0:4[0xc72](eng): Audio: mp2 ([3][0][0][0] / 0x0003), 48000 Hz, stereo, s16p, 192 kb/s
+    Stream #0:5[0xc73](swe,nor,dan,fin): Subtitle: dvb_teletext ([6][0][0][0] / 0x0006)
+    Stream #0:6[0xc75](rus): Audio: mp2 ([3][0][0][0] / 0x0003), 48000 Hz, stereo, s16p, 192 kb/s
+ 
+     Last message repeated 13 times
+Input #0, mpegts, from 'udp://@239.255.12.24:1234':
+  Duration: N/A, start: 73302.521344, bitrate: 4118 kb/s
+  Program 3190 
+    Metadata:
+      service_name    : ?Disney XD
+      service_provider: Init
+    Stream #0:0[0x3de](rus): Subtitle: dvb_subtitle ([6][0][0][0] / 0x0006)
+    Stream #0:1[0xc77]: Video: mpeg2video (Main) ([2][0][0][0] / 0x0002), yuv420p(tv, top first), 720x576 [SAR 64:45 DAR 16:9], 3350 kb/s, 25 fps, 25 tbr, 90k tbn, 50 tbc
+    Stream #0:2[0xc78](swe): Audio: mp2 ([3][0][0][0] / 0x0003), 48000 Hz, stereo, s16p, 192 kb/s
+    Stream #0:3[0xc7b](fin): Audio: mp2 ([3][0][0][0] / 0x0003), 48000 Hz, stereo, s16p, 192 kb/s
+    Stream #0:4[0xc7c](eng): Audio: mp2 ([3][0][0][0] / 0x0003), 48000 Hz, stereo, s16p, 192 kb/s
+    Stream #0:5[0xc7d](swe,nor,dan,fin): Subtitle: dvb_teletext ([6][0][0][0] / 0x0006), 492x250
+    Stream #0:6[0xc7e](rus): Audio: mp2 ([3][0][0][0] / 0x0003), 48000 Hz, stereo, s16p, 192 kb/s
+ 
+  Input #0, mpegts, from 'udp://@239.255.12.25:1234':
+  Duration: N/A, start: 52087.225811, bitrate: N/A
+  Program 1130 
+    Metadata:
+      service_name    : Disney Junior
+      service_provider: Init
+    Stream #0:0[0x65]: Video: h264 (High) ([27][0][0][0] / 0x001B), yuv420p(tv, bt470bg, top first), 720x576 [SAR 16:11 DAR 20:11], 25 fps, 25 tbr, 90k tbn, 50 tbc
+    Stream #0:1[0x66](swe): Audio: mp2 ([3][0][0][0] / 0x0003), 48000 Hz, stereo, s16p, 192 kb/s
+    Stream #0:2[0x67](nor): Audio: mp2 ([3][0][0][0] / 0x0003), 48000 Hz, stereo, s16p, 192 kb/s
+    Stream #0:3[0x68](dan): Audio: mp2 ([3][0][0][0] / 0x0003), 48000 Hz, stereo, s16p, 192 kb/s
+    Stream #0:4[0x69](fin): Audio: mp2 ([3][0][0][0] / 0x0003), 48000 Hz, stereo, s16p, 192 kb/s
+    Stream #0:5[0x6a](eng): Audio: mp2 ([3][0][0][0] / 0x0003), 48000 Hz, stereo, s16p, 192 kb/s
+    Stream #0:6[0x6b](rus): Audio: mp2 ([3][0][0][0] / 0x0003), 48000 Hz, stereo, s16p, 256 kb/s
+    Stream #0:7[0x6c](swe,nor,dan,fin): Subtitle: dvb_teletext ([6][0][0][0] / 0x0006), 492x250
+ 
+  Input #0, mpegts, from 'udp://@239.255.12.26:1234':
+  Duration: N/A, start: 65669.383556, bitrate: N/A
+  Program 103 
+    Metadata:
+      service_name    : FilmBox ArtHouse
+      service_provider: Init
+    Stream #0:0[0x203]: Video: h264 (High) ([27][0][0][0] / 0x001B), yuv420p(tv, bt470bg, top first), 720x576 [SAR 16:11 DAR 20:11], 25 fps, 50 tbr, 90k tbn, 50 tbc
+    Stream #0:1[0x303](eng): Audio: mp2 ([3][0][0][0] / 0x0003), 48000 Hz, stereo, s16p, 128 kb/s
+    Stream #0:2[0x403](rus): Audio: mp2 ([3][0][0][0] / 0x0003), 48000 Hz, stereo, s16p, 128 kb/s
+    Stream #0:3[0x731]: Subtitle: dvb_subtitle ([6][0][0][0] / 0x0006)
+    Stream #0:4[0x732]: Subtitle: dvb_subtitle ([6][0][0][0] / 0x0006)
+    Stream #0:5[0x733]: Subtitle: dvb_subtitle ([6][0][0][0] / 0x0006)
+    Stream #0:6[0x734]: Subtitle: dvb_subtitle ([6][0][0][0] / 0x0006)
+ 
+     Last message repeated 9 times
+Input #0, mpegts, from 'udp://@239.255.12.27:1234':
+  Duration: N/A, start: 67878.503211, bitrate: N/A
+  Program 106 
+    Metadata:
+      service_name    : FilmBox 
+      service_provider: Init
+    Stream #0:0[0x206]: Video: mpeg2video (Main) ([2][0][0][0] / 0x0002), yuv420p(tv, top first), 720x576 [SAR 64:45 DAR 16:9], 25 fps, 25 tbr, 90k tbn, 50 tbc
+    Stream #0:1[0x306](rus): Audio: mp2 ([3][0][0][0] / 0x0003), 48000 Hz, stereo, s16p, 128 kb/s
+    Stream #0:2[0x406](org): Audio: mp2 ([3][0][0][0] / 0x0003), 48000 Hz, stereo, s16p, 128 kb/s
+ 
+  Input #0, mpegts, from 'udp://@239.255.12.28:1234':
+  Duration: N/A, start: 63289.999556, bitrate: N/A
+  Program 101 
+    Metadata:
+      service_name    : FastnfunBox HD
+      service_provider: Init
+    Stream #0:0[0x201]: Video: h264 (High) ([27][0][0][0] / 0x001B), yuv420p(tv, bt709, top first), 1920x1080 [SAR 1:1 DAR 16:9], 25 fps, 50 tbr, 90k tbn, 50 tbc
+    Stream #0:1[0x301](eng): Audio: mp2 ([3][0][0][0] / 0x0003), 48000 Hz, stereo, s16p, 224 kb/s
+    Stream #0:2[0x401](rus): Audio: mp2 ([3][0][0][0] / 0x0003), 48000 Hz, stereo, s16p, 224 kb/s
+    Stream #0:3[0x89c](tur): Audio: mp2 ([3][0][0][0] / 0x0003), 48000 Hz, stereo, s16p, 224 kb/s
+    Stream #0:4[0x8c1](tur): Subtitle: dvb_subtitle ([6][0][0][0] / 0x0006)
+    Stream #0:5[0x8c2](por): Subtitle: dvb_subtitle ([6][0][0][0] / 0x0006)
+ 
+  Input #0, mpegts, from 'udp://@239.255.12.29:1234':
+  Duration: N/A, start: 67430.723556, bitrate: N/A
+  Program 112 
+    Metadata:
+      service_name    : 360 TuneBox
+      service_provider: Init
+    Stream #0:0[0x212]: Video: h264 (High) ([27][0][0][0] / 0x001B), yuv420p(tv, bt470bg, top first), 720x576 [SAR 16:11 DAR 20:11], 25 fps, 50 tbr, 90k tbn, 50 tbc
+    Stream #0:1[0x312](org): Audio: mp2 ([3][0][0][0] / 0x0003), 48000 Hz, stereo, s16p, 224 kb/s
+ 
+[mp3 @ 0x56394f5fbb00] Header missing
+[mp3 @ 0x56394f5fa8c0] Header missing
+[mpegts @ 0x56394f5d2e60] Could not find codec parameters for stream 4 (Unknown: none ([5][0][0][0] / 0x0005)): unknown codec
+Consider increasing the value for the 'analyzeduration' and 'probesize' options
+[mpegts @ 0x56394f5d2e60] Could not find codec parameters for stream 5 (Unknown: none ([5][0][0][0] / 0x0005)): unknown codec
+Consider increasing the value for the 'analyzeduration' and 'probesize' options
+[mpegts @ 0x56394f5d2e60] Could not find codec parameters for stream 6 (Unknown: none ([5][0][0][0] / 0x0005)): unknown codec
+Consider increasing the value for the 'analyzeduration' and 'probesize' options
+[mpegts @ 0x56394f5d2e60] Could not find codec parameters for stream 7 (Unknown: none ([11][0][0][0] / 0x000B)): unknown codec
+Consider increasing the value for the 'analyzeduration' and 'probesize' options
+[mpegts @ 0x56394f5d2e60] Could not find codec parameters for stream 8 (Unknown: none ([11][0][0][0] / 0x000B)): unknown codec
+Consider increasing the value for the 'analyzeduration' and 'probesize' options
+[mpegts @ 0x56394f5d2e60] Could not find codec parameters for stream 9 (Unknown: none ([11][0][0][0] / 0x000B)): unknown codec
+Consider increasing the value for the 'analyzeduration' and 'probesize' options
+[mpegts @ 0x56394f5d2e60] Could not find codec parameters for stream 10 (Unknown: none ([12][0][0][0] / 0x000C)): unknown codec
+Consider increasing the value for the 'analyzeduration' and 'probesize' options
+Input #0, mpegts, from 'udp://@239.255.12.30:1234':
+  Duration: N/A, start: 32090.507922, bitrate: N/A
+  Program 521 
+    Metadata:
+      service_name    : RAI1
+      service_provider: Init
+    Stream #0:0[0x200]: Video: mpeg2video (Main) ([2][0][0][0] / 0x0002), yuv420p(tv, top first), 720x576 [SAR 64:45 DAR 16:9], 25 fps, 25 tbr, 90k tbn, 50 tbc
+    Stream #0:1[0x240](ita,ita,eng): Subtitle: dvb_teletext ([6][0][0][0] / 0x0006)
+    Stream #0:2[0x28a](ita): Audio: mp2 ([3][0][0][0] / 0x0003), 48000 Hz, stereo, s16p, 192 kb/s
+    Stream #0:3[0x2bb](eng): Audio: mp2 ([3][0][0][0] / 0x0003), 48000 Hz, stereo, s16p, 192 kb/s
+    Stream #0:4[0x7db]: Unknown: none ([5][0][0][0] / 0x0005)
+    Stream #0:5[0x7dc]: Unknown: none ([5][0][0][0] / 0x0005)
+    Stream #0:6[0x7e5]: Unknown: none ([5][0][0][0] / 0x0005)
+    Stream #0:7[0xbc3]: Unknown: none ([11][0][0][0] / 0x000B)
+    Stream #0:8[0xbc4]: Unknown: none ([11][0][0][0] / 0x000B)
+    Stream #0:9[0xbc5]: Unknown: none ([11][0][0][0] / 0x000B)
+    Stream #0:10[0xc1d]: Unknown: none ([12][0][0][0] / 0x000C)
+Unsupported codec with id 0 for input stream 4
+Unsupported codec with id 0 for input stream 5
+Unsupported codec with id 0 for input stream 6
+Unsupported codec with id 0 for input stream 7
+Unsupported codec with id 0 for input stream 8
+Unsupported codec with id 0 for input stream 9
+Unsupported codec with id 0 for input stream 10
+ 
+                                                                                     Input #0, mpegts, from 'udp://@239.255.12.31:1234':
+  Duration: N/A, start: 91873.739422, bitrate: N/A
+  Program 1 
+    Metadata:
+      service_name    : LandscapeHD
+      service_provider: Init
+    Stream #0:0[0x44]: Video: h264 (Constrained Baseline) ([27][0][0][0] / 0x001B), yuv420p(progressive), 1920x1080 [SAR 1:1 DAR 16:9], 25 fps, 25 tbr, 90k tbn, 50 tbc
+    Stream #0:1[0x45](eng): Audio: mp2 ([3][0][0][0] / 0x0003), 48000 Hz, stereo, s16p, 256 kb/s
+ 
+udp://@239.255.12.32:1234: Input/output error
+ 
+     Last message repeated 13 times
+Input #0, mpegts, from 'udp://@239.255.12.33:1234':
+  Duration: N/A, start: 25512.887067, bitrate: 5666 kb/s
+  Program 22 
+    Metadata:
+      service_name    : Sport 1
+      service_provider: Init
+    Stream #0:0[0xdd]: Video: mpeg2video (Main) ([2][0][0][0] / 0x0002), yuv420p(tv, top first), 720x576 [SAR 64:45 DAR 16:9], 5474 kb/s, 25 fps, 25 tbr, 90k tbn, 50 tbc
+    Stream #0:1[0xde](lit): Audio: mp2 ([3][0][0][0] / 0x0003), 48000 Hz, stereo, s16p, 192 kb/s (clean effects)
+ 
+     Last message repeated 5 times
+Input #0, mpegts, from 'udp://@239.255.12.34:1234':
+  Duration: N/A, start: 37614.360122, bitrate: N/A
+  Program 5 
+    Metadata:
+      service_name    : Science Europe
+      service_provider: Init
+    Stream #0:0[0x384]: Video: mpeg2video (Main) ([2][0][0][0] / 0x0002), yuv420p(tv, top first), 720x576 [SAR 64:45 DAR 16:9], 25 fps, 25 tbr, 90k tbn, 50 tbc
+    Stream #0:1[0x385](eng): Audio: mp2 ([4][0][0][0] / 0x0004), 48000 Hz, stereo, s16p, 192 kb/s
+    Stream #0:2[0x386](hun): Audio: mp2 ([4][0][0][0] / 0x0004), 48000 Hz, stereo, s16p, 192 kb/s
+    Stream #0:3[0x388](rus): Audio: mp2 ([4][0][0][0] / 0x0004), 48000 Hz, stereo, s16p, 192 kb/s
+    Stream #0:4[0x389](cze): Audio: mp2 ([4][0][0][0] / 0x0004), 48000 Hz, stereo, s16p, 192 kb/s
+    Stream #0:5[0x39c](dut): Subtitle: dvb_subtitle ([6][0][0][0] / 0x0006)
+    Stream #0:6[0x39e](ara): Subtitle: dvb_subtitle ([6][0][0][0] / 0x0006)
+    Stream #0:7[0x39f](por): Subtitle: dvb_subtitle ([6][0][0][0] / 0x0006)
+    Stream #0:8[0x3a0](rum): Subtitle: dvb_subtitle ([6][0][0][0] / 0x0006)
+    Stream #0:9[0x3a1](alb): Subtitle: dvb_subtitle ([6][0][0][0] / 0x0006)
+    Stream #0:10[0x3a2](gre): Subtitle: dvb_subtitle ([6][0][0][0] / 0x0006)
+    Stream #0:11[0x3a3](rus): Subtitle: dvb_subtitle ([6][0][0][0] / 0x0006)
+    Stream #0:12[0x3a4](bul): Subtitle: dvb_subtitle ([6][0][0][0] / 0x0006)
+    Stream #0:13[0x3a5](heb): Subtitle: dvb_subtitle ([6][0][0][0] / 0x0006)
+    Stream #0:14[0x3a6](eng): Subtitle: dvb_subtitle ([6][0][0][0] / 0x0006)
+    Stream #0:15[0x3a7](scc): Subtitle: dvb_subtitle ([6][0][0][0] / 0x0006)
+ 
+  Input #0, mpegts, from 'udp://@239.255.12.35:1234':
+  Duration: N/A, start: 93005.615211, bitrate: N/A
+  Program 490 
+    Metadata:
+      service_name    : Oruzije
+      service_provider: Init
+    Stream #0:0[0x1e1]: Video: h264 (High) ([27][0][0][0] / 0x001B), yuv420p(tv, bt470bg, top first), 720x576 [SAR 12:11 DAR 15:11], 25 fps, 50 tbr, 90k tbn, 50 tbc
+    Stream #0:1[0x1e2](rus): Audio: mp2 ([4][0][0][0] / 0x0004), 48000 Hz, stereo, s16p, 192 kb/s
+ 
+  Input #0, mpegts, from 'udp://@239.255.12.36:1234':
+  Duration: N/A, start: 35228.109667, bitrate: N/A
+  Program 101 
+    Metadata:
+      service_name    : RFM TV
+      service_provider: Init
+    Stream #0:0[0x262]: Video: h264 (High) ([27][0][0][0] / 0x001B), yuv420p(tv, bt709, top first), 1440x1080 [SAR 4:3 DAR 16:9], 25 fps, 25 tbr, 90k tbn, 50 tbc
+    Stream #0:1[0x19dd](fra): Audio: ac3 ([6][0][0][0] / 0x0006), 48000 Hz, stereo, fltp, 192 kb/s
+ 
+Input #0, mpegts, from 'udp://@239.255.12.37:1234':
+  Duration: N/A, start: 1238.094678, bitrate: N/A
+  Program 66 
+    Metadata:
+      service_name    : TV8
+      service_provider: Init
+    Stream #0:0[0x295]: Video: mpeg2video (Main) ([2][0][0][0] / 0x0002), yuv420p(tv, top first), 544x576 [SAR 32:17 DAR 16:9], 25 fps, 25 tbr, 90k tbn, 50 tbc
+    Stream #0:1[0x296]: Audio: mp2 ([3][0][0][0] / 0x0003), 48000 Hz, stereo, s16p, 128 kb/s
+ 
+     Last message repeated 5 times
+Input #0, mpegts, from 'udp://@239.255.12.38:1234':
+  Duration: N/A, start: 24568.151444, bitrate: N/A
+  Program 344 
+    Metadata:
+      service_name    : Belarus TV
+      service_provider: Init
+    Stream #0:0[0xa29]: Video: mpeg2video (Main) ([2][0][0][0] / 0x0002), yuv420p(tv, top first), 480x576 [SAR 32:15 DAR 16:9], 25 fps, 25 tbr, 90k tbn, 50 tbc
+    Stream #0:1[0xa2a](rus): Audio: mp2 ([3][0][0][0] / 0x0003), 48000 Hz, stereo, s16p, 128 kb/s
+ 
+     Last message repeated 6 times
+Input #0, mpegts, from 'udp://@239.255.12.39:1234':
+  Duration: N/A, start: 41083.405044, bitrate: N/A
+  Program 79 
+    Metadata:
+      service_name    : Euronews Russian
+      service_provider: Init
+    Stream #0:0[0x300](rus): Subtitle: dvb_teletext ([6][0][0][0] / 0x0006), 492x250
+    Stream #0:1[0xc8e]: Video: mpeg2video (Main) ([2][0][0][0] / 0x0002), yuv420p(tv, top first), 720x576 [SAR 64:45 DAR 16:9], 25 fps, 25 tbr, 90k tbn, 50 tbc
+    Stream #0:2[0xcf2](rus): Audio: mp2 ([3][0][0][0] / 0x0003), 48000 Hz, stereo, s16p, 128 kb/s
+ 
+udp://@239.255.12.40:1234: Input/output error
+ 
+udp://@239.255.12.41:1234: Input/output error
+ 
+[mp3 @ 0x55e4d6089400] Header missing
+     Last message repeated 4 times
+Input #0, mpegts, from 'udp://@239.255.12.42:1234':
+  Duration: N/A, start: 26241.484556, bitrate: N/A
+  Program 1 
+    Stream #0:0[0x44]: Audio: mp2 ([3][0][0][0] / 0x0003), 48000 Hz, stereo, s16p, 192 kb/s
+    Stream #0:1[0x45]: Video: mpeg2video (Main) ([2][0][0][0] / 0x0002), yuv420p(tv, top first), 720x576 [SAR 16:15 DAR 4:3], 25 fps, 25 tbr, 90k tbn, 50 tbc
+ 
+     Last message repeated 6 times
+Input #0, mpegts, from 'udp://@239.255.12.43:1234':
+  Duration: N/A, start: 93721.169156, bitrate: N/A
+  Program 34 
+    Metadata:
+      service_name    : CNN International
+      service_provider: Init
+    Stream #0:0[0x155]: Video: mpeg2video (Main) ([2][0][0][0] / 0x0002), yuv420p(tv, top first), 544x576 [SAR 32:17 DAR 16:9], 25 fps, 25 tbr, 90k tbn, 50 tbc
+    Stream #0:1[0x156](eng): Audio: mp2 ([3][0][0][0] / 0x0003), 48000 Hz, stereo, s16p, 128 kb/s (clean effects)
+ 
+     Last message repeated 28 times
+Input #0, mpegts, from 'udp://@239.255.12.44:1234':
+  Duration: N/A, start: 93675.324500, bitrate: N/A
+  Program 153 
+    Metadata:
+      service_name    : RBK
+      service_provider: Init
+    Stream #0:0[0x5fb]: Video: mpeg2video (Main) ([2][0][0][0] / 0x0002), yuv420p(tv, top first), 704x576 [SAR 16:11 DAR 16:9], 25 fps, 25 tbr, 90k tbn, 50 tbc
+    Stream #0:1[0x5fc](rus): Audio: mp2 ([4][0][0][0] / 0x0004), 48000 Hz, stereo, s16p, 192 kb/s
+ 
+ [mp3 @ 0x56084ae5bf80] Header missing
+[mp3 @ 0x56084ae5ad00] Header missing
+[mp3 @ 0x56084ae59ac0] Header missing
+[mp3 @ 0x56084ae58880] Header missing
+[mp3 @ 0x56084ae57640] Header missing
+     Last message repeated 4 times
+Input #0, mpegts, from 'udp://@239.255.12.45:1234':
+  Duration: N/A, start: 56893.537544, bitrate: N/A
+  Program 2 
+    Metadata:
+      service_name    : Boomerang
+      service_provider: Init
+    Stream #0:0[0x227]: Video: mpeg2video (Main) ([2][0][0][0] / 0x0002), yuv420p(tv, top first), 720x576 [SAR 64:45 DAR 16:9], 25 fps, 25 tbr, 90k tbn, 50 tbc
+    Stream #0:1[0x230](hun): Audio: mp2 ([3][0][0][0] / 0x0003), 48000 Hz, stereo, s16p, 128 kb/s
+    Stream #0:2[0x232](eng): Audio: mp2 ([3][0][0][0] / 0x0003), 48000 Hz, stereo, s16p, 128 kb/s
+    Stream #0:3[0x233](ron): Audio: mp2 ([3][0][0][0] / 0x0003), 48000 Hz, stereo, s16p, 128 kb/s
+    Stream #0:4[0x234](pol): Audio: mp2 ([3][0][0][0] / 0x0003), 48000 Hz, stereo, s16p, 128 kb/s
+    Stream #0:5[0x235](rus): Audio: mp2 ([3][0][0][0] / 0x0003), 48000 Hz, stereo, s16p, 128 kb/s
+ 
+ Input #0, mpegts, from 'udp://@239.255.12.46:1234':
+  Duration: N/A, start: 50737.855700, bitrate: 3392 kb/s
+  Program 81 
+    Metadata:
+      service_name    : Deutsche Welle
+      service_provider: Init
+    Stream #0:0[0x32b]: Video: mpeg2video (Main) ([2][0][0][0] / 0x0002), yuv420p(tv, top first), 720x576 [SAR 64:45 DAR 16:9], 3200 kb/s, 25 fps, 25 tbr, 90k tbn, 50 tbc
+    Stream #0:1[0x32c](eng): Audio: mp2 ([3][0][0][0] / 0x0003), 48000 Hz, stereo, s16p, 192 kb/s
+ 
+udp://@239.255.12.47:1234: Input/output error
+ 
+                                                Input #0, mpegts, from 'udp://@239.255.12.48:1234':
+  Duration: N/A, start: 62765.940244, bitrate: N/A
+  Program 45 
+    Metadata:
+      service_name    : Fox
+      service_provider: Init
+    Stream #0:0[0x1c4]: Video: h264 (Main) ([27][0][0][0] / 0x001B), yuv420p(top first), 720x576 [SAR 64:45 DAR 16:9], 25 fps, 50 tbr, 90k tbn, 50 tbc
+    Stream #0:1[0x1c5](rus): Audio: mp2 ([3][0][0][0] / 0x0003), 48000 Hz, stereo, s16p, 192 kb/s
+    Stream #0:2[0x1c6](eng): Audio: mp2 ([3][0][0][0] / 0x0003), 48000 Hz, stereo, s16p, 192 kb/s
+    Stream #0:3[0x2e1](lit): Subtitle: dvb_subtitle ([6][0][0][0] / 0x0006)
+ 
+ Input #0, mpegts, from 'udp://@239.255.12.49:1234':
+  Duration: N/A, start: 69343.635622, bitrate: 5640 kb/s
+  Program 1 
+    Metadata:
+      service_name    : kidZoneTV
+      service_provider: Init
+    Stream #0:0[0x3e9]: Video: mpeg2video (Main) ([2][0][0][0] / 0x0002), yuv420p(tv, top first), 720x576 [SAR 64:45 DAR 16:9], 5000 kb/s, 25 fps, 25 tbr, 90k tbn, 50 tbc
+    Stream #0:1[0x3ea](lit): Audio: mp2 ([3][0][0][0] / 0x0003), 48000 Hz, stereo, s16p, 160 kb/s
+    Stream #0:2[0x3eb](lav): Audio: mp2 ([3][0][0][0] / 0x0003), 48000 Hz, stereo, s16p, 160 kb/s
+    Stream #0:3[0x3ec](est): Audio: mp2 ([3][0][0][0] / 0x0003), 48000 Hz, stereo, s16p, 160 kb/s
+    Stream #0:4[0x3ed](rus): Audio: mp2 ([3][0][0][0] / 0x0003), 48000 Hz, stereo, s16p, 160 kb/s
+ 
+                                    Input #0, mpegts, from 'udp://@239.255.12.50:1234':
+  Duration: N/A, start: 62783.047589, bitrate: N/A
+  Program 48 
+    Metadata:
+      service_name    : Fox Life
+      service_provider: Init
+    Stream #0:0[0x1e1]: Video: h264 (Main) ([27][0][0][0] / 0x001B), yuv420p(top first), 720x576 [SAR 64:45 DAR 16:9], 25 fps, 50 tbr, 90k tbn, 50 tbc
+    Stream #0:1[0x1e2](rus): Audio: mp2 ([3][0][0][0] / 0x0003), 48000 Hz, stereo, s16p, 192 kb/s
+    Stream #0:2[0x1e3](eng): Audio: mp2 ([3][0][0][0] / 0x0003), 48000 Hz, stereo, s16p, 192 kb/s
+    Stream #0:3[0x2e0](lit): Subtitle: dvb_subtitle ([6][0][0][0] / 0x0006)
+ 
+     Last message repeated 11 times
+Input #0, mpegts, from 'udp://@239.255.12.51:1234':
+  Duration: N/A, start: 75993.097356, bitrate: N/A
+  Program 343 
+    Metadata:
+      service_name    : Bloomberg
+      service_provider: Init
+    Stream #0:0[0xd67]: Video: mpeg2video (Main) ([2][0][0][0] / 0x0002), yuv420p(tv, top first), 544x576 [SAR 32:17 DAR 16:9], 25 fps, 25 tbr, 90k tbn, 50 tbc
+    Stream #0:1[0xd68](eng): Audio: mp2 ([4][0][0][0] / 0x0004), 48000 Hz, stereo, s16p, 192 kb/s (clean effects)
+    Stream #0:2[0xd69](eng,eng): Subtitle: dvb_teletext ([6][0][0][0] / 0x0006)
+ 
+     Last message repeated 10 times
+Input #0, mpegts, from 'udp://@239.255.12.52:1234':
+  Duration: N/A, start: 10351.940389, bitrate: N/A
+  Program 1 
+    Metadata:
+      service_name    : Rossija 24
+      service_provider: Init
+    Stream #0:0[0x65]: Video: mpeg2video (Main) ([2][0][0][0] / 0x0002), yuv420p(tv, top first), 544x576 [SAR 32:17 DAR 16:9], 25 fps, 25 tbr, 90k tbn, 50 tbc
+    Stream #0:1[0x66](rus): Audio: mp2 ([4][0][0][0] / 0x0004), 48000 Hz, stereo, s16p, 128 kb/s
+ 
+                                Input #0, mpegts, from 'udp://@239.255.12.53:1234':
+  Duration: N/A, start: 86132.168689, bitrate: N/A
+  Program 170 
+    Metadata:
+      service_name    : Nat Geo Wild
+      service_provider: Init
+    Stream #0:0[0x6a5]: Video: h264 (Main) ([27][0][0][0] / 0x001B), yuv420p(top first), 720x576 [SAR 64:45 DAR 16:9], 25 fps, 50 tbr, 90k tbn, 50 tbc
+    Stream #0:1[0x6a6](eng): Audio: mp2 ([3][0][0][0] / 0x0003), 48000 Hz, stereo, s16p, 192 kb/s
+    Stream #0:2[0x6a8](rus): Audio: mp2 ([3][0][0][0] / 0x0003), 48000 Hz, stereo, s16p, 192 kb/s
+ 
+     Last message repeated 7 times
+Input #0, mpegts, from 'udp://@239.255.12.54:1234':
+  Duration: N/A, start: 60673.519322, bitrate: N/A
+  Program 7 
+    Metadata:
+      service_name    : Animal Planet
+      service_provider: Init
+    Stream #0:0[0x64]: Video: mpeg2video (Main) ([2][0][0][0] / 0x0002), yuv420p(tv, top first), 720x576 [SAR 64:45 DAR 16:9], 25 fps, 25 tbr, 90k tbn, 50 tbc
+    Stream #0:1[0x65](eng): Audio: mp2 ([4][0][0][0] / 0x0004), 48000 Hz, stereo, s16p, 192 kb/s
+    Stream #0:2[0x66](cze): Audio: mp2 ([4][0][0][0] / 0x0004), 48000 Hz, stereo, s16p, 192 kb/s
+    Stream #0:3[0x67](rus): Audio: mp2 ([4][0][0][0] / 0x0004), 48000 Hz, stereo, s16p, 192 kb/s
+    Stream #0:4[0x68](hun): Audio: mp2 ([4][0][0][0] / 0x0004), 48000 Hz, stereo, s16p, 192 kb/s
+    Stream #0:5[0x7c](dut): Subtitle: dvb_subtitle ([6][0][0][0] / 0x0006)
+    Stream #0:6[0x80](rum): Subtitle: dvb_subtitle ([6][0][0][0] / 0x0006)
+    Stream #0:7[0x82](gre): Subtitle: dvb_subtitle ([6][0][0][0] / 0x0006)
+    Stream #0:8[0x84](bul): Subtitle: dvb_subtitle ([6][0][0][0] / 0x0006)
+    Stream #0:9[0x85](heb): Subtitle: dvb_subtitle ([6][0][0][0] / 0x0006)
+    Stream #0:10[0x87](scc): Subtitle: dvb_subtitle ([6][0][0][0] / 0x0006)
+    Stream #0:11[0x88](slv): Subtitle: dvb_subtitle ([6][0][0][0] / 0x0006)
+    Stream #0:12[0x89](mac): Subtitle: dvb_subtitle ([6][0][0][0] / 0x0006)
+    Stream #0:13[0x8a](scr): Subtitle: dvb_subtitle ([6][0][0][0] / 0x0006)
+ 
+     Last message repeated 5 times
+Input #0, mpegts, from 'udp://@239.255.12.55:1234':
+  Duration: N/A, start: 50929.859022, bitrate: N/A
+  Program 152 
+    Metadata:
+      service_name    : VH1
+      service_provider: Init
+    Stream #0:0[0x5f1]: Video: mpeg2video (Main) ([2][0][0][0] / 0x0002), yuv420p(tv, top first), 720x576 [SAR 64:45 DAR 16:9], 25 fps, 25 tbr, 90k tbn, 50 tbc
+    Stream #0:1[0x5f2](eng): Audio: mp2 ([3][0][0][0] / 0x0003), 48000 Hz, stereo, s16p, 256 kb/s
+    Stream #0:2[0x5f3](eng): Subtitle: dvb_teletext ([6][0][0][0] / 0x0006), 492x250
+ 
+    Input #0, mpegts, from 'udp://@239.255.12.56:1234':
+  Duration: N/A, start: 46889.621489, bitrate: N/A
+  Program 78 
+    Metadata:
+      service_name    : National Geographic
+      service_provider: Init
+    Stream #0:0[0xe7]: Video: h264 (Main) ([27][0][0][0] / 0x001B), yuv420p(top first), 720x576 [SAR 64:45 DAR 16:9], 25 fps, 50 tbr, 90k tbn, 50 tbc
+    Stream #0:1[0x14b](rus): Audio: mp2 ([3][0][0][0] / 0x0003), 48000 Hz, stereo, s16p, 192 kb/s
+    Stream #0:2[0x1af](eng): Audio: mp2 ([3][0][0][0] / 0x0003), 48000 Hz, stereo, s16p, 192 kb/s
+    Stream #0:3[0x824](ukr): Audio: mp2 ([3][0][0][0] / 0x0003), 48000 Hz, stereo, s16p, 192 kb/s
+ 
+     Last message repeated 10 times
+Input #0, mpegts, from 'udp://@239.255.12.57:1234':
+  Duration: N/A, start: 22107.822033, bitrate: N/A
+  Program 25 
+    Metadata:
+      service_name    : Eurosport 1
+      service_provider: Init
+    Stream #0:0[0xfb]: Video: mpeg2video (Main) ([2][0][0][0] / 0x0002), yuv420p(tv, top first), 720x576 [SAR 64:45 DAR 16:9], 25 fps, 25 tbr, 90k tbn, 50 tbc
+    Stream #0:1[0xfc](eng): Audio: mp2 ([3][0][0][0] / 0x0003), 48000 Hz, stereo, s16p, 128 kb/s
+    Stream #0:2[0xfd](rus): Audio: mp2 ([3][0][0][0] / 0x0003), 48000 Hz, stereo, s16p, 128 kb/s
+    Stream #0:3[0xa12](eng): Subtitle: dvb_teletext ([6][0][0][0] / 0x0006)
+ 
+     Last message repeated 5 times
+Input #0, mpegts, from 'udp://@239.255.12.58:1234':
+  Duration: N/A, start: 49472.610956, bitrate: N/A
+  Program 26 
+    Metadata:
+      service_name    : Eurosport 2
+      service_provider: Init
+    Stream #0:0[0x105]: Video: mpeg2video (Main) ([2][0][0][0] / 0x0002), yuv420p(tv, top first), 720x576 [SAR 64:45 DAR 16:9], 25 fps, 25 tbr, 90k tbn, 50 tbc
+    Stream #0:1[0x106](rus): Audio: mp2 ([3][0][0][0] / 0x0003), 48000 Hz, stereo, s16p, 128 kb/s
+    Stream #0:2[0x107](eng): Audio: mp2 ([3][0][0][0] / 0x0003), 48000 Hz, stereo, s16p, 128 kb/s
+    Stream #0:3[0xb0f](eng): Subtitle: dvb_teletext ([6][0][0][0] / 0x0006), 492x250
+ 
+     Last message repeated 2 times
+   Input #0, mpegts, from 'udp://@239.255.12.59:1234':
+  Duration: N/A, start: 55257.012256, bitrate: N/A
+  Program 1 
+    Metadata:
+      service_name    : MCM TOP
+      service_provider: CSAT
+    Stream #0:0[0x1a7c]: Video: h264 (High) ([27][0][0][0] / 0x001B), yuv420p(tv, bt709, top first), 1920x1080 [SAR 1:1 DAR 16:9], 25 fps, 25 tbr, 90k tbn, 50 tbc
+    Stream #0:1[0x1a7d](fra): Audio: ac3 ([6][0][0][0] / 0x0006), 48000 Hz, stereo, fltp, 192 kb/s
+    Stream #0:2[0x1a7e](fra): Subtitle: dvb_subtitle ([6][0][0][0] / 0x0006)
+ 
+     Last message repeated 6 times
+Input #0, mpegts, from 'udp://@239.255.12.60:1234':
+  Duration: N/A, start: 64824.482289, bitrate: N/A
+  Program 21 
+    Metadata:
+      service_name    : MTV Europe
+      service_provider: Init
+    Stream #0:0[0xd3]: Video: mpeg2video (Main) ([2][0][0][0] / 0x0002), yuv420p(tv, top first), 720x576 [SAR 64:45 DAR 16:9], 25 fps, 25 tbr, 90k tbn, 50 tbc
+    Stream #0:1[0xd4](eng): Audio: mp2 ([3][0][0][0] / 0x0003), 48000 Hz, stereo, s16p, 256 kb/s
+    Stream #0:2[0xd5](eng): Subtitle: dvb_teletext ([6][0][0][0] / 0x0006)
+    Stream #0:3[0x13c7](hun): Audio: mp2 ([3][0][0][0] / 0x0003), 48000 Hz, stereo, s16p, 192 kb/s
+    Stream #0:4[0x13c8](cze): Audio: mp2 ([3][0][0][0] / 0x0003), 48000 Hz, stereo, s16p, 192 kb/s
+    Stream #0:5[0x1555](hun): Subtitle: dvb_subtitle ([6][0][0][0] / 0x0006)
+    Stream #0:6[0x1556](cze): Subtitle: dvb_subtitle ([6][0][0][0] / 0x0006)
+    Stream #0:7[0x1557](ron): Subtitle: dvb_subtitle ([6][0][0][0] / 0x0006)
+    Stream #0:8[0x1558](tur,tur): Subtitle: dvb_teletext ([6][0][0][0] / 0x0006), 492x250
+    Stream #0:9[0x1559](eng): Subtitle: dvb_subtitle ([6][0][0][0] / 0x0006)
+    Stream #0:10[0x155a](srp): Subtitle: dvb_subtitle ([6][0][0][0] / 0x0006)
+    Stream #0:11[0x155b](slv): Subtitle: dvb_subtitle ([6][0][0][0] / 0x0006)
+    Stream #0:12[0x155c](hrv): Subtitle: dvb_subtitle ([6][0][0][0] / 0x0006)
+ 
+     Last message repeated 10 times
+Input #0, mpegts, from 'udp://@239.255.12.61:1234':
+  Duration: N/A, start: 37289.029800, bitrate: N/A
+  Program 23 
+    Metadata:
+      service_name    : Mezzo
+      service_provider: Init
+    Stream #0:0[0xe7]: Video: mpeg2video (Main) ([2][0][0][0] / 0x0002), yuv420p(tv, top first), 704x576 [SAR 16:11 DAR 16:9], 25 fps, 25 tbr, 90k tbn, 50 tbc
+    Stream #0:1[0xe8](fra): Audio: mp2 ([3][0][0][0] / 0x0003), 48000 Hz, stereo, s16p, 256 kb/s
+    Stream #0:2[0xe9]: Subtitle: dvb_teletext ([6][0][0][0] / 0x0006), 492x250
+ 
+     Last message repeated 22 times
+Input #0, mpegts, from 'udp://@239.255.12.62:1234':
+  Duration: N/A, start: 54490.736467, bitrate: N/A
+  Program 89 
+    Metadata:
+      service_name    : TVP Polonia
+      service_provider: Init
+    Stream #0:0[0x7c6]: Video: mpeg2video (Main) ([2][0][0][0] / 0x0002), yuv420p(tv, top first), 720x576 [SAR 64:45 DAR 16:9], 25 fps, 25 tbr, 90k tbn, 50 tbc
+    Stream #0:1[0x7c7](pol): Audio: mp2 ([4][0][0][0] / 0x0004), 48000 Hz, stereo, s16p, 192 kb/s
+    Stream #0:2[0xce8](pol): Audio: ac3 ([6][0][0][0] / 0x0006), 48000 Hz, stereo, fltp, 384 kb/s
+    Stream #0:3[0xce9](pol,pol): Subtitle: dvb_teletext ([6][0][0][0] / 0x0006), 492x250
+ 
+     Last message repeated 9 times
+Input #0, mpegts, from 'udp://@239.255.12.63:1234':
+  Duration: N/A, start: 86025.532678, bitrate: N/A
+  Program 64 
+    Metadata:
+      service_name    : France 24
+      service_provider: Init
+    Stream #0:0[0x281]: Video: mpeg2video (Main) ([2][0][0][0] / 0x0002), yuv420p(tv, top first), 720x576 [SAR 64:45 DAR 16:9], 25 fps, 25 tbr, 90k tbn, 50 tbc
+    Stream #0:1[0x282](eng): Audio: mp2 ([3][0][0][0] / 0x0003), 48000 Hz, stereo, s16p, 128 kb/s
+    Stream #0:2[0x1a2e](eng): Subtitle: dvb_teletext ([6][0][0][0] / 0x0006)
+ 
+  Input #0, mpegts, from 'udp://@239.255.12.64:1234':
+  Duration: N/A, start: 54754.611911, bitrate: N/A
+  Program 1 
+    Metadata:
+      service_name    : English Club TV HD
+      service_provider: Init
+    Stream #0:0[0x1e0b]: Video: h264 (High) ([27][0][0][0] / 0x001B), yuv420p(tv, bt709, top first), 1920x1080 [SAR 1:1 DAR 16:9], 25 fps, 25 tbr, 90k tbn, 50 tbc
+    Stream #0:1[0x1e0c](rus): Audio: mp2 ([3][0][0][0] / 0x0003), 48000 Hz, stereo, s16p, 192 kb/s
+    Stream #0:2[0x1e0d](eng): Audio: mp2 ([3][0][0][0] / 0x0003), 48000 Hz, stereo, s16p, 192 kb/s
+ 
+     Last message repeated 22 times
+Input #0, mpegts, from 'udp://@239.255.12.65:1234':
+  Duration: N/A, start: 61527.780333, bitrate: 2728 kb/s
+  Program 1 
+    Metadata:
+      service_name    : Novij Mir
+      service_provider: Init
+    Stream #0:0[0x65]: Video: mpeg2video (Main) ([2][0][0][0] / 0x0002), yuv420p(tv, top first), 720x576 [SAR 64:45 DAR 16:9], 2600 kb/s, 25 fps, 25 tbr, 90k tbn, 50 tbc
+    Stream #0:1[0x66](eng): Audio: mp2 ([4][0][0][0] / 0x0004), 44100 Hz, stereo, s16p, 128 kb/s
+ 
+Input #0, mpegts, from 'udp://@239.255.12.66:1234':
+  Duration: N/A, start: 60282.784378, bitrate: N/A
+  Program 5238 
+    Metadata:
+      service_name    : NTV Serial
+      service_provider: Splius
+    Stream #0:0[0x100]: Video: h264 (High) ([27][0][0][0] / 0x001B), yuv420p(tv, bt470bg, top first), 720x576 [SAR 16:11 DAR 20:11], 25 fps, 25 tbr, 90k tbn, 50 tbc
+    Stream #0:1[0x101](rus): Audio: mp2 ([4][0][0][0] / 0x0004), 48000 Hz, stereo, s16p, 192 kb/s
+ 
+udp://@239.255.12.67:1234: Input/output error
+ 
+udp://@239.255.12.68:1234: Input/output error
+ 
+udp://@239.255.12.69:1234: Input/output error
+ 
+udp://@239.255.12.70:1234: Input/output error
+ 
+udp://@239.255.12.71:1234: Input/output error
+ 
+udp://@239.255.12.72:1234: Input/output error
+ 
+udp://@239.255.12.73:1234: Input/output error
+ 
+udp://@239.255.12.74:1234: Input/output error
+ 
+udp://@239.255.12.75:1234: Input/output error
+ 
+udp://@239.255.12.76:1234: Input/output error
+ 
+udp://@239.255.12.77:1234: Input/output error
+ 
+udp://@239.255.12.78:1234: Input/output error
+ 
+udp://@239.255.12.79:1234: Input/output error
+ 
+udp://@239.255.12.80:1234: Input/output error
+ 
+udp://@239.255.12.81:1234: Input/output error
+ 
+udp://@239.255.12.82:1234: Input/output error
+ 
+udp://@239.255.12.83:1234: Input/output error
+ 
+udp://@239.255.12.84:1234: Input/output error
+ 
+udp://@239.255.12.85:1234: Input/output error
+ 
+udp://@239.255.12.86:1234: Input/output error
+ 
+udp://@239.255.12.87:1234: Input/output error
+ 
+udp://@239.255.12.88:1234: Input/output error
+ 
+udp://@239.255.12.89:1234: Input/output error
+ 
+udp://@239.255.12.90:1234: Input/output error
+ 
+udp://@239.255.12.91:1234: Input/output error
+ 
+udp://@239.255.12.92:1234: Input/output error
+ 
+udp://@239.255.12.93:1234: Input/output error
+ 
+udp://@239.255.12.94:1234: Input/output error
+ 
+udp://@239.255.12.95:1234: Input/output error
+ 
+udp://@239.255.12.96:1234: Input/output error
+ 
+udp://@239.255.12.97:1234: Input/output error
+ 
+udp://@239.255.12.98:1234: Input/output error
+ 
+udp://@239.255.12.99:1234: Input/output error
+ 
+udp://@239.255.12.100:1234: Input/output error
+ 
+udp://@239.255.12.101:1234: Input/output error
+ 
+udp://@239.255.12.102:1234: Input/output error
+ 
+udp://@239.255.12.103:1234: Input/output error
+ 
+udp://@239.255.12.104:1234: Input/output error
+ 
+udp://@239.255.12.105:1234: Input/output error
+ 
+udp://@239.255.12.106:1234: Input/output error
+ 
+udp://@239.255.12.107:1234: Input/output error
+ 
+udp://@239.255.12.108:1234: Input/output error
+ 
+udp://@239.255.12.109:1234: Input/output error
+ 
+udp://@239.255.12.110:1234: Input/output error
+ 
+udp://@239.255.12.111:1234: Input/output error
+ 
+udp://@239.255.12.112:1234: Input/output error
+ 
+udp://@239.255.12.113:1234: Input/output error
+ 
+udp://@239.255.12.114:1234: Input/output error
+ 
+udp://@239.255.12.115:1234: Input/output error
+ 
+udp://@239.255.12.116:1234: Input/output error
+ 
+udp://@239.255.12.117:1234: Input/output error
+ 
+udp://@239.255.12.118:1234: Input/output error
+ 
+udp://@239.255.12.119:1234: Input/output error
+ 
+udp://@239.255.12.120:1234: Input/output error
+ 
+udp://@239.255.12.121:1234: Input/output error
+ 
+udp://@239.255.12.122:1234: Input/output error
+ 
+udp://@239.255.12.123:1234: Input/output error
+ 
+udp://@239.255.12.124:1234: Input/output error
+ 
+udp://@239.255.12.125:1234: Input/output error
+ 
+udp://@239.255.12.126:1234: Input/output error
+ 
+udp://@239.255.12.127:1234: Input/output error
+ 
+udp://@239.255.12.128:1234: Input/output error
+ 
+udp://@239.255.12.129:1234: Input/output error
+ 
+udp://@239.255.12.130:1234: Input/output error
+ 
+udp://@239.255.12.131:1234: Input/output error
+ 
+udp://@239.255.12.132:1234: Input/output error
+ 
+udp://@239.255.12.133:1234: Input/output error
+ 
+udp://@239.255.12.134:1234: Input/output error
+ 
+udp://@239.255.12.135:1234: Input/output error
+ 
+udp://@239.255.12.136:1234: Input/output error
+ 
+udp://@239.255.12.137:1234: Input/output error
+ 
+udp://@239.255.12.138:1234: Input/output error
+ 
+udp://@239.255.12.139:1234: Input/output error
+ 
+udp://@239.255.12.140:1234: Input/output error
+ 
+udp://@239.255.12.141:1234: Input/output error
+ 
+udp://@239.255.12.142:1234: Input/output error
+ 
+udp://@239.255.12.143:1234: Input/output error
+ 
+udp://@239.255.12.144:1234: Input/output error
+ 
+udp://@239.255.12.145:1234: Input/output error
+ 
+udp://@239.255.12.146:1234: Input/output error
+ 
+udp://@239.255.12.147:1234: Input/output error
+ 
+udp://@239.255.12.148:1234: Input/output error
+ 
+udp://@239.255.12.149:1234: Input/output error
+ 
+udp://@239.255.12.150:1234: Input/output error
+ 
+udp://@239.255.12.151:1234: Input/output error
+ 
+udp://@239.255.12.152:1234: Input/output error
+ 
+udp://@239.255.12.153:1234: Input/output error
+ 
+udp://@239.255.12.154:1234: Input/output error
+ 
+udp://@239.255.12.155:1234: Input/output error
+ 
+udp://@239.255.12.156:1234: Input/output error
+ 
+udp://@239.255.12.157:1234: Input/output error
+ 
+udp://@239.255.12.158:1234: Input/output error
+ 
+udp://@239.255.12.159:1234: Input/output error
+ 
+udp://@239.255.12.160:1234: Input/output error
+ 
+udp://@239.255.12.161:1234: Input/output error
+ 
+udp://@239.255.12.162:1234: Input/output error
+ 
+udp://@239.255.12.163:1234: Input/output error
+ 
+udp://@239.255.12.164:1234: Input/output error
+ 
+udp://@239.255.12.165:1234: Input/output error
+ 
+udp://@239.255.12.166:1234: Input/output error
+ 
+udp://@239.255.12.167:1234: Input/output error
+ 
+udp://@239.255.12.168:1234: Input/output error
+ 
+udp://@239.255.12.169:1234: Input/output error
+ 
+udp://@239.255.12.170:1234: Input/output error
+ 
+udp://@239.255.12.171:1234: Input/output error
+ 
+udp://@239.255.12.172:1234: Input/output error
+ 
+udp://@239.255.12.173:1234: Input/output error
+ 
+udp://@239.255.12.174:1234: Input/output error
+ 
+udp://@239.255.12.175:1234: Input/output error
+ 
+udp://@239.255.12.176:1234: Input/output error
+ 
+udp://@239.255.12.177:1234: Input/output error
+ 
+udp://@239.255.12.178:1234: Input/output error
+ 
+udp://@239.255.12.179:1234: Input/output error
+ 
+udp://@239.255.12.180:1234: Input/output error
+ 
+udp://@239.255.12.181:1234: Input/output error
+ 
+udp://@239.255.12.182:1234: Input/output error
+ 
+udp://@239.255.12.183:1234: Input/output error
+ 
+udp://@239.255.12.184:1234: Input/output error
+ 
+udp://@239.255.12.185:1234: Input/output error
+ 
+udp://@239.255.12.186:1234: Input/output error
+ 
+udp://@239.255.12.187:1234: Input/output error
+ 
+udp://@239.255.12.188:1234: Input/output error
+ 
+udp://@239.255.12.189:1234: Input/output error
+ 
+udp://@239.255.12.190:1234: Input/output error
+ 
+udp://@239.255.12.191:1234: Input/output error
+ 
+udp://@239.255.12.192:1234: Input/output error
+ 
+udp://@239.255.12.193:1234: Input/output error
+ 
+udp://@239.255.12.194:1234: Input/output error
+ 
+udp://@239.255.12.195:1234: Input/output error
+ 
+udp://@239.255.12.196:1234: Input/output error
+ 
+udp://@239.255.12.197:1234: Input/output error
+ 
+udp://@239.255.12.198:1234: Input/output error
+ 
+udp://@239.255.12.199:1234: Input/output error
+ 
+udp://@239.255.12.200:1234: Input/output error
+ 
+udp://@239.255.12.201:1234: Input/output error
+ 
+udp://@239.255.12.202:1234: Input/output error
+ 
+udp://@239.255.12.203:1234: Input/output error
+ 
+udp://@239.255.12.204:1234: Input/output error
+ 
+udp://@239.255.12.205:1234: Input/output error
+ 
+udp://@239.255.12.206:1234: Input/output error
+ 
+udp://@239.255.12.207:1234: Input/output error
+ 
+udp://@239.255.12.208:1234: Input/output error
+ 
+udp://@239.255.12.209:1234: Input/output error
+ 
+udp://@239.255.12.210:1234: Input/output error
+ 
+udp://@239.255.12.211:1234: Input/output error
+ 
+udp://@239.255.12.212:1234: Input/output error
+ 
+udp://@239.255.12.213:1234: Input/output error
+ 
+udp://@239.255.12.214:1234: Input/output error
+ 
+udp://@239.255.12.215:1234: Input/output error
+ 
+udp://@239.255.12.216:1234: Input/output error
+ 
+udp://@239.255.12.217:1234: Input/output error
+ 
+udp://@239.255.12.218:1234: Input/output error
+ 
+udp://@239.255.12.219:1234: Input/output error
+ 
+udp://@239.255.12.220:1234: Input/output error
+ 
+udp://@239.255.12.221:1234: Input/output error
+ 
+udp://@239.255.12.222:1234: Input/output error
+ 
+udp://@239.255.12.223:1234: Input/output error
+ 
+udp://@239.255.12.224:1234: Input/output error
+ 
+udp://@239.255.12.225:1234: Input/output error
+ 
+udp://@239.255.12.226:1234: Input/output error
+ 
+udp://@239.255.12.227:1234: Input/output error
+ 
+udp://@239.255.12.228:1234: Input/output error
+ 
+udp://@239.255.12.229:1234: Input/output error
+ 
+udp://@239.255.12.230:1234: Input/output error
+ 
+udp://@239.255.12.231:1234: Input/output error
+ 
+udp://@239.255.12.232:1234: Input/output error
+ 
+udp://@239.255.12.233:1234: Input/output error
+ 
+udp://@239.255.12.234:1234: Input/output error
+ 
+udp://@239.255.12.235:1234: Input/output error
+ 
+udp://@239.255.12.236:1234: Input/output error
+ 
+udp://@239.255.12.237:1234: Input/output error
+ 
+udp://@239.255.12.238:1234: Input/output error
+ 
+udp://@239.255.12.239:1234: Input/output error
+ 
+udp://@239.255.12.240:1234: Input/output error
+ 
+udp://@239.255.12.241:1234: Input/output error
+ 
+udp://@239.255.12.242:1234: Input/output error
+ 
+udp://@239.255.12.243:1234: Input/output error
+ 
+udp://@239.255.12.244:1234: Input/output error
+ 
+udp://@239.255.12.245:1234: Input/output error
+ 
+udp://@239.255.12.246:1234: Input/output error
+ 
+udp://@239.255.12.247:1234: Input/output error
+ 
+udp://@239.255.12.248:1234: Input/output error
+ 
+udp://@239.255.12.249:1234: Input/output error
+ 
+udp://@239.255.12.250:1234: Input/output error
+ 
+udp://@239.255.12.251:1234: Input/output error
+ 
+udp://@239.255.12.252:1234: Input/output error
+ 
+udp://@239.255.12.253:1234: Input/output error
+ 
+udp://@239.255.12.254:1234: Input/output error
+ 
+udp://@239.255.12.255:1234: Input/output error
