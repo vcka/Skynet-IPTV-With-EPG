@@ -1,0 +1,1732 @@
+[mpeg2video @ 0x556133acf400] Invalid frame dimensions 0x0.
+    Last message repeated 4 times
+Input #0, mpegts, from 'udp://@233.136.41.2:1234':
+  Duration: N/A, start: 17456.757100, bitrate: N/A
+  Program 5002 
+    Metadata:
+      service_name    : Discovery TLC
+      service_provider: Splius
+    Stream #0:0[0xbbb]: Video: mpeg2video (Main) ([2][0][0][0] / 0x0002), yuv420p(tv, bt470bg, top first), 720x576 [SAR 64:45 DAR 16:9], 25 fps, 25 tbr, 90k tbn, 50 tbc
+    Stream #0:1[0xce5](eng): Audio: mp2 ([4][0][0][0] / 0x0004), 48000 Hz, stereo, s16p, 192 kb/s
+    Stream #0:2[0xce7](rus): Audio: mp2 ([4][0][0][0] / 0x0004), 48000 Hz, stereo, s16p, 192 kb/s
+ 
+
+ 
+[mpeg2video @ 0x55bc570dd400] Invalid frame dimensions 0x0.
+    Last message repeated 5 times
+Input #0, mpegts, from 'udp://@233.136.41.5:1234':
+  Duration: N/A, start: 25373.861611, bitrate: 3192 kb/s
+  Program 5005 
+    Metadata:
+      service_name    : DaVinci Learning
+      service_provider: Splius
+    Stream #0:0[0x3d]: Video: mpeg2video (Main) ([2][0][0][0] / 0x0002), yuv420p(tv, top first), 720x576 [SAR 64:45 DAR 16:9], 3000 kb/s, 25 fps, 25 tbr, 90k tbn, 50 tbc
+    Stream #0:1[0x41](eng): Audio: mp2 ([3][0][0][0] / 0x0003), 48000 Hz, stereo, s16p, 96 kb/s
+    Stream #0:2[0x44](rus): Audio: mp2 ([3][0][0][0] / 0x0003), 48000 Hz, stereo, s16p, 96 kb/s
+ 
+[mp3 @ 0x55bcd5397880] Header missing
+[mpeg2video @ 0x55bcd5395400] Invalid frame dimensions 0x0.
+    Last message repeated 2 times
+[mp2 @ 0x55bcd5396640] Header missing
+[mpeg2video @ 0x55bcd5395400] Invalid frame dimensions 0x0.
+    Last message repeated 75 times
+Input #0, mpegts, from 'udp://@233.136.41.6:1234':
+  Duration: N/A, start: 53020.704800, bitrate: 5320 kb/s
+  Program 5006 
+    Metadata:
+      service_name    : Cartoon Network
+      service_provider: Splius
+    Stream #0:0[0x7d1]: Video: mpeg2video (Main) ([2][0][0][0] / 0x0002), yuv420p(tv, top first), 720x576 [SAR 64:45 DAR 16:9], 5000 kb/s, 25 fps, 25 tbr, 90k tbn, 50 tbc
+    Stream #0:1[0x7d5](eng): Audio: mp2 ([4][0][0][0] / 0x0004), 48000 Hz, stereo, s16p, 128 kb/s
+    Stream #0:2[0x7d6](rus): Audio: mp2 ([3][0][0][0] / 0x0003), 48000 Hz, stereo, s16p, 192 kb/s
+ 
+[mpeg2video @ 0x564018916400] Invalid frame dimensions 0x0.
+    Last message repeated 7 times
+Input #0, mpegts, from 'udp://@233.136.41.7:1234':
+  Duration: N/A, start: 48484.705544, bitrate: N/A
+  Program 5007 
+    Metadata:
+      service_name    : Boomerang
+      service_provider: Splius
+    Stream #0:0[0x227]: Video: mpeg2video (Main) ([2][0][0][0] / 0x0002), yuv420p(tv, top first), 720x576 [SAR 64:45 DAR 16:9], 25 fps, 25 tbr, 90k tbn, 50 tbc
+    Stream #0:1[0x232](eng): Audio: mp2 ([3][0][0][0] / 0x0003), 48000 Hz, stereo, s16p, 128 kb/s
+    Stream #0:2[0x235](rus): Audio: mp2 ([3][0][0][0] / 0x0003), 48000 Hz, stereo, s16p, 128 kb/s
+ 
+[mpeg2video @ 0x56490cc85400] Invalid frame dimensions 0x0.
+    Last message repeated 10 times
+Input #0, mpegts, from 'udp://@233.136.41.8:1234':
+  Duration: N/A, start: 52226.383322, bitrate: N/A
+  Program 5008 
+    Metadata:
+      service_name    : Animal Planet
+      service_provider: Splius
+    Stream #0:0[0x64]: Video: mpeg2video (Main) ([2][0][0][0] / 0x0002), yuv420p(tv, bt470bg, top first), 720x576 [SAR 64:45 DAR 16:9], 25 fps, 25 tbr, 90k tbn, 50 tbc
+    Stream #0:1[0x65](eng): Audio: mp2 ([4][0][0][0] / 0x0004), 48000 Hz, stereo, s16p, 192 kb/s
+    Stream #0:2[0x67](rus): Audio: mp2 ([4][0][0][0] / 0x0004), 48000 Hz, stereo, s16p, 192 kb/s
+ 
+udp://@233.136.41.9:1234: Input/output error
+ 
+udp://@233.136.41.10:1234: Input/output error
+ 
+[mpeg2video @ 0x55cee56da4e0] Invalid frame dimensions 0x0.
+    Last message repeated 6 times
+Input #0, mpegts, from 'udp://@233.136.41.11:1234':
+  Duration: N/A, start: 13652.355667, bitrate: N/A
+  Program 5011 
+    Metadata:
+      service_name    : Eurosport
+      service_provider: Splius
+    Stream #0:0[0x21]: Video: mpeg2video (Main) ([2][0][0][0] / 0x0002), yuv420p(tv, top first), 720x576 [SAR 64:45 DAR 16:9], 25 fps, 25 tbr, 90k tbn, 50 tbc
+    Stream #0:1[0x24](eng): Audio: mp2 ([3][0][0][0] / 0x0003), 48000 Hz, stereo, s16p, 128 kb/s
+    Stream #0:2[0x25](rus): Audio: mp2 ([3][0][0][0] / 0x0003), 48000 Hz, stereo, s16p, 128 kb/s
+ 
+[mp3 @ 0x5597b285d640] Header missing
+[mpeg2video @ 0x5597b285c400] Invalid frame dimensions 0x0.
+    Last message repeated 10 times
+Input #0, mpegts, from 'udp://@233.136.41.12:1234':
+  Duration: N/A, start: 44780.457567, bitrate: 5592 kb/s
+  Program 5012 
+    Metadata:
+      service_name    : LRT Televizija
+      service_provider: Splius
+    Stream #0:0[0x71]: Video: mpeg2video (Main) ([2][0][0][0] / 0x0002), yuv420p(tv, bt470bg, top first), 704x576 [SAR 16:11 DAR 16:9], 5400 kb/s, 25 fps, 25 tbr, 90k tbn, 50 tbc
+    Stream #0:1[0x72](lit): Audio: mp2 ([3][0][0][0] / 0x0003), 48000 Hz, stereo, s16p, 192 kb/s
+    Stream #0:2[0x74](lit): Subtitle: dvb_subtitle ([6][0][0][0] / 0x0006)
+ 
+[mpeg2video @ 0x555d08b1a420] Invalid frame dimensions 0x0.
+[mp3 @ 0x555d08b1b660] Header missing
+[mpeg2video @ 0x555d08b1a420] Invalid frame dimensions 0x0.
+Input #0, mpegts, from 'udp://@233.136.41.13:1234':
+  Duration: N/A, start: 14671.499333, bitrate: 5592 kb/s
+  Program 5013 
+    Metadata:
+      service_name    : LNK
+      service_provider: Splius
+    Stream #0:0[0x1866]: Video: mpeg2video (Main) ([2][0][0][0] / 0x0002), yuv420p(tv, bt470bg, top first), 720x576 [SAR 64:45 DAR 16:9], 5400 kb/s, 25 fps, 25 tbr, 90k tbn, 50 tbc
+    Stream #0:1[0x1867](lit): Audio: mp2 ([3][0][0][0] / 0x0003), 48000 Hz, stereo, s16p, 192 kb/s
+ 
+[mpeg2video @ 0x55c5331984e0] Invalid frame dimensions 0x0.
+    Last message repeated 3 times
+[mp3 @ 0x55c533199720] Header missing
+[mpeg2video @ 0x55c5331984e0] Invalid frame dimensions 0x0.
+    Last message repeated 3 times
+Input #0, mpegts, from 'udp://@233.136.41.14:1234':
+  Duration: N/A, start: 24997.825556, bitrate: 4827 kb/s
+  Program 5014 
+    Metadata:
+      service_name    : Liuks!
+      service_provider: Splius
+    Stream #0:0[0x223]: Video: mpeg2video (Main) ([2][0][0][0] / 0x0002), yuv420p(tv, bt470bg, top first), 704x576 [SAR 16:11 DAR 16:9], 4699 kb/s, 25 fps, 25 tbr, 90k tbn, 50 tbc
+    Stream #0:1[0x323](lit): Audio: mp2 ([3][0][0][0] / 0x0003), 48000 Hz, stereo, s16p, 128 kb/s
+ 
+udp://@233.136.41.15:1234: Input/output error
+ 
+[mpeg2video @ 0x5629a9a7f400] Invalid frame dimensions 0x0.
+    Last message repeated 7 times
+Input #0, mpegts, from 'udp://@233.136.41.16:1234':
+  Duration: N/A, start: 66856.663822, bitrate: 3792 kb/s
+  Program 5016 
+    Metadata:
+      service_name    : JimJam
+      service_provider: Splius
+    Stream #0:0[0x83d]: Video: mpeg2video (Main) ([2][0][0][0] / 0x0002), yuv420p(tv, top first), 720x576 [SAR 64:45 DAR 16:9], 3600 kb/s, 25 fps, 25 tbr, 90k tbn, 50 tbc
+    Stream #0:1[0x841](lit): Audio: mp2 ([3][0][0][0] / 0x0003), 48000 Hz, mono, s16p, 96 kb/s
+    Stream #0:2[0x848](eng): Audio: mp2 ([3][0][0][0] / 0x0003), 48000 Hz, mono, s16p, 96 kb/s
+ 
+[mpeg2video @ 0x564611e06420] Invalid frame dimensions 0x0.
+[mp3 @ 0x564611e07660] Header missing
+[mpeg2video @ 0x564611e06420] Invalid frame dimensions 0x0.
+    Last message repeated 7 times
+Input #0, mpegts, from 'udp://@233.136.41.17:1234':
+  Duration: N/A, start: 69154.709244, bitrate: 4692 kb/s
+  Program 5017 
+    Metadata:
+      service_name    : Info TV
+      service_provider: Splius
+    Stream #0:0[0x101]: Video: mpeg2video (Main) ([2][0][0][0] / 0x0002), yuv420p(tv, bt470bg, top first), 704x576 [SAR 16:11 DAR 16:9], 4500 kb/s, 25 fps, 25 tbr, 90k tbn, 50 tbc
+    Stream #0:1[0x103](lit): Audio: mp2 ([3][0][0][0] / 0x0003), 48000 Hz, stereo, s16p, 192 kb/s
+ 
+[mpeg2video @ 0x55d030cd74e0] Invalid frame dimensions 0x0.
+    Last message repeated 4 times
+Input #0, mpegts, from 'udp://@233.136.41.18:1234':
+  Duration: N/A, start: 9920.740800, bitrate: N/A
+  Program 5018 
+    Metadata:
+      service_name    : Extreme Sports
+      service_provider: Splius
+    Stream #0:0[0xa29]: Video: mpeg2video (Main) ([2][0][0][0] / 0x0002), yuv420p(tv, bt470bg, top first), 720x576 [SAR 64:45 DAR 16:9], 25 fps, 25 tbr, 90k tbn, 50 tbc
+    Stream #0:1[0xa32](eng): Audio: mp2 ([3][0][0][0] / 0x0003), 48000 Hz, stereo, s16p, 192 kb/s
+    Stream #0:2[0xa34](rus): Audio: mp2 ([3][0][0][0] / 0x0003), 48000 Hz, mono, s16p, 96 kb/s
+    Stream #0:3[0xa35](deu): Audio: mp2 ([3][0][0][0] / 0x0003), 48000 Hz, stereo, s16p, 192 kb/s
+    Stream #0:4[0xa39](fra): Audio: mp2 ([3][0][0][0] / 0x0003), 48000 Hz, stereo, s16p, 192 kb/s
+ 
+[mpeg2video @ 0x55700dca5400] Invalid frame dimensions 0x0.
+    Last message repeated 4 times
+Input #0, mpegts, from 'udp://@233.136.41.19:1234':
+  Duration: N/A, start: 41050.205722, bitrate: N/A
+  Program 5019 
+    Metadata:
+      service_name    : Eurosport 2
+      service_provider: Splius
+    Stream #0:0[0x21]: Video: mpeg2video (Main) ([2][0][0][0] / 0x0002), yuv420p(tv, top first), 720x576 [SAR 64:45 DAR 16:9], 25 fps, 25 tbr, 90k tbn, 50 tbc
+    Stream #0:1[0x24](eng): Audio: mp2 ([3][0][0][0] / 0x0003), 48000 Hz, stereo, s16p, 128 kb/s
+    Stream #0:2[0x25](rus): Audio: mp2 ([3][0][0][0] / 0x0003), 48000 Hz, stereo, s16p, 128 kb/s
+ 
+[mpeg2video @ 0x5568d9aa3400] Invalid frame dimensions 0x0.
+    Last message repeated 2 times
+[mp3 @ 0x5568d9aa4640] Header missing
+[mpeg2video @ 0x5568d9aa3400] Invalid frame dimensions 0x0.
+    Last message repeated 4 times
+Input #0, mpegts, from 'udp://@233.136.41.20:1234':
+  Duration: N/A, start: 14704.628078, bitrate: 4928 kb/s
+  Program 5020 
+    Metadata:
+      service_name    : BTV
+      service_provider: Splius
+    Stream #0:0[0x65]: Video: mpeg2video (Main) ([2][0][0][0] / 0x0002), yuv420p(tv, bt470bg, top first), 704x576 [SAR 16:11 DAR 16:9], 4800 kb/s, 25 fps, 25 tbr, 90k tbn, 50 tbc
+    Stream #0:1[0x66](lit): Audio: mp2 ([3][0][0][0] / 0x0003), 48000 Hz, stereo, s16p, 128 kb/s
+ 
+[mpeg2video @ 0x5650c152e4e0] Invalid frame dimensions 0x0.
+    Last message repeated 5 times
+Input #0, mpegts, from 'udp://@233.136.41.21:1234':
+  Duration: N/A, start: 75837.202111, bitrate: 4092 kb/s
+  Program 5021 
+    Metadata:
+      service_name    : Balticum TV
+      service_provider: Splius
+    Stream #0:0[0x457]: Video: mpeg2video (Main) ([2][0][0][0] / 0x0002), yuv420p(tv, top first), 720x576 [SAR 64:45 DAR 16:9], 3900 kb/s, 25 fps, 25 tbr, 90k tbn, 50 tbc
+    Stream #0:1[0x458](lit): Audio: mp2 ([3][0][0][0] / 0x0003), 48000 Hz, stereo, s16p, 192 kb/s
+ 
+[mpeg2video @ 0x5598673a24e0] Invalid frame dimensions 0x0.
+    Last message repeated 1 times
+Input #0, mpegts, from 'udp://@233.136.41.22:1234':
+  Duration: N/A, start: 76293.370567, bitrate: N/A
+  Program 5022 
+    Metadata:
+      service_name    : RTVi
+      service_provider: Splius
+    Stream #0:0[0x29]: Video: mpeg2video (Main) ([2][0][0][0] / 0x0002), yuv420p(tv, top first), 720x576 [SAR 64:45 DAR 16:9], 25 fps, 25 tbr, 90k tbn, 50 tbc
+    Stream #0:1[0x12b](eng): Audio: mp2 ([3][0][0][0] / 0x0003), 48000 Hz, stereo, s16p, 160 kb/s
+ 
+udp://@233.136.41.23:1234: Input/output error
+ 
+[mpeg2video @ 0x555694cac400] Invalid frame dimensions 0x0.
+    Last message repeated 1 times
+Input #0, mpegts, from 'udp://@233.136.41.24:1234':
+  Duration: N/A, start: 52187.127311, bitrate: N/A
+  Program 5024 
+    Metadata:
+      service_name    : Ren TV Baltic
+      service_provider: Splius
+    Stream #0:0[0x1861]: Video: mpeg2video (Main) ([2][0][0][0] / 0x0002), yuv420p(tv, top first), 720x576 [SAR 16:15 DAR 4:3], 25 fps, 25 tbr, 90k tbn, 50 tbc
+    Stream #0:1[0x1862](rus): Audio: mp2 ([4][0][0][0] / 0x0004), 48000 Hz, stereo, s16p, 192 kb/s
+ 
+[mpeg2video @ 0x562b516c6420] Invalid frame dimensions 0x0.
+Input #0, mpegts, from 'udp://@233.136.41.25:1234':
+  Duration: N/A, start: 53320.454533, bitrate: N/A
+  Program 5025 
+    Metadata:
+      service_name    : Pervyj Baltijskij Kanal
+      service_provider: Splius
+    Stream #0:0[0x21d]: Video: mpeg2video (Main) ([2][0][0][0] / 0x0002), yuv420p(tv, top first), 720x576 [SAR 64:45 DAR 16:9], 25 fps, 25 tbr, 90k tbn, 50 tbc
+    Stream #0:1[0x21e](rus): Audio: mp2 ([4][0][0][0] / 0x0004), 48000 Hz, stereo, s16p, 192 kb/s
+ 
+[mpeg2video @ 0x55931e8cd420] Invalid frame dimensions 0x0.
+    Last message repeated 1 times
+Input #0, mpegts, from 'udp://@233.136.41.26:1234':
+  Duration: N/A, start: 36659.608200, bitrate: 2828 kb/s
+  Program 5026 
+    Metadata:
+      service_name    : Ohota i Rybalka
+      service_provider: Splius
+    Stream #0:0[0x21]: Video: mpeg2video (Main) ([2][0][0][0] / 0x0002), yuv420p(tv, top first), 720x576 [SAR 16:15 DAR 4:3], 2700 kb/s, 25 fps, 25 tbr, 90k tbn, 50 tbc
+    Stream #0:1[0x44d](rus): Audio: mp2 ([3][0][0][0] / 0x0003), 48000 Hz, stereo, s16p, 128 kb/s
+ 
+[mpeg2video @ 0x55ff46329400] Invalid frame dimensions 0x0.
+    Last message repeated 6 times
+Input #0, mpegts, from 'udp://@233.136.41.27:1234':
+  Duration: N/A, start: 51948.315278, bitrate: N/A
+  Program 5027 
+    Metadata:
+      service_name    : NTV Mir
+      service_provider: Splius
+    Stream #0:0[0x235]: Video: mpeg2video (Main) ([2][0][0][0] / 0x0002), yuv420p(tv, top first), 720x576 [SAR 64:45 DAR 16:9], 25 fps, 25 tbr, 90k tbn, 50 tbc
+    Stream #0:1[0x236](rus): Audio: mp2 ([4][0][0][0] / 0x0004), 48000 Hz, stereo, s16p, 192 kb/s
+ 
+udp://@233.136.41.28:1234: Input/output error
+ 
+udp://@233.136.41.29:1234: Input/output error
+ 
+[mpeg2video @ 0x5635c49c9400] Invalid frame dimensions 0x0.
+    Last message repeated 2 times
+Input #0, mpegts, from 'udp://@233.136.41.30:1234':
+  Duration: N/A, start: 56436.248889, bitrate: N/A
+  Program 5030 
+    Metadata:
+      service_name    : MTV Europe
+      service_provider: Splius
+    Stream #0:0[0x21]: Video: mpeg2video (Main) ([2][0][0][0] / 0x0002), yuv420p(tv, top first), 720x576 [SAR 64:45 DAR 16:9], 25 fps, 25 tbr, 90k tbn, 50 tbc
+    Stream #0:1[0x24](eng): Audio: mp2 ([3][0][0][0] / 0x0003), 48000 Hz, stereo, s16p, 256 kb/s
+ 
+[mpeg2video @ 0x55f9a63b9400] Invalid frame dimensions 0x0.
+    Last message repeated 10 times
+Input #0, mpegts, from 'udp://@233.136.41.31:1234':
+  Duration: N/A, start: 77798.754567, bitrate: N/A
+  Program 5031 
+    Metadata:
+      service_name    : LRT Kultura
+      service_provider: Splius
+    Stream #0:0[0x211]: Video: mpeg2video (Main) ([2][0][0][0] / 0x0002), yuv420p(tv, top first), 720x576 [SAR 64:45 DAR 16:9], 25 fps, 25 tbr, 90k tbn, 50 tbc
+    Stream #0:1[0x212](lit): Audio: mp2 ([4][0][0][0] / 0x0004), 48000 Hz, stereo, s16p, 192 kb/s
+    Stream #0:2[0x217](lit): Subtitle: dvb_subtitle ([6][0][0][0] / 0x0006)
+ 
+[mpeg2video @ 0x5575b89ff400] Invalid frame dimensions 0x0.
+    Last message repeated 5 times
+Input #0, mpegts, from 'udp://@233.136.41.32:1234':
+  Duration: N/A, start: 42578.350667, bitrate: N/A
+  Program 5032 
+    Metadata:
+      service_name    : VH1 European
+      service_provider: Splius
+    Stream #0:0[0x21]: Video: mpeg2video (Main) ([2][0][0][0] / 0x0002), yuv420p(tv, top first), 720x576 [SAR 64:45 DAR 16:9], 25 fps, 25 tbr, 90k tbn, 50 tbc
+    Stream #0:1[0x24](eng): Audio: mp2 ([3][0][0][0] / 0x0003), 48000 Hz, stereo, s16p, 256 kb/s
+ 
+udp://@233.136.41.33:1234: Input/output error
+ 
+udp://@233.136.41.34:1234: Input/output error
+ 
+udp://@233.136.41.35:1234: Input/output error
+ 
+[mpeg2video @ 0x56389d280400] Invalid frame dimensions 0x0.
+    Last message repeated 19 times
+Input #0, mpegts, from 'udp://@233.136.41.36:1234':
+  Duration: N/A, start: 93038.867722, bitrate: N/A
+  Program 5036 
+    Metadata:
+      service_name    : ?Viasat Sport Baltic
+      service_provider: Splius
+    Stream #0:0[0x17ad]: Video: mpeg2video (Main) ([2][0][0][0] / 0x0002), yuv420p(tv, top first), 720x576 [SAR 64:45 DAR 16:9], 25 fps, 25 tbr, 90k tbn, 50 tbc
+    Stream #0:1[0x17b0](lit): Audio: mp2 ([3][0][0][0] / 0x0003), 48000 Hz, stereo, s16p, 128 kb/s
+ 
+[mpeg2video @ 0x55d5cd406400] Invalid frame dimensions 0x0.
+    Last message repeated 9 times
+Input #0, mpegts, from 'udp://@233.136.41.37:1234':
+  Duration: N/A, start: 45249.665289, bitrate: N/A
+  Program 5037 
+    Metadata:
+      service_name    : ?Viasat Explore
+      service_provider: Splius
+    Stream #0:0[0x17a3]: Video: mpeg2video (Main) ([2][0][0][0] / 0x0002), yuv420p(tv, top first), 720x576 [SAR 64:45 DAR 16:9], 25 fps, 25 tbr, 90k tbn, 50 tbc
+    Stream #0:1[0x17a4](eng): Audio: mp2 ([3][0][0][0] / 0x0003), 48000 Hz, stereo, s16p, 192 kb/s
+    Stream #0:2[0x17a6](rus): Audio: mp2 ([3][0][0][0] / 0x0003), 48000 Hz, stereo, s16p, 192 kb/s
+    Stream #0:3[0x17aa](swe,nor,dan,est,lit,lav,fin): Subtitle: dvb_teletext ([6][0][0][0] / 0x0006)
+ 
+udp://@233.136.41.38:1234: Input/output error
+ 
+[mpeg2video @ 0x562eda34c400] Invalid frame dimensions 0x0.
+    Last message repeated 1 times
+[mp3 @ 0x562eda34d640] Header missing
+[mpeg2video @ 0x562eda34c400] Invalid frame dimensions 0x0.
+    Last message repeated 6 times
+Input #0, mpegts, from 'udp://@233.136.41.39:1234':
+  Duration: N/A, start: 95026.898789, bitrate: 5291 kb/s
+  Program 5039 
+    Metadata:
+      service_name    : TV3
+      service_provider: Splius
+    Stream #0:0[0x211]: Video: mpeg2video (Main) ([2][0][0][0] / 0x0002), yuv420p(tv, bt470bg, top first), 704x576 [SAR 16:11 DAR 16:9], 5099 kb/s, 25 fps, 25 tbr, 90k tbn, 50 tbc
+    Stream #0:1[0x212](lit): Audio: mp2 ([3][0][0][0] / 0x0003), 48000 Hz, stereo, s16p, 192 kb/s
+ 
+[mpeg2video @ 0x55732e4644e0] Invalid frame dimensions 0x0.
+    Last message repeated 5 times
+Input #0, mpegts, from 'udp://@233.136.41.40:1234':
+  Duration: N/A, start: 93014.390578, bitrate: 15192 kb/s
+  Program 5040 
+    Metadata:
+      service_name    : ?TV1000 Russkoe Kino
+      service_provider: Splius
+    Stream #0:0[0x21]: Video: mpeg2video (Main) ([2][0][0][0] / 0x0002), yuv420p(tv, top first), 720x576 [SAR 64:45 DAR 16:9], 15000 kb/s, 25 fps, 25 tbr, 90k tbn, 50 tbc
+    Stream #0:1[0x24](rus): Audio: mp2 ([3][0][0][0] / 0x0003), 48000 Hz, stereo, s16p, 192 kb/s
+ 
+[mpeg2video @ 0x563650bdf400] Invalid frame dimensions 0x0.
+    Last message repeated 30 times
+Input #0, mpegts, from 'udp://@233.136.41.41:1234':
+  Duration: N/A, start: 93729.819189, bitrate: N/A
+  Program 5041 
+    Metadata:
+      service_name    : ?TV1000 East
+      service_provider: Splius
+    Stream #0:0[0x87b]: Video: mpeg2video (Main) ([2][0][0][0] / 0x0002), yuv420p(tv, top first), 720x576 [SAR 64:45 DAR 16:9], 25 fps, 25 tbr, 90k tbn, 50 tbc
+    Stream #0:1[0x87d](eng): Audio: mp2 ([3][0][0][0] / 0x0003), 48000 Hz, stereo, s16p, 128 kb/s
+    Stream #0:2[0x87e](rus): Audio: mp2 ([3][0][0][0] / 0x0003), 48000 Hz, stereo, s16p, 128 kb/s
+    Stream #0:3[0x880](est,lit,lav): Subtitle: dvb_teletext ([6][0][0][0] / 0x0006), 492x250
+ 
+[mpeg2video @ 0x55bd476d4400] Invalid frame dimensions 0x0.
+[mp3 @ 0x55bd476d5640] Header missing
+[mpeg2video @ 0x55bd476d4400] Invalid frame dimensions 0x0.
+Input #0, mpegts, from 'udp://@233.136.41.42:1234':
+  Duration: N/A, start: 58645.739589, bitrate: 4628 kb/s
+  Program 5042 
+    Metadata:
+      service_name    : TV1
+      service_provider: Splius
+    Stream #0:0[0x141]: Video: mpeg2video (Main) ([2][0][0][0] / 0x0002), yuv420p(tv, bt470bg, top first), 704x576 [SAR 16:11 DAR 16:9], 4500 kb/s, 25 fps, 25 tbr, 90k tbn, 50 tbc
+    Stream #0:1[0x143](lit): Audio: mp2 ([3][0][0][0] / 0x0003), 48000 Hz, mono, s16p, 128 kb/s
+ 
+udp://@233.136.41.43:1234: Input/output error
+ 
+[mpeg2video @ 0x55a026ea4ba0] Invalid frame dimensions 0x0.
+    Last message repeated 8 times
+Input #0, mpegts, from 'udp://@233.136.41.44:1234':
+  Duration: N/A, start: 92821.463567, bitrate: N/A
+  Program 5044 
+    Metadata:
+      service_name    : Travel Channel
+      service_provider: Splius
+    Stream #0:0[0x5a4](eng): Audio: mp2 ([4][0][0][0] / 0x0004), 48000 Hz, stereo, s16p, 128 kb/s (clean effects)
+    Stream #0:1[0x5a7](rus): Audio: mp2 ([4][0][0][0] / 0x0004), 48000 Hz, stereo, s16p, 128 kb/s (clean effects)
+    Stream #0:2[0x5a9](pol): Audio: mp2 ([4][0][0][0] / 0x0004), 48000 Hz, mono, s16p, 96 kb/s (clean effects)
+    Stream #0:3[0x7d1]: Video: mpeg2video (Main) ([2][0][0][0] / 0x0002), yuv420p(tv, top first), 720x576 [SAR 64:45 DAR 16:9], 25 fps, 25 tbr, 90k tbn, 50 tbc
+ 
+[mpeg2video @ 0x555c0d20a640] Invalid frame dimensions 0x0.
+    Last message repeated 9 times
+Input #0, mpegts, from 'udp://@233.136.41.45:1234':
+  Duration: N/A, start: 17310.263067, bitrate: 5666 kb/s
+  Program 5045 
+    Metadata:
+      service_name    : SPORT1
+      service_provider: Splius
+    Stream #0:0[0xde](lit): Audio: mp2 ([3][0][0][0] / 0x0003), 48000 Hz, stereo, s16p, 192 kb/s (clean effects)
+    Stream #0:1[0x221]: Video: mpeg2video (Main) ([2][0][0][0] / 0x0002), yuv420p(tv, top first), 720x576 [SAR 64:45 DAR 16:9], 5474 kb/s, 25 fps, 25 tbr, 90k tbn, 50 tbc
+ 
+[mpeg2video @ 0x55ca616ec400] Invalid frame dimensions 0x0.
+    Last message repeated 1 times
+Input #0, mpegts, from 'udp://@233.136.41.46:1234':
+  Duration: N/A, start: 48475.885300, bitrate: N/A
+  Program 5046 
+    Metadata:
+      service_name    : Nashe Lubimoe Kino
+      service_provider: Splius
+    Stream #0:0[0x30]: Video: mpeg2video (Main) ([2][0][0][0] / 0x0002), yuv420p(tv, top first), 720x576 [SAR 16:15 DAR 4:3], 25 fps, 25 tbr, 90k tbn, 50 tbc
+    Stream #0:1[0x1abc](rus): Audio: mp2 ([4][0][0][0] / 0x0004), 48000 Hz, stereo, s16p, 192 kb/s
+ 
+[mpeg2video @ 0x55b55e190400] Invalid frame dimensions 0x0.
+    Last message repeated 4 times
+Input #0, mpegts, from 'udp://@233.136.41.47:1234':
+  Duration: N/A, start: 16349.783444, bitrate: N/A
+  Program 5047 
+    Metadata:
+      service_name    : Belarus 24
+      service_provider: Splius
+    Stream #0:0[0x65]: Video: mpeg2video (Main) ([2][0][0][0] / 0x0002), yuv420p(tv, top first), 480x576 [SAR 32:15 DAR 16:9], 25 fps, 25 tbr, 90k tbn, 50 tbc
+    Stream #0:1[0x66](rus): Audio: mp2 ([3][0][0][0] / 0x0003), 48000 Hz, stereo, s16p, 128 kb/s
+ 
+[mp3 @ 0x5588e1238400] Header missing
+[mpeg2video @ 0x5588e1239640] Invalid frame dimensions 0x0.
+    Last message repeated 11 times
+Input #0, mpegts, from 'udp://@233.136.41.48:1234':
+  Duration: N/A, start: 37044.514078, bitrate: N/A
+  Program 5048 
+    Metadata:
+      service_name    : Duck TV
+      service_provider: Splius
+    Stream #0:0[0xd6](slo): Audio: mp2 ([3][0][0][0] / 0x0003), 48000 Hz, stereo, s16p, 128 kb/s
+    Stream #0:1[0x76c]: Video: mpeg2video (Main) ([2][0][0][0] / 0x0002), yuv420p(tv, top first), 720x576 [SAR 64:45 DAR 16:9], 25 fps, 25 tbr, 90k tbn, 50 tbc
+ 
+[mpeg2video @ 0x556b8ca45400] Invalid frame dimensions 0x0.
+    Last message repeated 6 times
+Input #0, mpegts, from 'udp://@233.136.41.49:1234':
+  Duration: N/A, start: 67729.801356, bitrate: N/A
+  Program 5049 
+    Metadata:
+      service_name    : Bloomberg Europe
+      service_provider: Splius
+    Stream #0:0[0xdae]: Video: mpeg2video (Main) ([2][0][0][0] / 0x0002), yuv420p(tv, top first), 544x576 [SAR 32:17 DAR 16:9], 25 fps, 25 tbr, 90k tbn, 50 tbc
+    Stream #0:1[0xe26](eng): Audio: mp2 ([4][0][0][0] / 0x0004), 48000 Hz, stereo, s16p, 192 kb/s (clean effects)
+ 
+Input #0, mpegts, from 'udp://@233.136.41.50:1234':
+  Duration: N/A, start: 18663.615267, bitrate: N/A
+  Program 5050 
+    Metadata:
+      service_name    : Blue Hustler
+      service_provider: Splius
+    Stream #0:0[0x12d]: Video: mpeg2video (Main) ([2][0][0][0] / 0x0002), yuv420p(tv, top first), 720x576 [SAR 64:45 DAR 16:9], 25 fps, 25 tbr, 90k tbn, 50 tbc
+ 
+udp://@233.136.41.51:1234: Input/output error
+ 
+[mpeg2video @ 0x55fc503e9640] Invalid frame dimensions 0x0.
+    Last message repeated 10 times
+Input #0, mpegts, from 'udp://@233.136.41.52:1234':
+  Duration: N/A, start: 85507.731300, bitrate: N/A
+  Program 5052 
+    Metadata:
+      service_name    : CNN International
+      service_provider: Splius
+    Stream #0:0[0x64](eng): Audio: mp2 ([3][0][0][0] / 0x0003), 48000 Hz, stereo, s16p, 128 kb/s (clean effects)
+    Stream #0:1[0x6a4]: Video: mpeg2video (Main) ([2][0][0][0] / 0x0002), yuv420p(tv, top first), 544x576 [SAR 32:17 DAR 16:9], 25 fps, 25 tbr, 90k tbn, 50 tbc
+ 
+[mpeg2video @ 0x562dfd8f6420] Invalid frame dimensions 0x0.
+    Last message repeated 12 times
+Input #0, mpegts, from 'udp://@233.136.41.53:1234':
+  Duration: N/A, start: 42513.919700, bitrate: 3392 kb/s
+  Program 5053 
+    Metadata:
+      service_name    : Deutsche Welle
+      service_provider: Splius
+    Stream #0:0[0x3e8]: Video: mpeg2video (Main) ([2][0][0][0] / 0x0002), yuv420p(tv, top first), 720x576 [SAR 64:45 DAR 16:9], 3200 kb/s, 25 fps, 25 tbr, 90k tbn, 50 tbc
+    Stream #0:1[0x3e9](eng): Audio: mp2 ([3][0][0][0] / 0x0003), 48000 Hz, stereo, s16p, 192 kb/s
+ 
+
+Input #0, mpegts, from 'udp://@233.136.41.54:1234':
+  Duration: N/A, start: 21504.789822, bitrate: N/A
+  Program 5054 
+    Metadata:
+      service_name    : Discovery HD Showcase
+      service_provider: Splius
+    Stream #0:0[0x9c4]: Video: h264 (Main) ([27][0][0][0] / 0x001B), yuv420p(top first), 1920x1080 [SAR 1:1 DAR 16:9], 25 fps, 25 tbr, 90k tbn, 50 tbc
+    Stream #0:1[0x9c5](eng): Audio: ac3 ([6][0][0][0] / 0x0006), 48000 Hz, 5.1(side), fltp, 384 kb/s
+    Stream #0:2[0x9c7](rus): Audio: ac3 ([6][0][0][0] / 0x0006), 48000 Hz, 5.1(side), fltp, 384 kb/s
+ 
+udp://@233.136.41.55:1234: Input/output error
+ 
+[mpeg2video @ 0x5579626ae400] Invalid frame dimensions 0x0.
+    Last message repeated 2 times
+Input #0, mpegts, from 'udp://@233.136.41.56:1234':
+  Duration: N/A, start: 32898.565044, bitrate: N/A
+  Program 5056 
+    Metadata:
+      service_name    : Euronews Russian
+      service_provider: Splius
+    Stream #0:0[0x13c1]: Video: mpeg2video (Main) ([2][0][0][0] / 0x0002), yuv420p(tv, top first), 720x576 [SAR 64:45 DAR 16:9], 25 fps, 25 tbr, 90k tbn, 50 tbc
+    Stream #0:1[0x13c4](rus): Audio: mp2 ([3][0][0][0] / 0x0003), 48000 Hz, stereo, s16p, 128 kb/s
+    Stream #0:2[0x13c9](rus): Subtitle: dvb_teletext ([6][0][0][0] / 0x0006)
+
+    Last message repeated 1 times
+[h264 @ 0x55b4f6d1d400] number of reference frames (0+4) exceeds max (3; probably corrupt input), discarding one
+Input #0, mpegts, from 'udp://@233.136.41.57:1234':
+  Duration: N/A, start: 34421.985122, bitrate: N/A
+  Program 5057 
+    Metadata:
+      service_name    : ?Fashion TV
+      service_provider: Splius
+    Stream #0:0[0x5dc]: Video: h264 (High) ([27][0][0][0] / 0x001B), yuv420p(tv, bt470bg, top first), 720x576 [SAR 16:11 DAR 20:11], 25 fps, 50 tbr, 90k tbn, 50 tbc
+    Stream #0:1[0x1b98](eng): Audio: mp2 ([4][0][0][0] / 0x0004), 48000 Hz, stereo, s16p, 128 kb/s
+ 
+[mpeg2video @ 0x5635395414e0] Invalid frame dimensions 0x0.
+    Last message repeated 10 times
+Input #0, mpegts, from 'udp://@233.136.41.58:1234':
+  Duration: N/A, start: 77738.621756, bitrate: N/A
+  Program 5058 
+    Metadata:
+      service_name    : ?France 24
+      service_provider: Splius
+    Stream #0:0[0x21]: Video: mpeg2video (Main) ([2][0][0][0] / 0x0002), yuv420p(tv, top first), 720x576 [SAR 64:45 DAR 16:9], 25 fps, 25 tbr, 90k tbn, 50 tbc
+    Stream #0:1[0x24](fra): Audio: mp2 ([3][0][0][0] / 0x0003), 48000 Hz, stereo, s16p, 128 kb/s
+ 
+
+Input #0, mpegts, from 'udp://@233.136.41.59:1234':
+  Duration: N/A, start: 72183.633000, bitrate: N/A
+  Program 5059 
+    Metadata:
+      service_name    : ?iConcerts
+      service_provider: Splius
+    Stream #0:0[0x642](eng): Audio: mp2 ([4][0][0][0] / 0x0004), 48000 Hz, stereo, s16p, 256 kb/s (clean effects)
+    Stream #0:1[0x7d2]: Video: h264 (Main) ([27][0][0][0] / 0x001B), yuv420p(tv, bt709, top first), 1440x1080 [SAR 4:3 DAR 16:9], 25 fps, 50 tbr, 90k tbn, 50 tbc
+ 
+udp://@233.136.41.60:1234: Input/output error
+ 
+udp://@233.136.41.61:1234: Input/output error
+ 
+udp://@233.136.41.62:1234: Input/output error
+ 
+[mpeg2video @ 0x56094e1ac720] Invalid frame dimensions 0x0.
+[mp2 @ 0x56094e1ab4e0] Header missing
+[mpeg2video @ 0x56094e1ac720] Invalid frame dimensions 0x0.
+    Last message repeated 42 times
+Input #0, mpegts, from 'udp://@233.136.41.63:1234':
+  Duration: N/A, start: 47003.840556, bitrate: 5692 kb/s
+  Program 5063 
+    Metadata:
+      service_name    : MCM TOP
+      service_provider: Splius
+    Stream #0:0[0x58](fra): Audio: mp2 ([4][0][0][0] / 0x0004), 48000 Hz, stereo, s16p, 192 kb/s
+    Stream #0:1[0xa2]: Video: mpeg2video (Main) ([2][0][0][0] / 0x0002), yuv420p(tv, top first), 720x576 [SAR 64:45 DAR 16:9], 5500 kb/s, 25 fps, 25 tbr, 90k tbn, 50 tbc
+ 
+[mpeg2video @ 0x564674436400] Invalid frame dimensions 0x0.
+    Last message repeated 10 times
+Input #0, mpegts, from 'udp://@233.136.41.64:1234':
+  Duration: N/A, start: 29030.902911, bitrate: N/A
+  Program 5064 
+    Metadata:
+      service_name    : Mezzo
+      service_provider: Splius
+    Stream #0:0[0x6a]: Video: mpeg2video (Main) ([2][0][0][0] / 0x0002), yuv420p(tv, top first), 704x576 [SAR 16:11 DAR 16:9], 25 fps, 25 tbr, 90k tbn, 50 tbc
+    Stream #0:1[0x6d](fra): Audio: mp2 ([3][0][0][0] / 0x0003), 48000 Hz, stereo, s16p, 256 kb/s
+ 
+udp://@233.136.41.65:1234: Input/output error
+ 
+udp://@233.136.41.66:1234: Input/output error
+ 
+udp://@233.136.41.67:1234: Input/output error
+ 
+udp://@233.136.41.68:1234: Input/output error
+ 
+[mpeg2video @ 0x5600dc33a400] Invalid frame dimensions 0x0.
+Input #0, mpegts, from 'udp://@233.136.41.69:1234':
+  Duration: N/A, start: 51279.727833, bitrate: N/A
+  Program 5069 
+    Metadata:
+      service_name    : ?Pro 7
+      service_provider: Splius
+    Stream #0:0[0x1ff]: Video: mpeg2video (Main) ([2][0][0][0] / 0x0002), yuv420p(tv, top first), 720x576 [SAR 16:15 DAR 4:3], 25 fps, 25 tbr, 90k tbn, 50 tbc
+    Stream #0:1[0x200](deu): Audio: mp2 ([3][0][0][0] / 0x0003), 48000 Hz, stereo, s16p, 192 kb/s (clean effects)
+ 
+
+Input #0, mpegts, from 'udp://@233.136.41.70:1234':
+  Duration: N/A, start: 23993.815544, bitrate: N/A
+  Program 5070 
+    Metadata:
+      service_name    : RAI1
+      service_provider: Splius
+    Stream #0:0[0x200]: Video: mpeg2video (Main) ([2][0][0][0] / 0x0002), yuv420p(tv, top first), 720x576 [SAR 64:45 DAR 16:9], 25 fps, 25 tbr, 90k tbn, 50 tbc
+    Stream #0:1[0x156c](ita): Audio: mp2 ([3][0][0][0] / 0x0003), 48000 Hz, stereo, s16p, 192 kb/s
+    Stream #0:2[0x156d](oth): Audio: mp2 ([3][0][0][0] / 0x0003), 48000 Hz, mono, s16p, 64 kb/s
+    Stream #0:3[0x156e](eng): Audio: mp2 ([3][0][0][0] / 0x0003), 48000 Hz, stereo, s16p, 192 kb/s
+    Stream #0:4[0x156f]: Unknown: none ([5][0][0][0] / 0x0005)
+    Stream #0:5[0x1570]: Unknown: none ([5][0][0][0] / 0x0005)
+    Stream #0:6[0x1571]: Unknown: none ([5][0][0][0] / 0x0005)
+    Stream #0:7[0x1572]: Unknown: none ([11][0][0][0] / 0x000B)
+    Stream #0:8[0x1573]: Unknown: none ([11][0][0][0] / 0x000B)
+    Stream #0:9[0x1574]: Unknown: none ([12][0][0][0] / 0x000C)
+    Stream #0:10[0x1575]: Unknown: none ([11][0][0][0] / 0x000B)
+Unsupported codec with id 0 for input stream 4
+Unsupported codec with id 0 for input stream 5
+Unsupported codec with id 0 for input stream 6
+Unsupported codec with id 0 for input stream 7
+Unsupported codec with id 0 for input stream 8
+Unsupported codec with id 0 for input stream 9
+Unsupported codec with id 0 for input stream 10
+ 
+[mpeg2video @ 0x558c3f974720] Invalid frame dimensions 0x0.
+    Last message repeated 9 times
+Input #0, mpegts, from 'udp://@233.136.41.71:1234':
+  Duration: N/A, start: 94127.325211, bitrate: N/A
+  Program 5071 
+    Metadata:
+      service_name    : ?RTL
+      service_provider: Splius
+    Stream #0:0[0x68](ger): Audio: mp2 ([3][0][0][0] / 0x0003), 48000 Hz, stereo, s16p, 192 kb/s (clean effects)
+    Stream #0:1[0xa3]: Video: mpeg2video (Main) ([2][0][0][0] / 0x0002), yuv420p(tv, top first), 720x576 [SAR 64:45 DAR 16:9], 25 fps, 25 tbr, 90k tbn, 50 tbc
+ 
+[mpeg2video @ 0x55d7b7efa400] Invalid frame dimensions 0x0.
+    Last message repeated 1 times
+Input #0, mpegts, from 'udp://@233.136.41.72:1234':
+  Duration: N/A, start: 36897.948989, bitrate: 2828 kb/s
+  Program 5072 
+    Metadata:
+      service_name    : Russkij illuzion
+      service_provider: Splius
+    Stream #0:0[0x13d1]: Video: mpeg2video (Main) ([2][0][0][0] / 0x0002), yuv420p(tv, top first), 720x576 [SAR 16:15 DAR 4:3], 2700 kb/s, 25 fps, 25 tbr, 90k tbn, 50 tbc
+    Stream #0:1[0x1af8](rus): Audio: mp2 ([3][0][0][0] / 0x0003), 48000 Hz, stereo, s16p, 128 kb/s
+ 
+[mpeg2video @ 0x558147f7a400] Invalid frame dimensions 0x0.
+Input #0, mpegts, from 'udp://@233.136.41.73:1234':
+  Duration: N/A, start: 51764.885256, bitrate: N/A
+  Program 5073 
+    Metadata:
+      service_name    : ?SAT 1
+      service_provider: Splius
+    Stream #0:0[0xff]: Video: mpeg2video (Main) ([2][0][0][0] / 0x0002), yuv420p(tv, top first), 720x576 [SAR 64:45 DAR 16:9], 25 fps, 25 tbr, 90k tbn, 50 tbc
+    Stream #0:1[0x70b](deu): Audio: mp2 ([3][0][0][0] / 0x0003), 48000 Hz, stereo, s16p, 192 kb/s (clean effects)
+ 
+udp://@233.136.41.74:1234: Input/output error
+ 
+udp://@233.136.41.75:1234: Input/output error
+ 
+udp://@233.136.41.76:1234: Input/output error
+ 
+udp://@233.136.41.77:1234: Input/output error
+ 
+udp://@233.136.41.78:1234: Input/output error
+ 
+udp://@233.136.41.79:1234: Input/output error
+ 
+udp://@233.136.41.80:1234: Input/output error
+ 
+[mpeg2video @ 0x55e252515400] Invalid frame dimensions 0x0.
+    Last message repeated 9 times
+Input #0, mpegts, from 'udp://@233.136.41.81:1234':
+  Duration: N/A, start: 46269.341878, bitrate: N/A
+  Program 5081 
+    Metadata:
+      service_name    : TVP Polonia
+      service_provider: Splius
+    Stream #0:0[0xa0]: Video: mpeg2video (Main) ([2][0][0][0] / 0x0002), yuv420p(tv, top first), 720x576 [SAR 64:45 DAR 16:9], 25 fps, 25 tbr, 90k tbn, 50 tbc
+    Stream #0:1[0x7c7](pol): Audio: mp2 ([4][0][0][0] / 0x0004), 48000 Hz, stereo, s16p, 192 kb/s
+ 
+[mpeg2video @ 0x5571686fb400] Invalid frame dimensions 0x0.
+    Last message repeated 9 times
+Input #0, mpegts, from 'udp://@233.136.41.82:1234':
+  Duration: N/A, start: 51210.162467, bitrate: N/A
+  Program 5082 
+    Metadata:
+      service_name    : TV5 Monde Europe
+      service_provider: Splius
+    Stream #0:0[0xdc2]: Video: mpeg2video (Main) ([2][0][0][0] / 0x0002), yuv420p(tv, top first), 720x576 [SAR 64:45 DAR 16:9], 25 fps, 25 tbr, 90k tbn, 50 tbc
+    Stream #0:1[0xe3a](fra): Audio: mp2 ([3][0][0][0] / 0x0003), 48000 Hz, stereo, s16p, 192 kb/s
+    Stream #0:2[0x1b08](eng): Subtitle: dvb_subtitle ([6][0][0][0] / 0x0006)
+    Stream #0:3[0x1b0b](rus): Subtitle: dvb_subtitle ([6][0][0][0] / 0x0006)
+ 
+[mp2 @ 0x55dc20412720] Header missing
+Input #0, mpegts, from 'udp://@233.136.41.83:1234':
+  Duration: N/A, start: 39920.829456, bitrate: N/A
+  Program 5083 
+    Metadata:
+      service_name    : ?TVCI
+      service_provider: Splius
+    Stream #0:0[0xdd]: Video: mpeg2video (Main) ([2][0][0][0] / 0x0002), yuv420p(tv, top first), 704x576 [SAR 16:11 DAR 16:9], 25 fps, 25 tbr, 90k tbn, 50 tbc
+    Stream #0:1[0x5b8](eng): Audio: mp2 ([4][0][0][0] / 0x0004), 48000 Hz, stereo, s16p, 128 kb/s
+ 
+Input #0, mpegts, from 'udp://@233.136.41.84:1234':
+  Duration: N/A, start: 28542.789644, bitrate: 3123 kb/s
+  Program 5084 
+    Metadata:
+      service_name    : ?TVE Internacional
+      service_provider: Splius
+    Stream #0:0[0x1acd]: Video: mpeg2video (Main) ([2][0][0][0] / 0x0002), yuv420p(tv, top first), 720x576 [SAR 64:45 DAR 16:9], 2867 kb/s, 25 fps, 25 tbr, 90k tbn, 50 tbc
+    Stream #0:1[0x1acf](spa): Subtitle: dvb_subtitle ([6][0][0][0] / 0x0006)
+    Stream #0:2[0x1ad0](spa): Audio: mp2 ([3][0][0][0] / 0x0003), 48000 Hz, stereo, s16p, 128 kb/s
+    Stream #0:3[0x1ad1](qaa): Audio: mp2 ([3][0][0][0] / 0x0003), 48000 Hz, stereo, s16p, 128 kb/s
+ 
+[mpeg2video @ 0x55fafe0ab400] Invalid frame dimensions 0x0.
+    Last message repeated 10 times
+Input #0, mpegts, from 'udp://@233.136.41.85:1234':
+  Duration: N/A, start: 27163.500267, bitrate: N/A
+  Program 5085 
+    Metadata:
+      service_name    : ?Viasat Golf
+      service_provider: Splius
+    Stream #0:0[0x745]: Video: mpeg2video (Main) ([2][0][0][0] / 0x0002), yuv420p(tv, top first), 704x576 [SAR 16:11 DAR 16:9], 25 fps, 25 tbr, 90k tbn, 50 tbc
+    Stream #0:1[0x749](eng): Audio: mp2 ([3][0][0][0] / 0x0003), 48000 Hz, stereo, s16p, 192 kb/s
+ 
+udp://@233.136.41.86:1234: Input/output error
+ 
+[mpeg2video @ 0x55d862369400] Invalid frame dimensions 0x0.
+    Last message repeated 4 times
+Input #0, mpegts, from 'udp://@233.136.41.87:1234':
+  Duration: N/A, start: 77450.051233, bitrate: N/A
+  Program 5087 
+    Metadata:
+      service_name    : ?Deluxe Music
+      service_provider: Splius
+    Stream #0:0[0x13e0]: Video: mpeg2video (Main) ([2][0][0][0] / 0x0002), yuv420p(tv, top first), 544x576 [SAR 32:17 DAR 16:9], 25 fps, 25 tbr, 90k tbn, 50 tbc
+    Stream #0:1[0x13e3](deu): Audio: mp2 ([3][0][0][0] / 0x0003), 48000 Hz, stereo, s16p, 192 kb/s (clean effects)
+ 
+[mpeg2video @ 0x562cda178880] Invalid frame dimensions 0x0.
+    Last message repeated 15 times
+Input #0, mpegts, from 'udp://@233.136.41.88:1234':
+  Duration: N/A, start: 84761.637133, bitrate: N/A
+  Program 5088 
+    Metadata:
+      service_name    : CBS Reality
+      service_provider: Splius
+    Stream #0:0[0x32b](eng): Audio: mp2 ([3][0][0][0] / 0x0003), 48000 Hz, stereo, s16p, 192 kb/s
+    Stream #0:1[0x33a](rus): Audio: mp2 ([3][0][0][0] / 0x0003), 48000 Hz, mono, s16p, 96 kb/s
+    Stream #0:2[0x76c]: Video: mpeg2video (Main) ([2][0][0][0] / 0x0002), yuv420p(tv, bt470bg, top first), 720x576 [SAR 64:45 DAR 16:9], 25 fps, 25 tbr, 90k tbn, 50 tbc
+ 
+udp://@233.136.41.89:1234: Input/output error
+ 
+[mpeg2video @ 0x562acb95f400] Invalid frame dimensions 0x0.
+    Last message repeated 5 times
+Input #0, mpegts, from 'udp://@233.136.41.90:1234':
+  Duration: N/A, start: 65304.066633, bitrate: 3542 kb/s
+  Program 5090 
+    Metadata:
+      service_name    : ?Disney Channel
+      service_provider: Splius
+    Stream #0:0[0x58d]: Video: mpeg2video (Main) ([2][0][0][0] / 0x0002), yuv420p(tv, top first), 720x576 [SAR 64:45 DAR 16:9], 3350 kb/s, 25 fps, 25 tbr, 90k tbn, 50 tbc
+    Stream #0:1[0x590](eng): Audio: mp2 ([3][0][0][0] / 0x0003), 48000 Hz, stereo, s16p, 192 kb/s
+ 
+[mpeg2video @ 0x56209d43f420] Invalid frame dimensions 0x0.
+    Last message repeated 13 times
+Input #0, mpegts, from 'udp://@233.136.41.91:1234':
+  Duration: N/A, start: 65309.291378, bitrate: 3542 kb/s
+  Program 5091 
+    Metadata:
+      service_name    : ?Disney XD
+      service_provider: Splius
+    Stream #0:0[0xac9]: Video: mpeg2video (Main) ([2][0][0][0] / 0x0002), yuv420p(tv, top first), 720x576 [SAR 64:45 DAR 16:9], 3350 kb/s, 25 fps, 25 tbr, 90k tbn, 50 tbc
+    Stream #0:1[0xacc](eng): Audio: mp2 ([3][0][0][0] / 0x0003), 48000 Hz, stereo, s16p, 192 kb/s
+ 
+udp://@233.136.41.92:1234: Input/output error
+ 
+udp://@233.136.41.93:1234: Input/output error
+ 
+udp://@233.136.41.94:1234: Input/output error
+ 
+[mpeg2video @ 0x562b7f213400] Invalid frame dimensions 0x0.
+    Last message repeated 8 times
+Input #0, mpegts, from 'udp://@233.136.41.95:1234':
+  Duration: N/A, start: 37341.936178, bitrate: 4988 kb/s
+  Program 5095 
+    Metadata:
+      service_name    : Siauliu Televizija      
+      service_provider: Splius
+    Stream #0:0[0x100]: Video: mpeg2video (Main) ([2][0][0][0] / 0x0002), yuv420p(tv, top first), 720x576 [SAR 64:45 DAR 16:9], 4796 kb/s, 25 fps, 25 tbr, 90k tbn, 50 tbc
+    Stream #0:1[0x130]: Audio: mp2 ([4][0][0][0] / 0x0004), 48000 Hz, stereo, s16p, 192 kb/s
+ 
+    Last message repeated 2 times
+Input #0, mpegts, from 'udp://@233.136.41.96:1234':
+  Duration: N/A, start: 92141.455356, bitrate: N/A
+  Program 5096 
+    Metadata:
+      service_name    : ?Deluxe Music HD
+      service_provider: Splius
+    Stream #0:0[0x29]: Video: h264 (High) ([27][0][0][0] / 0x001B), yuv420p(tv, bt709, top first), 1280x1080 [SAR 3:2 DAR 16:9], 25 fps, 50 tbr, 90k tbn, 50 tbc
+    Stream #0:1[0x2c](deu): Audio: ac3 ([6][0][0][0] / 0x0006), 48000 Hz, stereo, fltp, 384 kb/s (clean effects)
+ 
+udp://@233.136.41.97:1234: Input/output error
+ 
+[mpeg2video @ 0x5578e78b9400] Invalid frame dimensions 0x0.
+    Last message repeated 10 times
+Input #0, mpegts, from 'udp://@233.136.41.98:1234':
+  Duration: N/A, start: 20420.240167, bitrate: N/A
+  Program 5098 
+    Metadata:
+      service_name    : Russia Today
+      service_provider: Splius
+    Stream #0:0[0x405]: Video: mpeg2video (Main) ([2][0][0][0] / 0x0002), yuv420p(tv, top first), 720x576 [SAR 64:45 DAR 16:9], 25 fps, 25 tbr, 90k tbn, 50 tbc
+    Stream #0:1[0x1b20](eng): Audio: mp2 ([3][0][0][0] / 0x0003), 48000 Hz, stereo, s16p, 128 kb/s
+ 
+[mpeg2video @ 0x55de7f04f4e0] Invalid frame dimensions 0x0.
+    Last message repeated 22 times
+Input #0, mpegts, from 'udp://@233.136.41.99:1234':
+  Duration: N/A, start: 85612.132000, bitrate: N/A
+  Program 5099 
+    Metadata:
+      service_name    : RBK TV
+      service_provider: Splius
+    Stream #0:0[0x157d]: Video: mpeg2video (Main) ([2][0][0][0] / 0x0002), yuv420p(tv, top first), 704x576 [SAR 16:11 DAR 16:9], 25 fps, 25 tbr, 90k tbn, 50 tbc
+    Stream #0:1[0x1580](rus): Audio: mp2 ([4][0][0][0] / 0x0004), 48000 Hz, stereo, s16p, 192 kb/s
+ 
+udp://@233.136.41.100:1234: Input/output error
+ 
+udp://@233.136.41.101:1234: Input/output error
+ 
+udp://@233.136.41.102:1234: Input/output error
+ 
+udp://@233.136.41.103:1234: Input/output error
+ 
+udp://@233.136.41.104:1234: Input/output error
+ 
+[mpeg2video @ 0x5599b5cc3400] Invalid frame dimensions 0x0.
+    Last message repeated 3 times
+Input #0, mpegts, from 'udp://@233.136.41.105:1234':
+  Duration: N/A, start: 12805.312111, bitrate: 4192 kb/s
+  Program 5105 
+    Metadata:
+      service_name    : Balticum Auksinis
+      service_provider: Splius
+    Stream #0:0[0x212]: Video: mpeg2video (Main) ([2][0][0][0] / 0x0002), yuv420p(tv, top first), 704x576 [SAR 16:11 DAR 16:9], 4000 kb/s, 25 fps, 25 tbr, 90k tbn, 50 tbc
+    Stream #0:1[0x213](lit): Audio: mp2 ([3][0][0][0] / 0x0003), 48000 Hz, stereo, s16p, 192 kb/s
+ 
+udp://@233.136.41.106:1234: Input/output error
+ 
+udp://@233.136.41.107:1234: Input/output error
+ 
+    Last message repeated 1 times
+[h264 @ 0x5621341f9400] number of reference frames (0+5) exceeds max (4; probably corrupt input), discarding one
+[h264 @ 0x5621341f9400] mmco: unref short failure
+    Last message repeated 3 times
+Input #0, mpegts, from 'udp://@233.136.41.108:1234':
+  Duration: N/A, start: 74394.174722, bitrate: N/A
+  Program 5108 
+    Metadata:
+      service_name    : Duck TV HD
+      service_provider: Splius
+    Stream #0:0[0x1990]: Video: h264 (High) ([27][0][0][0] / 0x001B), yuv420p(tv, bt709, top first), 1920x1080 [SAR 1:1 DAR 16:9], 25 fps, 50 tbr, 90k tbn, 50 tbc
+    Stream #0:1[0x1991](hun): Audio: mp2 ([4][0][0][0] / 0x0004), 48000 Hz, stereo, s16p, 192 kb/s
+ 
+[mpeg2video @ 0x55e36d64c400] Invalid frame dimensions 0x0.
+    Last message repeated 10 times
+Input #0, mpegts, from 'udp://@233.136.41.109:1234':
+  Duration: N/A, start: 84944.410444, bitrate: N/A
+  Program 5109 
+    Metadata:
+      service_name    : History Channel
+      service_provider: Splius
+    Stream #0:0[0x15f]: Video: mpeg2video (Main) ([2][0][0][0] / 0x0002), yuv420p(tv, bt470bg, top first), 720x576 [SAR 64:45 DAR 16:9], 25 fps, 25 tbr, 90k tbn, 50 tbc
+    Stream #0:1[0x162](eng): Audio: mp2 ([3][0][0][0] / 0x0003), 48000 Hz, stereo, s16p, 128 kb/s
+    Stream #0:2[0x164](rus): Audio: mp2 ([3][0][0][0] / 0x0003), 48000 Hz, stereo, s16p, 128 kb/s
+ 
+udp://@233.136.41.110:1234: Input/output error
+ 
+udp://@233.136.41.111:1234: Input/output error
+ 
+[mpeg2video @ 0x55b374643400] Invalid frame dimensions 0x0.
+    Last message repeated 10 times
+Input #0, mpegts, from 'udp://@233.136.41.112:1234':
+  Duration: N/A, start: 20303.002311, bitrate: 3678 kb/s
+  Program 5112 
+    Metadata:
+      service_name    : Sky News International
+      service_provider: Splius
+    Stream #0:0[0xac9]: Video: mpeg2video (Main) ([2][0][0][0] / 0x0002), yuv420p(tv, top first), 704x576 [SAR 16:11 DAR 16:9], 3550 kb/s, 25 fps, 25 tbr, 90k tbn, 50 tbc
+    Stream #0:1[0xb06](eng): Subtitle: dvb_teletext ([6][0][0][0] / 0x0006)
+    Stream #0:2[0xb08](eng): Audio: mp2 ([3][0][0][0] / 0x0003), 48000 Hz, stereo, s16p, 128 kb/s (clean effects)
+ 
+udp://@233.136.41.113:1234: Input/output error
+ 
+[mpeg2video @ 0x55d4ea195640] Invalid frame dimensions 0x0.
+    Last message repeated 7 times
+Input #0, mpegts, from 'udp://@233.136.41.114:1234':
+  Duration: N/A, start: 80394.861467, bitrate: N/A
+  Program 5114 
+    Metadata:
+      service_name    : MTV Music 24
+      service_provider: Splius
+    Stream #0:0[0xfac]: Audio: mp2 ([4][0][0][0] / 0x0004), 48000 Hz, stereo, s16p, 256 kb/s
+    Stream #0:1[0x1ffe]: Video: mpeg2video (Main) ([2][0][0][0] / 0x0002), yuv420p(tv, top first), 544x576 [SAR 24:17 DAR 4:3], 25 fps, 25 tbr, 90k tbn, 50 tbc
+ 
+[mpeg2video @ 0x55b1dcc15400] Invalid frame dimensions 0x0.
+    Last message repeated 10 times
+Input #0, mpegts, from 'udp://@233.136.41.115:1234':
+  Duration: N/A, start: 39073.614722, bitrate: N/A
+  Program 5115 
+    Metadata:
+      service_name    : Pingviniukas
+      service_provider: Splius
+    Stream #0:0[0x3e9]: Video: mpeg2video (Main) ([2][0][0][0] / 0x0002), yuv420p(tv, bt470bg, top first), 720x576 [SAR 16:15 DAR 4:3], 25 fps, 25 tbr, 90k tbn, 50 tbc
+    Stream #0:1[0x3ea](lit): Audio: mp2 ([3][0][0][0] / 0x0003), 48000 Hz, stereo, s16p, 128 kb/s
+ 
+[mpeg2video @ 0x55fecd788400] Invalid frame dimensions 0x0.
+    Last message repeated 4 times
+Input #0, mpegts, from 'udp://@233.136.41.116:1234':
+  Duration: N/A, start: 88691.756367, bitrate: N/A
+  Program 5116 
+    Metadata:
+      service_name    : ?TV8
+      service_provider: Splius
+    Stream #0:0[0x21]: Video: mpeg2video (Main) ([2][0][0][0] / 0x0002), yuv420p(tv, top first), 544x576 [SAR 32:17 DAR 16:9], 25 fps, 25 tbr, 90k tbn, 50 tbc
+    Stream #0:1[0x24]: Audio: mp2 ([3][0][0][0] / 0x0003), 48000 Hz, stereo, s16p, 128 kb/s
+ 
+udp://@233.136.41.117:1234: Input/output error
+ 
+[mpeg2video @ 0x5594bb0ec400] Invalid frame dimensions 0x0.
+    Last message repeated 5 times
+Input #0, mpegts, from 'udp://@233.136.41.118:1234':
+  Duration: N/A, start: 51566.814344, bitrate: 4688 kb/s
+  Program 5118 
+    Metadata:
+      service_name    : Seimas tiesiogiai
+      service_provider: Splius
+    Stream #0:0[0x18cf]: Video: mpeg2video (Main) ([2][0][0][0] / 0x0002), yuv420p(tv, top first), 720x576 [SAR 64:45 DAR 16:9], 4496 kb/s, 25 fps, 25 tbr, 90k tbn, 50 tbc
+    Stream #0:1[0x18d0](lit): Audio: mp2 ([3][0][0][0] / 0x0003), 48000 Hz, stereo, s16p, 192 kb/s (clean effects)
+ 
+[mpeg2video @ 0x556a597c7420] Invalid frame dimensions 0x0.
+    Last message repeated 25 times
+Input #0, mpegts, from 'udp://@233.136.41.119:1234':
+  Duration: N/A, start: 2849.703022, bitrate: N/A
+  Program 5119 
+    Metadata:
+      service_name    : ?TV1000 Premium
+      service_provider: Splius
+    Stream #0:0[0x116d]: Video: mpeg2video (Main) ([2][0][0][0] / 0x0002), yuv420p(tv, top first), 720x576 [SAR 64:45 DAR 16:9], 25 fps, 25 tbr, 90k tbn, 50 tbc
+    Stream #0:1[0x116e](lit): Audio: mp2 ([3][0][0][0] / 0x0003), 48000 Hz, stereo, s16p, 128 kb/s
+    Stream #0:2[0x1a96](est,lit,lav): Subtitle: dvb_teletext ([6][0][0][0] / 0x0006), 492x250
+ 
+[mpeg2video @ 0x564503ab1400] Invalid frame dimensions 0x0.
+    Last message repeated 19 times
+Input #0, mpegts, from 'udp://@233.136.41.120:1234':
+  Duration: N/A, start: 77032.704711, bitrate: 15384 kb/s
+  Program 5120 
+    Metadata:
+      service_name    : ?TV1000 Action
+      service_provider: Splius
+    Stream #0:0[0xd53]: Video: mpeg2video (Main) ([2][0][0][0] / 0x0002), yuv420p(tv, top first), 720x576 [SAR 64:45 DAR 16:9], 15000 kb/s, 25 fps, 25 tbr, 90k tbn, 50 tbc
+    Stream #0:1[0xd55](eng): Audio: mp2 ([3][0][0][0] / 0x0003), 48000 Hz, stereo, s16p, 192 kb/s
+    Stream #0:2[0xd56](rus): Audio: mp2 ([3][0][0][0] / 0x0003), 48000 Hz, stereo, s16p, 192 kb/s
+    Stream #0:3[0xd58](est,lit,lav): Subtitle: dvb_teletext ([6][0][0][0] / 0x0006)
+ 
+[mpeg2video @ 0x5642757554e0] Invalid frame dimensions 0x0.
+    Last message repeated 10 times
+Input #0, mpegts, from 'udp://@233.136.41.121:1234':
+  Duration: N/A, start: 85028.458100, bitrate: N/A
+  Program 5121 
+    Metadata:
+      service_name    : ?STS TV
+      service_provider: Splius
+    Stream #0:0[0x1ac3]: Video: mpeg2video (Main) ([2][0][0][0] / 0x0002), yuv420p(tv, top first), 544x576 [SAR 24:17 DAR 4:3], 25 fps, 25 tbr, 90k tbn, 50 tbc
+    Stream #0:1[0x1ac4]: Audio: mp2 ([3][0][0][0] / 0x0003), 48000 Hz, stereo, s16p, 128 kb/s
+ 
+udp://@233.136.41.122:1234: Input/output error
+ 
+udp://@233.136.41.123:1234: Input/output error
+ 
+    Last message repeated 1 times
+Input #0, mpegts, from 'udp://@233.136.41.124:1234':
+  Duration: N/A, start: 30832.743522, bitrate: N/A
+  Program 5124 
+    Metadata:
+      service_name    : Travel Channel HD
+      service_provider: Splius
+    Stream #0:0[0x30]: Video: h264 (High) ([27][0][0][0] / 0x001B), yuv420p(tv, bt709, top first), 1920x1080 [SAR 1:1 DAR 16:9], 25 fps, 25 tbr, 90k tbn, 50 tbc
+    Stream #0:1[0x156c](eng): Audio: mp2 ([3][0][0][0] / 0x0003), 48000 Hz, stereo, s16p, 128 kb/s
+    Stream #0:2[0x156f](rus): Audio: mp2 ([3][0][0][0] / 0x0003), 48000 Hz, stereo, s16p, 128 kb/s
+ 
+[mpeg2video @ 0x559b7a8cb420] Invalid frame dimensions 0x0.
+    Last message repeated 18 times
+Input #0, mpegts, from 'udp://@233.136.41.125:1234':
+  Duration: N/A, start: 76070.052167, bitrate: N/A
+  Program 5125 
+    Metadata:
+      service_name    : ?Viasat Motor
+      service_provider: Splius
+    Stream #0:0[0xd67]: Video: mpeg2video (Main) ([2][0][0][0] / 0x0002), yuv420p(tv, top first), 720x576 [SAR 64:45 DAR 16:9], 25 fps, 25 tbr, 90k tbn, 50 tbc
+    Stream #0:1[0xd6a](est,lit,lav): Audio: mp2 ([3][0][0][0] / 0x0003), 48000 Hz, stereo, s16p, 192 kb/s
+ 
+    Last message repeated 1 times
+Input #0, mpegts, from 'udp://@233.136.41.126:1234':
+  Duration: N/A, start: 36598.440356, bitrate: N/A
+  Program 5126 
+    Metadata:
+      service_name    : ?Viasat Motor HD
+      service_provider: Splius
+    Stream #0:0[0x29]: Video: h264 (High) ([27][0][0][0] / 0x001B), yuv420p(tv, bt709, top first), 1920x1080 [SAR 1:1 DAR 16:9], 25 fps, 25 tbr, 90k tbn, 50 tbc
+    Stream #0:1[0x2c](swe): Audio: ac3 ([6][0][0][0] / 0x0006), 48000 Hz, 5.1(side), fltp, 384 kb/s
+    Stream #0:2[0x2d](nor): Audio: ac3 ([6][0][0][0] / 0x0006), 48000 Hz, 5.1(side), fltp, 384 kb/s
+    Stream #0:3[0x2e](est,lat,lit): Audio: ac3 ([6][0][0][0] / 0x0006), 48000 Hz, stereo, fltp, 192 kb/s
+ 
+udp://@233.136.41.127:1234: Input/output error
+ 
+[mpeg2video @ 0x561522481400] Invalid frame dimensions 0x0.
+    Last message repeated 9 times
+Input #0, mpegts, from 'udp://@233.136.41.128:1234':
+  Duration: N/A, start: 2341.364389, bitrate: N/A
+  Program 5128 
+    Metadata:
+      service_name    : Rossiya 24
+      service_provider: Splius
+    Stream #0:0[0x1ae1]: Video: mpeg2video (Main) ([2][0][0][0] / 0x0002), yuv420p(tv, top first), 544x576 [SAR 32:17 DAR 16:9], 25 fps, 25 tbr, 90k tbn, 50 tbc
+    Stream #0:1[0x1ae4](eng): Audio: mp2 ([4][0][0][0] / 0x0004), 48000 Hz, stereo, s16p, 128 kb/s
+ 
+udp://@233.136.41.129:1234: Input/output error
+ 
+udp://@233.136.41.130:1234: Input/output error
+ 
+[mpeg2video @ 0x563cb17fe400] Invalid frame dimensions 0x0.
+    Last message repeated 10 times
+Input #0, mpegts, from 'udp://@233.136.41.131:1234':
+  Duration: N/A, start: 31561.643289, bitrate: N/A
+  Program 5131 
+    Metadata:
+      service_name    : Fashion One
+      service_provider: Splius
+    Stream #0:0[0x65]: Video: mpeg2video (Main) ([2][0][0][0] / 0x0002), yuv420p(tv, bt470bg, top first), 720x576 [SAR 64:45 DAR 16:9], 25 fps, 25 tbr, 90k tbn, 50 tbc
+    Stream #0:1[0x67]: Audio: mp2 ([4][0][0][0] / 0x0004), 48000 Hz, stereo, s16p, 192 kb/s
+ 
+udp://@233.136.41.132:1234: Input/output error
+ 
+[mpeg2video @ 0x55ea2f563640] Invalid frame dimensions 0x0.
+    Last message repeated 22 times
+Input #0, mpegts, from 'udp://@233.136.41.133:1234':
+  Duration: N/A, start: 77074.464522, bitrate: 15256 kb/s
+  Program 5133 
+    Metadata:
+      service_name    : ?Viasat Nature
+      service_provider: Splius
+    Stream #0:0[0x4e3](est,lit,lav): Subtitle: dvb_teletext ([6][0][0][0] / 0x0006)
+    Stream #0:1[0x7a9]: Video: mpeg2video (Main) ([2][0][0][0] / 0x0002), yuv420p(tv, top first), 720x576 [SAR 64:45 DAR 16:9], 15000 kb/s, 25 fps, 25 tbr, 90k tbn, 50 tbc
+    Stream #0:2[0x7ad](eng): Audio: mp2 ([3][0][0][0] / 0x0003), 48000 Hz, stereo, s16p, 128 kb/s
+    Stream #0:3[0x7ae](rus): Audio: mp2 ([3][0][0][0] / 0x0003), 48000 Hz, stereo, s16p, 128 kb/s
+ 
+Input #0, mpegts, from 'udp://@233.136.41.134:1234':
+  Duration: N/A, start: 48504.853244, bitrate: N/A
+  Program 5134 
+    Metadata:
+      service_name    : ?Dozhd TV
+      service_provider: Splius
+    Stream #0:0[0x579]: Video: mpeg2video (Main) ([2][0][0][0] / 0x0002), yuv420p(tv, top first), 720x576 [SAR 64:45 DAR 16:9], 25 fps, 25 tbr, 90k tbn, 50 tbc
+    Stream #0:1[0x5a4](rus): Audio: mp2 ([4][0][0][0] / 0x0004), 48000 Hz, stereo, s16p, 192 kb/s
+
+[h264 @ 0x560e591e7400] no frame!
+Input #0, mpegts, from 'udp://@233.136.41.135:1234':
+  Duration: N/A, start: 56974.879556, bitrate: N/A
+  Program 5135 
+    Metadata:
+      service_name    : Fine Living
+      service_provider: Splius
+    Stream #0:0[0x157d]: Video: h264 (Main) ([27][0][0][0] / 0x001B), yuv420p(tv, bt470bg, top first), 720x576 [SAR 16:11 DAR 20:11], 25 fps, 50 tbr, 90k tbn, 50 tbc
+    Stream #0:1[0x1580](eng): Audio: mp2 ([4][0][0][0] / 0x0004), 48000 Hz, stereo, s16p, 128 kb/s
+    Stream #0:2[0x1583](rus): Audio: mp2 ([4][0][0][0] / 0x0004), 48000 Hz, stereo, s16p, 128 kb/s
+ 
+udp://@233.136.41.136:1234: Input/output error
+ 
+[mpeg2video @ 0x5587f9609400] Invalid frame dimensions 0x0.
+    Last message repeated 10 times
+Input #0, mpegts, from 'udp://@233.136.41.137:1234':
+  Duration: N/A, start: 46714.631344, bitrate: 15064 kb/s
+  Program 5137 
+    Metadata:
+      service_name    : English Club TV
+      service_provider: Splius
+    Stream #0:0[0x1cd5]: Video: mpeg2video (Main) ([2][0][0][0] / 0x0002), yuv420p(tv, top first), 704x576 [SAR 16:11 DAR 16:9], 15000 kb/s, 25 fps, 25 tbr, 90k tbn, 50 tbc
+    Stream #0:1[0x1cd7](eng): Audio: mp2 ([3][0][0][0] / 0x0003), 48000 Hz, mono, s16p, 64 kb/s
+ 
+[mpeg2video @ 0x564c1ebae400] Invalid frame dimensions 0x0.
+    Last message repeated 13 times
+Input #0, mpegts, from 'udp://@233.136.41.138:1234':
+  Duration: N/A, start: 18108.605022, bitrate: N/A
+  Program 5138 
+    Metadata:
+      service_name    : illuzion+
+      service_provider: Splius
+    Stream #0:0[0x1ab9]: Video: mpeg2video (Main) ([2][0][0][0] / 0x0002), yuv420p(tv, top first), 720x576 [SAR 16:15 DAR 4:3], 25 fps, 25 tbr, 90k tbn, 50 tbc
+    Stream #0:1[0x1abc](rus): Audio: mp2 ([4][0][0][0] / 0x0004), 48000 Hz, stereo, s16p, 128 kb/s
+ 
+[mpeg2video @ 0x55f9811d8400] Invalid frame dimensions 0x0.
+    Last message repeated 18 times
+Input #0, mpegts, from 'udp://@233.136.41.139:1234':
+  Duration: N/A, start: 85129.329433, bitrate: N/A
+  Program 5139 
+    Metadata:
+      service_name    : Zhivi!
+      service_provider: Splius
+    Stream #0:0[0x21d]: Video: mpeg2video (Main) ([2][0][0][0] / 0x0002), yuv420p(tv, top first), 704x576 [SAR 16:11 DAR 16:9], 25 fps, 25 tbr, 90k tbn, 50 tbc
+    Stream #0:1[0x21e](rus): Audio: mp2 ([4][0][0][0] / 0x0004), 48000 Hz, stereo, s16p, 192 kb/s
+ 
+    Last message repeated 1 times
+Input #0, mpegts, from 'udp://@233.136.41.140:1234':
+  Duration: N/A, start: 35030.233644, bitrate: N/A
+  Program 5140 
+    Metadata:
+      service_name    : ?Viasat History HD
+      service_provider: Splius
+    Stream #0:0[0xa28](eng): Audio: mp2 ([3][0][0][0] / 0x0003), 48000 Hz, stereo, s16p, 192 kb/s
+    Stream #0:1[0xa29]: Video: h264 (High) ([27][0][0][0] / 0x001B), yuv420p(tv, bt709, top first), 1920x1080 [SAR 1:1 DAR 16:9], 25 fps, 25 tbr, 90k tbn, 50 tbc
+    Stream #0:2[0xa2d](rus): Audio: mp2 ([3][0][0][0] / 0x0003), 48000 Hz, stereo, s16p, 192 kb/s
+    Stream #0:3[0xa32](lit): Subtitle: dvb_subtitle ([6][0][0][0] / 0x0006)
+ 
+udp://@233.136.41.141:1234: Input/output error
+ 
+[mpeg2video @ 0x55ee49de34e0] Invalid frame dimensions 0x0.
+Input #0, mpegts, from 'udp://@233.136.41.142:1234':
+  Duration: N/A, start: 42955.150989, bitrate: N/A
+  Program 5142 
+    Metadata:
+      service_name    : MTV Hits
+      service_provider: Splius
+    Stream #0:0[0x13d9]: Video: mpeg2video (Main) ([2][0][0][0] / 0x0002), yuv420p(tv, top first), 720x576 [SAR 64:45 DAR 16:9], 25 fps, 25 tbr, 90k tbn, 50 tbc
+    Stream #0:1[0x13da](eng): Audio: mp2 ([3][0][0][0] / 0x0003), 48000 Hz, stereo, s16p, 256 kb/s
+ 
+    Last message repeated 1 times
+Input #0, mpegts, from 'udp://@233.136.41.143:1234':
+  Duration: N/A, start: 2453.810533, bitrate: N/A
+  Program 5143 
+    Metadata:
+      service_name    : Eurosport 2 HD
+      service_provider: Splius
+    Stream #0:0[0x102d]: Video: h264 (High) ([27][0][0][0] / 0x001B), yuv420p(tv, bt709, top first), 1920x1080 [SAR 1:1 DAR 16:9], 25 fps, 25 tbr, 90k tbn, 50 tbc
+    Stream #0:1[0x1033](eng): Audio: mp2 ([3][0][0][0] / 0x0003), 48000 Hz, stereo, s16p, 192 kb/s
+    Stream #0:2[0x1035](rus): Audio: mp2 ([3][0][0][0] / 0x0003), 48000 Hz, stereo, s16p, 192 kb/s
+    Stream #0:3[0x1058](srp): Audio: mp2 ([3][0][0][0] / 0x0003), 48000 Hz, stereo, s16p, 192 kb/s
+    Stream #0:4[0x105a](cze): Audio: mp2 ([3][0][0][0] / 0x0003), 48000 Hz, stereo, s16p, 192 kb/s
+    Stream #0:5[0x105c](hun): Audio: mp2 ([3][0][0][0] / 0x0003), 48000 Hz, stereo, s16p, 192 kb/s
+    Stream #0:6[0x105d](rum): Audio: mp2 ([3][0][0][0] / 0x0003), 48000 Hz, stereo, s16p, 192 kb/s
+    Stream #0:7[0x105e](hrv): Audio: mp2 ([3][0][0][0] / 0x0003), 48000 Hz, stereo, s16p, 192 kb/s
+ 
+udp://@233.136.41.144:1234: Input/output error
+ 
+[mpeg2video @ 0x559fe3c2a4e0] Invalid frame dimensions 0x0.
+    Last message repeated 2 times
+Input #0, mpegts, from 'udp://@233.136.41.145:1234':
+  Duration: N/A, start: 61412.595622, bitrate: 5160 kb/s
+  Program 5145 
+    Metadata:
+      service_name    : Kidzone
+      service_provider: Splius
+    Stream #0:0[0x3e9]: Video: mpeg2video (Main) ([2][0][0][0] / 0x0002), yuv420p(tv, top first), 720x576 [SAR 64:45 DAR 16:9], 5000 kb/s, 25 fps, 25 tbr, 90k tbn, 50 tbc
+    Stream #0:1[0x3ec](lit): Audio: mp2 ([3][0][0][0] / 0x0003), 48000 Hz, stereo, s16p, 160 kb/s
+ 
+[mpeg2video @ 0x560619ade400] Invalid frame dimensions 0x0.
+    Last message repeated 4 times
+Input #0, mpegts, from 'udp://@233.136.41.146:1234':
+  Duration: N/A, start: 15010.089778, bitrate: N/A
+  Program 5146 
+    Metadata:
+      service_name    : THT International
+      service_provider: Splius
+    Stream #0:0[0x140]: Video: mpeg2video (Main) ([2][0][0][0] / 0x0002), yuv420p(tv, top first), 720x576 [SAR 64:45 DAR 16:9], 25 fps, 25 tbr, 90k tbn, 50 tbc
+    Stream #0:1[0x14a](rus): Audio: mp2 ([4][0][0][0] / 0x0004), 48000 Hz, stereo, s16p, 192 kb/s
+ 
+[mpeg2video @ 0x55da9d136400] Invalid frame dimensions 0x0.
+    Last message repeated 13 times
+Input #0, mpegts, from 'udp://@233.136.41.147:1234':
+  Duration: N/A, start: 88327.094211, bitrate: N/A
+  Program 5147 
+    Metadata:
+      service_name    : ?LTV World
+      service_provider: Splius
+    Stream #0:0[0x1af5]: Video: mpeg2video (Main) ([2][0][0][0] / 0x0002), yuv420p(tv, top first), 720x576 [SAR 64:45 DAR 16:9], 25 fps, 25 tbr, 90k tbn, 50 tbc
+    Stream #0:1[0x1af8]: Audio: mp2 ([3][0][0][0] / 0x0003), 48000 Hz, mono, s16p, 112 kb/s
+ 
+[mpeg2video @ 0x55aa809b4420] Invalid frame dimensions 0x0.
+    Last message repeated 1 times
+Input #0, mpegts, from 'udp://@233.136.41.148:1234':
+  Duration: N/A, start: 6378.316611, bitrate: 6642 kb/s
+  Program 5148 
+    Metadata:
+      service_name    : GNTV
+      service_provider: Splius
+    Stream #0:0[0x281]: Video: mpeg2video (Main) ([2][0][0][0] / 0x0002), yuv420p(tv, top first), 720x576 [SAR 64:45 DAR 16:9], 6514 kb/s, 25 fps, 25 tbr, 90k tbn, 50 tbc
+    Stream #0:1[0x381](lt): Audio: mp2 ([3][0][0][0] / 0x0003), 48000 Hz, stereo, s16p, 128 kb/s (clean effects)
+    Stream #0:2[0x481](lt): Subtitle: dvb_teletext ([6][0][0][0] / 0x0006)
+ 
+udp://@233.136.41.149:1234: Input/output error
+ 
+udp://@233.136.41.150:1234: Input/output error
+ 
+udp://@233.136.41.151:1234: Input/output error
+ 
+udp://@233.136.41.152:1234: Input/output error
+ 
+udp://@233.136.41.153:1234: Input/output error
+ 
+udp://@233.136.41.154:1234: Input/output error
+ 
+Input #0, mpegts, from 'udp://@233.136.41.155:1234':
+  Duration: N/A, start: 21827.965489, bitrate: N/A
+  Program 5155 
+    Metadata:
+      service_name    : ID HD
+      service_provider: Splius
+    Stream #0:0[0xa8c]: Video: h264 (Main) ([27][0][0][0] / 0x001B), yuv420p(top first), 1920x1080 [SAR 1:1 DAR 16:9], 25 fps, 25 tbr, 90k tbn, 50 tbc
+    Stream #0:1[0xa8d](eng): Audio: ac3 ([6][0][0][0] / 0x0006), 48000 Hz, 5.1(side), fltp, 384 kb/s
+    Stream #0:2[0xa8f](rus): Audio: ac3 ([6][0][0][0] / 0x0006), 48000 Hz, 5.1(side), fltp, 384 kb/s
+ 
+Input #0, mpegts, from 'udp://@233.136.41.156:1234':
+  Duration: N/A, start: 21833.268156, bitrate: N/A
+  Program 5156 
+    Metadata:
+      service_name    : Animal Planet HD
+      service_provider: Splius
+    Stream #0:0[0xa28]: Video: h264 (Main) ([27][0][0][0] / 0x001B), yuv420p(top first), 1920x1080 [SAR 1:1 DAR 16:9], 25 fps, 25 tbr, 90k tbn, 50 tbc
+    Stream #0:1[0xa29](eng): Audio: ac3 ([6][0][0][0] / 0x0006), 48000 Hz, 5.1(side), fltp, 384 kb/s
+    Stream #0:2[0xa2b](rus): Audio: ac3 ([6][0][0][0] / 0x0006), 48000 Hz, 5.1(side), fltp, 384 kb/s
+ 
+[h264 @ 0x55e68bb5c400] no frame!
+Input #0, mpegts, from 'udp://@233.136.41.157:1234':
+  Duration: N/A, start: 18007.815833, bitrate: N/A
+  Program 5157 
+    Metadata:
+      service_name    : Discovery Science HD
+      service_provider: Splius
+    Stream #0:0[0xc80]: Video: h264 (Main) ([27][0][0][0] / 0x001B), yuv420p(top first), 1920x1080 [SAR 1:1 DAR 16:9], 25 fps, 25 tbr, 90k tbn, 50 tbc
+    Stream #0:1[0xc81](eng): Audio: ac3 ([6][0][0][0] / 0x0006), 48000 Hz, 5.1(side), fltp, 384 kb/s
+    Stream #0:2[0xc84](rus): Audio: ac3 ([6][0][0][0] / 0x0006), 48000 Hz, 5.1(side), fltp, 384 kb/s
+ 
+    Last message repeated 1 times
+Input #0, mpegts, from 'udp://@233.136.41.158:1234':
+  Duration: N/A, start: 17503.822733, bitrate: N/A
+  Program 5158 
+    Metadata:
+      service_name    : LRT Televizija HD
+      service_provider: Splius
+    Stream #0:0[0x19c]: Video: h264 (High) ([27][0][0][0] / 0x001B), yuv420p(tv, bt709, top first), 1920x1080 [SAR 1:1 DAR 16:9], 25 fps, 25 tbr, 90k tbn, 50 tbc
+    Stream #0:1[0x19d](lit): Audio: mp2 ([3][0][0][0] / 0x0003), 48000 Hz, stereo, s16p, 192 kb/s
+    Stream #0:2[0x19e](qaa): Audio: mp2 ([3][0][0][0] / 0x0003), 48000 Hz, stereo, s16p, 192 kb/s
+    Stream #0:3[0x19f](lit): Audio: ac3 ([6][0][0][0] / 0x0006), 48000 Hz, 5.1(side), fltp, 384 kb/s
+    Stream #0:4[0x1a1](lit): Subtitle: dvb_subtitle ([6][0][0][0] / 0x0006)
+ 
+    Last message repeated 1 times
+Input #0, mpegts, from 'udp://@233.136.41.159:1234':
+  Duration: N/A, start: 47317.652256, bitrate: N/A
+  Program 5159 
+    Metadata:
+      service_name    : MCM TOP HD
+      service_provider: Splius
+    Stream #0:0[0x58d]: Video: h264 (High) ([27][0][0][0] / 0x001B), yuv420p(tv, bt709, top first), 1920x1080 [SAR 1:1 DAR 16:9], 25 fps, 25 tbr, 90k tbn, 50 tbc
+    Stream #0:1[0x58f](fra): Subtitle: dvb_subtitle ([6][0][0][0] / 0x0006)
+    Stream #0:2[0x590](fra): Audio: ac3 ([6][0][0][0] / 0x0006), 48000 Hz, stereo, fltp, 192 kb/s
+ 
+Input #0, mpegts, from 'udp://@233.136.41.160:1234':
+  Duration: N/A, start: 31672.683289, bitrate: N/A
+  Program 5160 
+    Metadata:
+      service_name    : Fashion One HD
+      service_provider: Splius
+    Stream #0:0[0x5dc]: Video: h264 (Main) ([27][0][0][0] / 0x001B), yuv420p(progressive), 1920x1080 [SAR 1:1 DAR 16:9], 25 fps, 25 tbr, 90k tbn, 50 tbc
+    Stream #0:1[0xbb9]: Audio: m
+Input #0, mpegts, from 'udp://@233.136.41.161:1234':
+  Duration: N/A, start: 50755.916144, bitrate: N/A
+  Program 5161 
+    Metadata:
+      service_name    : Filmzone+ HD
+      service_provider: Splius
+    Stream #0:0[0x1cb2]: Video: h264 (Main) ([27][0][0][0] / 0x001B), yuv420p(tv, bt709, top first), 1920x1080 [SAR 1:1 DAR 16:9], 25 fps, 25 tbr, 90k tbn, 50 tbc
+    Stream #0:1[0x1e00](lit): Audio: mp2 ([3][0][0][0] / 0x0003), 48000 Hz, stereo, s16p, 128 kb/s
+    Stream #0:2[0x1e01](eng): Audio: mp2 ([3][0][0][0] / 0x0003), 48000 Hz, stereo, s16p, 256 kb/s
+    Stream #0:3[0x1e02](rus): Audio: mp2 ([3][0][0][0] / 0x0003), 48000 Hz, stereo, s16p, 128 kb/s
+ 
+Input #0, mpegts, from 'udp://@233.136.41.162:1234':
+  Duration: N/A, start: 83060.291756, bitrate: N/A
+  Program 5162 
+    Metadata:
+      service_name    : ?Setanta Sports HD
+      service_provider: Splius
+    Stream #0:0[0x30]: Video: h264 (High) ([27][0][0][0] / 0x001B), yuv420p(tv, bt709, top first), 1920x1080 [SAR 1:1 DAR 16:9], 25 fps, 50 tbr, 90k tbn, 50 tbc
+    Stream #0:1[0x1d59](eng): Audio: mp2 ([3][0][0][0] / 0x0003), 48000 Hz, stereo, s16p, 192 kb/s
+    Stream #0:2[0x1d5b](rus): Audio: mp2 ([3][0][0][0] / 0x0003), 48000 Hz, stereo, s16p, 192 kb/s
+ 
+    Last message repeated 2 times
+Input #0, mpegts, from 'udp://@233.136.41.163:1234':
+  Duration: N/A, start: 26852.252167, bitrate: N/A
+  Program 5163 
+    Metadata:
+      service_name    : Sport 1 HD
+      service_provider: Splius
+    Stream #0:0[0x65]: Video: h264 (High) ([27][0][0][0] / 0x001B), yuv420p(tv, bt709, top first), 1920x1080 [SAR 1:1 DAR 16:9], 25 fps, 50 tbr, 90k tbn, 50 tbc
+    Stream #0:1[0x66](lit): Audio: mp2 ([4][0][0][0] / 0x0004), 48000 Hz, stereo, s16p, 320 kb/s
+ 
+Input #0, mpegts, from 'udp://@233.136.41.164:1234':
+  Duration: N/A, start: 85825.681056, bitrate: N/A
+  Program 5164 
+    Metadata:
+      service_name    : TV XXI
+      service_provider: Splius
+    Stream #0:0[0x655]: Video: h264 (Main) ([27][0][0][0] / 0x001B), yuv420p(tv, top first), 720x576 [SAR 64:45 DAR 16:9], 25 fps, 50 tbr, 90k tbn, 50 tbc
+    Stream #0:1[0x657](ENG): Audio: mp2 ([3][0][0][0] / 0x0003), 48000 Hz, stereo, s16p, 128 kb/s
+    Stream #0:2[0x658](RUS): Audio: mp2 ([3][0][0][0] / 0x0003), 48000 Hz, stereo, s16p, 128 kb/s
+ 
+[mp3 @ 0x556e1d70e4e0] Header missing
+[mpeg2video @ 0x556e1d70f720] Invalid frame dimensions 0x0.
+    Last message repeated 3 times
+Input #0, mpegts, from 'udp://@233.136.41.165:1234':
+  Duration: N/A, start: 18418.362633, bitrate: N/A
+  Program 5165 
+    Metadata:
+      service_name    : TV Zvaigzde
+      service_provider: Splius
+    Stream #0:0[0x44]: Audio: mp2 ([3][0][0][0] / 0x0003), 48000 Hz, stereo, s16p, 192 kb/s
+    Stream #0:1[0x45]: Video: mpeg2video (Main) ([2][0][0][0] / 0x0002), yuv420p(tv, top first), 720x576 [SAR 16:15 DAR 4:3], 25 fps, 25 tbr, 90k tbn, 50 tbc
+ 
+[h264 @ 0x55f1dd6dd4e0] Increasing reorder buffer to 2
+Input #0, mpegts, from 'udp://@233.136.41.166:1234':
+  Duration: N/A, start: 52801.257778, bitrate: N/A
+  Program 5166 
+    Metadata:
+      service_name    : Discovery Channel
+      service_provider: Splius
+    Stream #0:0[0xce]: Video: h264 (Main) ([27][0][0][0] / 0x001B), yuv420p(top first), 720x576 [SAR 16:11 DAR 20:11], 25 fps, 25 tbr, 90k tbn, 50 tbc
+    Stream #0:1[0xcf](eng): Audio: mp2 ([4][0][0][0] / 0x0004), 48000 Hz, stereo, s16p, 192 kb/s
+    Stream #0:2[0xd0](rus): Audio: mp2 ([4][0][0][0] / 0x0004), 48000 Hz, stereo, s16p, 192 kb/s
+ 
+Input #0, mpegts, from 'udp://@233.136.41.167:1234':
+  Duration: N/A, start: 18059.733100, bitrate: N/A
+  Program 5167 
+    Metadata:
+      service_name    : Discovery TLC
+      service_provider: Splius
+    Stream #0:0[0xb5b]: Video: h264 (Main) ([27][0][0][0] / 0x001B), yuv420p(top first), 720x576 [SAR 16:11 DAR 20:11], 25 fps, 25 tbr, 90k tbn, 50 tbc
+    Stream #0:1[0xb5c](eng): Audio: mp2 ([4][0][0][0] / 0x0004), 48000 Hz, stereo, s16p, 192 kb/s
+    Stream #0:2[0xb5e](rus): Audio: mp2 ([4][0][0][0] / 0x0004), 48000 Hz, stereo, s16p, 192 kb/s
+ 
+udp://@233.136.41.168:1234: Input/output error
+ 
+udp://@233.136.41.169:1234: Input/output error
+ 
+    Last message repeated 1 times
+Input #0, mpegts, from 'udp://@233.136.41.170:1234':
+  Duration: N/A, start: 17557.234767, bitrate: N/A
+  Program 5170 
+    Metadata:
+      service_name    : LRT Televizija
+      service_provider: Splius
+    Stream #0:0[0x1b0]: Video: h264 (Main) ([27][0][0][0] / 0x001B), yuv420p(tv, bt470bg, top first), 720x576 [SAR 16:11 DAR 20:11], 25 fps, 25 tbr, 90k tbn, 50 tbc
+    Stream #0:1[0x1b1](lit): Audio: mp2 ([3][0][0][0] / 0x0003), 48000 Hz, stereo, s16p, 192 kb/s
+    Stream #0:2[0x1b2](qaa): Audio: mp2 ([3][0][0][0] / 0x0003), 48000 Hz, stereo, s16p, 192 kb/s
+    Stream #0:3[0x1b5](lit): Subtitle: dvb_subtitle ([6][0][0][0] / 0x0006)
+ 
+Input #0, mpegts, from 'udp://@233.136.41.171:1234':
+  Duration: N/A, start: 17568.010289, bitrate: N/A
+  Program 5171 
+    Metadata:
+      service_name    : LRT Kultura
+      service_provider: Splius
+    Stream #0:0[0x1c4]: Video: h264 (Main) ([27][0][0][0] / 0x001B), yuv420p(tv, bt470bg, top first), 720x576 [SAR 16:11 DAR 20:11], 25 fps, 25 tbr, 90k tbn, 50 tbc
+    Stream #0:1[0x1c5](lit): Audio: mp2 ([3][0][0][0] / 0x0003), 48000 Hz, stereo, s16p, 192 kb/s
+    Stream #0:2[0x1c6](qaa): Audio: mp2 ([3][0][0][0] / 0x0003), 48000 Hz, stereo, s16p, 192 kb/s
+    Stream #0:3[0x1c9](lit): Subtitle: dvb_subtitle ([6][0][0][0] / 0x0006)
+ 
+
+    Last message repeated 1 times
+Input #0, mpegts, from 'udp://@233.136.41.172:1234':
+  Duration: N/A, start: 21416.493456, bitrate: N/A
+  Program 5172 
+    Metadata:
+      service_name    : LNK
+      service_provider: Splius
+    Stream #0:0[0x12d]: Video: h264 (Main) ([27][0][0][0] / 0x001B), yuvj420p(pc, bt470bg, top first), 720x576 [SAR 16:11 DAR 20:11], 25 fps, 50 tbr, 90k tbn, 50 tbc
+    Stream #0:1[0x12e](lit): Audio: mp2 ([4][0][0][0] / 0x0004), 48000 Hz, stereo, s16p, 192 kb/s
+ 
+    Last message repeated 2 times
+[mp2 @ 0x5632c36d6640] Header missing
+Input #0, mpegts, from 'udp://@233.136.41.173:1234':
+  Duration: N/A, start: 4099.654833, bitrate: N/A
+  Program 5173 
+    Metadata:
+      service_name    : TV3
+      service_provider: Splius
+    Stream #0:0[0x321]: Video: h264 (Main) ([27][0][0][0] / 0x001B), yuvj420p(pc, bt470bg, top first), 720x576 [SAR 16:11 DAR 20:11], 25 fps, 50 tbr, 90k tbn, 50 tbc
+    Stream #0:1[0x322](lit): Audio: mp2 ([4][0][0][0] / 0x0004), 48000 Hz, stereo, s16p, 192 kb/s
+ 
+
+    Last message repeated 2 times
+Input #0, mpegts, from 'udp://@233.136.41.174:1234':
+  Duration: N/A, start: 74007.502389, bitrate: N/A
+  Program 5174 
+    Metadata:
+      service_name    : TV1
+      service_provider: Splius
+    Stream #0:0[0x2bd]: Video: h264 (Main) ([27][0][0][0] / 0x001B), yuvj420p(pc, bt470bg, top first), 720x576 [SAR 16:11 DAR 20:11], 25 fps, 50 tbr, 90k tbn, 50 tbc
+    Stream #0:1[0x2be](lit): Audio: mp2 ([4][0][0][0] / 0x0004), 48000 Hz, stereo, s16p, 192 kb/s
+ 
+Input #0, mpegts, from 'udp://@233.136.41.175:1234':
+  Duration: N/A, start: 55717.342989, bitrate: N/A
+  Program 5175 
+    Metadata:
+      service_name    : TV6
+      service_provider: Splius
+    Stream #0:0[0x385]: Video: h264 (Main) ([27][0][0][0] / 0x001B), yuvj420p(pc, bt470bg, top first), 720x576 [SAR 16:11 DAR 20:11], 25 fps, 50 tbr, 90k tbn, 50 tbc
+    Stream #0:1[0x386](lit): Audio: mp2 ([4][0][0][0] / 0x0004), 48000 Hz, stereo, s16p, 192 kb/s
+ 
+    Last message repeated 2 times
+Input #0, mpegts, from 'udp://@233.136.41.176:1234':
+  Duration: N/A, start: 27973.398300, bitrate: N/A
+  Program 5176 
+    Metadata:
+      service_name    : BTV
+      service_provider: Splius
+    Stream #0:0[0x3e9]: Video: h264 (Main) ([27][0][0][0] / 0x001B), yuvj420p(pc, bt470bg, top first), 720x576 [SAR 16:11 DAR 20:11], 25 fps, 50 tbr, 90k tbn, 50 tbc
+    Stream #0:1[0x3ea](lit): Audio: mp2 ([4][0][0][0] / 0x0004), 48000 Hz, stereo, s16p, 192 kb/s
+ 
+[h264 @ 0x556ee7763400] mmco: unref short failure
+    Last message repeated 2 times
+Input #0, mpegts, from 'udp://@233.136.41.177:1234':
+  Duration: N/A, start: 29873.900344, bitrate: N/A
+  Program 5177 
+    Metadata:
+      service_name    : Info TV
+      service_provider: Splius
+    Stream #0:0[0x191]: Video: h264 (Main) ([27][0][0][0] / 0x001B), yuvj420p(pc, bt470bg, top first), 720x576 [SAR 16:11 DAR 20:11], 25 fps, 50 tbr, 90k tbn, 50 tbc
+    Stream #0:1[0x192](lit): Audio: mp2 ([4][0][0][0] / 0x0004), 48000 Hz, stereo, s16p, 192 kb/s
+ 
+    Last message repeated 2 times
+Input #0, mpegts, from 'udp://@233.136.41.178:1234':
+  Duration: N/A, start: 57788.962567, bitrate: N/A
+  Program 5178 
+    Metadata:
+      service_name    : Liuks!
+      service_provider: Splius
+    Stream #0:0[0x1f5]: Video: h264 (Main) ([27][0][0][0] / 0x001B), yuvj420p(pc, bt470bg, top first), 720x576 [SAR 16:11 DAR 20:11], 25 fps, 50 tbr, 90k tbn, 50 tbc
+    Stream #0:1[0x1f6](lit): Audio: mp2 ([4][0][0][0] / 0x0004), 48000 Hz, stereo, s16p, 192 kb/s
+ 
+    Last message repeated 2 times
+Input #0, mpegts, from 'udp://@233.136.41.179:1234':
+  Duration: N/A, start: 55463.504544, bitrate: N/A
+  Program 5179 
+    Metadata:
+      service_name    : TV8
+      service_provider: Splius
+    Stream #0:0[0x259]: Video: h264 (Main) ([27][0][0][0] / 0x001B), yuvj420p(pc, bt470bg, top first), 720x576 [SAR 16:11 DAR 20:11], 25 fps, 50 tbr, 90k tbn, 50 tbc
+    Stream #0:1[0x25a](lit): Audio: mp2 ([4][0][0][0] / 0x0004), 48000 Hz, stereo, s16p, 192 kb/s
+ 
+udp://@233.136.41.180:1234: Input/output error
+ 
+Input #0, mpegts, from 'udp://@233.136.41.181:1234':
+  Duration: N/A, start: 3868.997333, bitrate: N/A
+  Program 5181 
+    Metadata:
+      service_name    : Siauliu Televizija
+      service_provider: Siauliu Televizija
+    Stream #0:0[0x110]: Video: h264 (Main) ([27][0][0][0] / 0x001B), yuv420p(top first), 720x576 [SAR 16:11 DAR 20:11], 25 fps, 50 tbr, 90k tbn, 50 tbc
+    Stream #0:1[0x1011]: Audio: mp2 ([3][0][0][0] / 0x0003), 48000 Hz, stereo, s16p, 192 kb/s
+ 
+udp://@233.136.41.182:1234: Input/output error
+ 
+udp://@233.136.41.183:1234: Input/output error
+ 
+Input #0, mpegts, from 'udp://@233.136.41.184:1234':
+  Duration: N/A, start: 18127.796222, bitrate: N/A
+  Program 5184 
+    Metadata:
+      service_name    : DTX HD
+      service_provider: Splius
+    Stream #0:0[0x198]: Video: h264 (Main) ([27][0][0][0] / 0x001B), yuv420p(top first), 1920x1080 [SAR 1:1 DAR 16:9], 25 fps, 25 tbr, 90k tbn, 50 tbc
+    Stream #0:1[0x199](eng): Audio: ac3 ([6][0][0][0] / 0x0006), 48000 Hz, 5.1(side), fltp, 384 kb/s
+    Stream #0:2[0x19a](rus): Audio: ac3 ([6][0][0][0] / 0x0006), 48000 Hz, 5.1(side), fltp, 384 kb/s
+ 
+[mpeg2video @ 0x555ea752b400] Invalid frame dimensions 0x0.
+    Last message repeated 5 times
+Input #0, mpegts, from 'udp://@233.136.41.185:1234':
+  Duration: N/A, start: 52875.274567, bitrate: N/A
+  Program 5185 
+    Metadata:
+      service_name    : ID
+      service_provider: Splius
+    Stream #0:0[0x3e8]: Video: mpeg2video (Main) ([2][0][0][0] / 0x0002), yuv420p(tv, bt470bg, top first), 720x576 [SAR 64:45 DAR 16:9], 25 fps, 25 tbr, 90k tbn, 50 tbc
+    Stream #0:1[0x3e9](eng): Audio: mp2 ([4][0][0][0] / 0x0004), 48000 Hz, stereo, s16p, 192 kb/s
+    Stream #0:2[0x3ec](rus): Audio: mp2 ([4][0][0][0] / 0x0004), 48000 Hz, stereo, s16p, 192 kb/s
+ 
+[h264 @ 0x55b35f641400] top block unavailable for requested intra mode
+[h264 @ 0x55b35f641400] error while decoding MB 10 0, bytestream 31227
+[h264 @ 0x55b35f641400] concealing 1620 DC, 1620 AC, 1620 MV errors in I frame
+Input #0, mpegts, from 'udp://@233.136.41.186:1234':
+  Duration: N/A, start: 52884.970567, bitrate: N/A
+  Program 5186 
+    Metadata:
+      service_name    : ID
+      service_provider: Splius
+    Stream #0:0[0x3ef]: Video: h264 (Main) ([27][0][0][0] / 0x001B), yuv420p(top first), 720x576 [SAR 16:11 DAR 20:11], 25 fps, 25 tbr, 90k tbn, 50 tbc
+    Stream #0:1[0x3f0](eng): Audio: mp2 ([4][0][0][0] / 0x0004), 48000 Hz, stereo, s16p, 192 kb/s
+    Stream #0:2[0x3f2](rus): Audio: mp2 ([4][0][0][0] / 0x0004), 48000 Hz, stereo, s16p, 192 kb/s
+ 
+udp://@233.136.41.187:1234: Input/output error
+[h264 @ 0x564d0be1d400] Increasing reorder buffer to 2
+Input #0, mpegts, from 'udp://@233.136.41.188:1234':
+  Duration: N/A, start: 40344.973233, bitrate: N/A
+  Program 5188 
+    Metadata:
+      service_name    : Zhara
+      service_provider: Splius
+    Stream #0:0[0x79]: Video: h264 (High) ([27][0][0][0] / 0x001B), yuv420p(tv, bt470bg, top first), 720x576 [SAR 16:11 DAR 20:11], 25 fps, 50 tbr, 90k tbn, 50 tbc
+    Stream #0:1[0x7c](rus): Audio: mp2 ([4][0][0][0] / 0x0004), 48000 Hz, stereo, s16p, 192 kb/s
+ 
+udp://@233.136.41.189:1234: Input/output error
+ 
+udp://@233.136.41.190:1234: Input/output error
+ 
+Input #0, mpegts, from 'udp://@233.136.41.191:1234':
+  Duration: N/A, start: 40351.179156, bitrate: N/A
+  Program 5191 
+    Metadata:
+      service_name    : ?Avto plius
+      service_provider: Splius
+    Stream #0:0[0x8d]: Video: h264 (High) ([27][0][0][0] / 0x001B), yuv420p(tv, bt470bg, top first), 720x576 [SAR 16:11 DAR 20:11], 25 fps, 50 tbr, 90k tbn, 50 tbc
+    Stream #0:1[0x90](rus): Audio: mp2 ([4][0][0][0] / 0x0004), 48000 Hz, stereo, s16p, 192 kb/s
+ 
+udp://@233.136.41.192:1234: Input/output error
+ 
+udp://@233.136.41.193:1234: Input/output error
+ 
+    Last message repeated 1 times
+[h264 @ 0x560fbbc7d400] Increasing reorder buffer to 2
+Input #0, mpegts, from 'udp://@233.136.41.194:1234':
+  Duration: N/A, start: 40358.146000, bitrate: N/A
+  Program 5194 
+    Metadata:
+      service_name    : ?Kinokomedia
+      service_provider: Splius
+    Stream #0:0[0xd0]: Video: h264 (High) ([27][0][0][0] / 0x001B), yuv420p(tv, bt470bg, top first), 720x576 [SAR 16:11 DAR 20:11], 25 fps, 50 tbr, 90k tbn, 50 tbc
+    Stream #0:1[0x134](rus): Audio: mp2 ([4][0][0][0] / 0x0004), 48000 Hz, stereo, s16p, 192 kb/s
+ 
+udp://@233.136.41.195:1234: Input/output error
+ 
+udp://@233.136.41.196:1234: Input/output error
+ 
+udp://@233.136.41.197:1234: Input/output error
+ 
+udp://@233.136.41.198:1234: Input/output error
+ 
+udp://@233.136.41.199:1234: Input/output error
+ 
+udp://@233.136.41.200:1234: Input/output error
+ 
+udp://@233.136.41.201:1234: Input/output error
+ 
+udp://@233.136.41.202:1234: Input/output error
+ 
+    Last message repeated 1 times
+[h264 @ 0x5556a9ed6420] Increasing reorder buffer to 2
+Input #0, mpegts, from 'udp://@233.136.41.203:1234':
+  Duration: N/A, start: 40412.747900, bitrate: N/A
+  Program 5203 
+    Metadata:
+      service_name    : ?AMC
+      service_provider: Splius
+    Stream #0:0[0xd4]: Video: h264 (High) ([27][0][0][0] / 0x001B), yuv420p(tv, bt470bg, top first), 720x576 [SAR 16:11 DAR 20:11], 25 fps, 50 tbr, 90k tbn, 50 tbc
+    Stream #0:1[0x19c](eng): Audio: mp2 ([4][0][0][0] / 0x0004), 48000 Hz, stereo, s16p, 128 kb/s
+    Stream #0:2[0x19d](rus): Audio: mp2 ([4][0][0][0] / 0x0004), 48000 Hz, stereo, s16p, 128 kb/s
+ 
+udp://@233.136.41.204:1234: Input/output error
+ 
+udp://@233.136.41.205:1234: Input/output error
+ 
+udp://@233.136.41.206:1234: Input/output error
+ 
+udp://@233.136.41.207:1234: Input/output error
+ 
+udp://@233.136.41.208:1234: Input/output error
+ 
+udp://@233.136.41.209:1234: Input/output error
+ 
+udp://@233.136.41.210:1234: Input/output error
+ 
+udp://@233.136.41.211:1234: Input/output error
+ 
+udp://@233.136.41.212:1234: Input/output error
+ 
+udp://@233.136.41.213:1234: Input/output error
+ 
+udp://@233.136.41.214:1234: Input/output error
+ 
+udp://@233.136.41.215:1234: Input/output error
+ 
+udp://@233.136.41.216:1234: Input/output error
+ 
+udp://@233.136.41.217:1234: Input/output error
+ 
+udp://@233.136.41.218:1234: Input/output error
+ 
+Input #0, mpegts, from 'udp://@233.136.41.219:1234':
+  Duration: N/A, start: 14409.499756, bitrate: N/A
+  Program 5219 
+    Metadata:
+      service_name    : Euronews English HD
+      service_provider: Splius
+    Stream #0:0[0x5a1]: Video: h264 (Main) ([27][0][0][0] / 0x001B), yuv420p(tv, bt709, top first), 1920x1080 [SAR 1:1 DAR 16:9], 25 fps, 50 tbr, 90k tbn, 50 tbc
+    Stream #0:1[0x5a4](eng): Audio: mp2 ([4][0][0][0] / 0x0004), 48000 Hz, stereo, s16p, 192 kb/s
+ 
+udp://@233.136.41.220:1234: Input/output error
+ 
+udp://@233.136.41.221:1234: Input/output error
+ 
+udp://@233.136.41.222:1234: Input/output error
+ 
+[mpeg2video @ 0x560cb62be400] Invalid frame dimensions 0x0.
+    Last message repeated 6 times
+Input #0, mpegts, from 'udp://@233.136.41.223:1234':
+  Duration: N/A, start: 57060.015678, bitrate: N/A
+  Program 5223 
+    Metadata:
+      service_name    : Nickelodeon
+      service_provider: Splius
+    Stream #0:0[0x1fa]: Video: mpeg2video (Main) ([2][0][0][0] / 0x0002), yuv420p(tv, top first), 720x576 [SAR 64:45 DAR 16:9], 25 fps, 25 tbr, 90k tbn, 50 tbc
+    Stream #0:1[0x1fc](lit): Audio: mp2 ([3][0][0][0] / 0x0003), 48000 Hz, mono, s16p, 96 kb/s
+    Stream #0:2[0x1fd](eng): Audio: mp2 ([3][0][0][0] / 0x0003), 48000 Hz, stereo, s16p, 192 kb/s
+    Stream #0:3[0x1fe](rus): Audio: mp2 ([3][0][0][0] / 0x0003), 48000 Hz, stereo, s16p, 192 kb/s
+ 
+[mpeg2video @ 0x5649177ef400] Invalid frame dimensions 0x0.
+    Last message repeated 4 times
+[mp2 @ 0x5649177f0640] Header missing
+Input #0, mpegts, from 'udp://@233.136.41.224:1234':
+  Duration: N/A, start: 71020.010578, bitrate: N/A
+  Program 5224 
+    Metadata:
+      service_name    : Nick Jr
+      service_provider: Splius
+    Stream #0:0[0xc27]: Video: mpeg2video (Main) ([2][0][0][0] / 0x0002), yuv420p(tv, top first), 720x576 [SAR 64:45 DAR 16:9], 25 fps, 25 tbr, 90k tbn, 50 tbc
+    Stream #0:1[0xc29](eng): Audio: mp2 ([4][0][0][0] / 0x0004), 48000 Hz, stereo, s16p, 256 kb/s
+ 
+udp://@233.136.41.225:1234: Input/output error
+ 
+udp://@233.136.41.226:1234: Input/output error
+ 
+udp://@233.136.41.227:1234: Input/output error
+ 
+udp://@233.136.41.228:1234: Input/output error
+ 
+udp://@233.136.41.229:1234: Input/output error
+ 
+udp://@233.136.41.230:1234: Input/output error
+ 
+udp://@233.136.41.231:1234: Input/output error
+ 
+udp://@233.136.41.232:1234: Input/output error
+ 
+Input #0, mpegts, from 'udp://@233.136.41.233:1234':
+  Duration: N/A, start: 55078.164244, bitrate: N/A
+  Program 5233 
+    Metadata:
+      service_name    : FOX
+      service_provider: Splius
+    Stream #0:0[0xb19]: Video: h264 (Main) ([27][0][0][0] / 0x001B), yuv420p(top first), 720x576 [SAR 64:45 DAR 16:9], 25 fps, 50 tbr, 90k tbn, 50 tbc
+    Stream #0:1[0xb1a](eng): Audio: mp2 ([3][0][0][0] / 0x0003), 48000 Hz, stereo, s16p, 192 kb/s
+    Stream #0:2[0xb1c](rus): Audio: mp2 ([3][0][0][0] / 0x0003), 48000 Hz, stereo, s16p, 192 kb/s
+    Stream #0:3[0xb22](lit): Subtitle: dvb_subtitle ([6][0][0][0] / 0x0006)
+ 
+Input #0, mpegts, from 'udp://@233.136.41.234:1234':
+  Duration: N/A, start: 55090.015589, bitrate: N/A
+  Program 5234 
+    Metadata:
+      service_name    : Fox Life
+      service_provider: Splius
+    Stream #0:0[0xb2d]: Video: h264 (Main) ([27][0][0][0] / 0x001B), yuv420p(top first), 720x576 [SAR 64:45 DAR 16:9], 25 fps, 50 tbr, 90k tbn, 50 tbc
+    Stream #0:1[0xb2e](eng): Audio: mp2 ([3][0][0][0] / 0x0003), 48000 Hz, stereo, s16p, 192 kb/s
+    Stream #0:2[0xb30](rus): Audio: mp2 ([3][0][0][0] / 0x0003), 48000 Hz, stereo, s16p, 192 kb/s
+    Stream #0:3[0xb36](lit): Subtitle: dvb_subtitle ([6][0][0][0] / 0x0006)
+ 
+Input #0, mpegts, from 'udp://@233.136.41.235:1234':
+  Duration: N/A, start: 39169.949489, bitrate: N/A
+  Program 5235 
+    Metadata:
+      service_name    : National Geographic Channel
+      service_provider: Splius
+    Stream #0:0[0xb41]: Video: h264 (Main) ([27][0][0][0] / 0x001B), yuv420p(top first), 720x576 [SAR 64:45 DAR 16:9], 25 fps, 50 tbr, 90k tbn, 50 tbc
+    Stream #0:1[0xb42](eng): Audio: mp2 ([3][0][0][0] / 0x0003), 48000 Hz, stereo, s16p, 192 kb/s
+    Stream #0:2[0xb44](rus): Audio: mp2 ([3][0][0][0] / 0x0003), 48000 Hz, stereo, s16p, 192 kb/s
+ 
+Input #0, mpegts, from 'udp://@233.136.41.236:1234':
+  Duration: N/A, start: 78433.592689, bitrate: N/A
+  Program 5236 
+    Metadata:
+      service_name    : National Geographic Wild
+      service_provider: Splius
+    Stream #0:0[0xb55]: Video: h264 (Main) ([27][0][0][0] / 0x001B), yuv420p(top first), 720x576 [SAR 64:45 DAR 16:9], 25 fps, 50 tbr, 90k tbn, 50 tbc
+    Stream #0:1[0xb56](eng): Audio: mp2 ([3][0][0][0] / 0x0003), 48000 Hz, stereo, s16p, 192 kb/s
+    Stream #0:2[0xb58](rus): Audio: mp2 ([3][0][0][0] / 0x0003), 48000 Hz, stereo, s16p, 192 kb/s
+ 
+[h264 @ 0x55bc760f7400] Increasing reorder buffer to 3
+Input #0, mpegts, from 'udp://@233.136.41.237:1234':
+  Duration: N/A, start: 44525.811956, bitrate: N/A
+  Program 5237 
+    Metadata:
+      service_name    : ?Disney Junior
+      service_provider: Splius
+    Stream #0:0[0x349]: Video: h264 (High) ([27][0][0][0] / 0x001B), yuv420p(tv, bt470bg, top first), 720x576 [SAR 16:11 DAR 20:11], 25 fps, 25 tbr, 90k tbn, 50 tbc
+    Stream #0:1[0x34f](eng): Audio: mp2 ([3][0][0][0] / 0x0003), 48000 Hz, stereo, s16p, 192 kb/s
+    Stream #0:2[0x350](rus): Audio: mp2 ([3][0][0][0] / 0x0003), 48000 Hz, stereo, s16p, 256 kb/s
+ 
+udp://@233.136.41.238:1234: Input/output error
+ 
+udp://@233.136.41.239:1234: Input/output error
+ 
+udp://@233.136.41.240:1234: Input/output error
+ 
+udp://@233.136.41.241:1234: Input/output error
+ 
+udp://@233.136.41.242:1234: Input/output error
+ 
+udp://@233.136.41.243:1234: Input/output error
+ 
+udp://@233.136.41.244:1234: Input/output error
+ 
+udp://@233.136.41.245:1234: Input/output error
+ 
+udp://@233.136.41.246:1234: Input/output error
+ 
+udp://@233.136.41.247:1234: Input/output error
+ 
+udp://@233.136.41.248:1234: Input/output error
+ 
+udp://@233.136.41.249:1234: Input/output error
+ 
+udp://@233.136.41.250:1234: Input/output error
+ 
+udp://@233.136.41.251:1234: Input/output error
+ 
+udp://@233.136.41.252:1234: Input/output error
+ 
+udp://@233.136.41.253:1234: Input/output error
+ 
+udp://@233.136.41.254:1234: Input/output error
