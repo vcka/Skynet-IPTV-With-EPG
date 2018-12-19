@@ -11,7 +11,7 @@ udp://@233.136.41.170:1234
 #EXTINF:-1,LRT Lituanica
 udp://@233.136.41.147:1234
 
-#EXTINF:-1,LRT Kultūra
+#EXTINF:-1,LRT Plius
 udp://@233.136.41.171:1234
 
 # HD
@@ -21,8 +21,16 @@ udp://@239.255.12.13:1234
 #EXTINF:-1,TV3
 udp://@239.255.13.4:1234
 
+#HD
+#EXTINF:-1,LNK
+udp://@239.255.12.25:1234
+
 #EXTINF:-1,LNK
 udp://@239.255.13.28:1234
+
+#HD
+#EXTINF:-1,BTV
+udp://@239.255.12.26:1234
 
 #EXTINF:-1,BTV
 udp://@233.136.41.20:1234
@@ -33,6 +41,10 @@ udp://@239.255.12.8:1234
 
 #EXTINF:-1,Lietuvos ryto televizija
 udp://@239.255.13.7:1234
+
+#HD
+#EXTINF:-1,TV1
+udp://@239.255.12.27:1234
 
 #EXTINF:-1,TV1
 udp://@239.255.13.9:1234
@@ -48,6 +60,10 @@ udp://@239.255.12.4:1234
 
 #EXTINF:-1,TV1000 Premium
 udp://@233.136.41.119:1234
+
+#HD
+#EXTINF:-1,Info TV
+udp://@239.255.12.28:1234
 
 #EXTINF:-1,Info TV
 udp://@233.136.41.177:1234
@@ -77,14 +93,15 @@ udp://@233.136.41.178:1234
 
 # SPORTS ########################################
 
+#HD
 #EXTINF:-1,TVPlay Sports
 udp://@239.255.12.10:1234
 
-#EXTINF:-1,TVPlay Sports +
-udp://239.255.12.74:1234
-
-#EXTINF:-1,Viasat Sport Baltic
+#EXTINF:-1,TVPlay Sports
 udp://@233.136.41.36:1234
+
+#EXTINF:-1,TVPlay Sports +
+udp://@239.255.12.74:1234
 
 #EXTINF:-1,Viasat Motor
 udp://@233.136.41.125:1234
