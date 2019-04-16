@@ -2,8 +2,8 @@
 # tag example tvg-name=""
 
 # HD
-#EXTINF:-1,LRT Televizija
-udp://@233.136.41.158:1234
+#EXTINF:-1,Viaplay Sport+
+http://tv.ynga.lt:5005/udp/233.132.130.11:1234
 
 #EXTINF:-1,LRT Televizija
 udp://@233.136.41.170:1234
