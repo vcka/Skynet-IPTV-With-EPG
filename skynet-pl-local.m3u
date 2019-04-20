@@ -1,6 +1,7 @@
 ﻿#EXTM3U
 # tag example tvg-name=""
-
+#EXTINF:-1 tvg-ID="Galaxy TV" tvg-name="Galaxy TV" group-title="Science",Galaxy TV
+http://50.7.144.75:8081/galaxy/index.m3u8?wmsAuthSign=a9c1c69736bdec36570337c94e97ece2-1549908248-912i302i65i87
 # HD
 #EXTINF:-1,Viaplay Sport+
 http:///udp/233.132.130.11:1234
